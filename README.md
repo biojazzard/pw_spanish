@@ -4,10 +4,11 @@ pw_spanish
 ## Spanish [es_ES] Laanguage Pack
 ### for ProcessWire
 
-This is compilation mainly.
-I´ve added some files and corrected minor fixes for ProcessWire 2.4
+Started as acompilation mainly.
 
-Main Source was found here:
+I´ve added a lot of phrases, added new files, and fixed things for ProcessWire 2.4
+
+I started here:
 [jacmaes](http://modules.processwire.com/authors/jacmaes/)
 
 ## Installation
