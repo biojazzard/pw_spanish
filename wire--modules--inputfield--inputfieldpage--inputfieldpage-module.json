@@ -1,33 +1,102 @@
 {
-    "file": "wire\/modules\/Inputfield\/InputfieldPage\/InputfieldPage.module",
+    "file": "wire\\modules\\Inputfield\\InputfieldPage\\InputfieldPage.module",
     "textdomain": "wire--modules--inputfield--inputfieldpage--inputfieldpage-module",
     "translations": {
         "4349c31cba02549f2043d69b9eb0d66e": {
-            "text": "(sin publicar)"
-        },
-        "49e5878c7a1901b0a9baae9e0c774150": {
-            "text": "A\u00f1adir"
-        },
-        "f0670991d41b78617ca7810b7ce334b9": {
-            "text": "La p\u00e1gina %s ha sido creada"
-        },
-        "29b43e0c70cb336d03f04f3f06a8789d": {
-            "text": "Error al crear la p\u00e1gina %s"
-        },
-        "81eeab9506186e2dca8faefa78d54067": {
-            "text": "Ejemplo"
-        },
-        "6f8d1b93e4aad53511c85e29ed36b3d0": {
-            "text": "(por defecto)"
-        },
-        "b82b34c94588fc88ca4a6b18f5e18aef": {
-            "text": "Introduce el t\u00edtulo de elemento que quieres a\u00f1adir. Lo podr\u00e1s seleccionar despu\u00e9s de guardar la p\u00e1gina."
-        },
-        "e3cada644043c81e6ff21250f2e53f3a": {
-            "text": "Las nuevas p\u00e1ginas se a\u00f1adir\u00e1n a %s"
+            "text": "(Despublicado)"
         },
         "6dc3e540b29f68e1eaf558b6a2edd476": {
-            "text": "Introduce los t\u00edtulos de los elementos que quieres a\u00f1adir, cada uno en una l\u00ednea. Se a\u00f1adir\u00e1n a tu selecci\u00f3n al guardar la p\u00e1gina."
+            "text": "Introduzca los t\u00edtulos de los elementos que quieres a\u00f1adir, uno por l\u00ednea. Ellos ser\u00e1n creados y agregados a su selecci\u00f3n al guardar la p\u00e1gina."
+        },
+        "b82b34c94588fc88ca4a6b18f5e18aef": {
+            "text": "Introduzca el t\u00edtulo del art\u00edculo desea agregar. Llegar\u00e1 a ser seleccionado al guardar la p\u00e1gina."
+        },
+        "e3cada644043c81e6ff21250f2e53f3a": {
+            "text": "Se a\u00f1adir\u00e1n nuevas p\u00e1ginas a %s"
+        },
+        "49e5878c7a1901b0a9baae9e0c774150": {
+            "text": "Crear nuevo"
+        },
+        "f0670991d41b78617ca7810b7ce334b9": {
+            "text": "P\u00e1gina creada %s"
+        },
+        "29b43e0c70cb336d03f04f3f06a8789d": {
+            "text": "Error al a\u00f1adir la p\u00e1gina \"%s\""
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Ejemplo:"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(Por defecto)"
+        },
+        "962f1366aaa6f1c636d3214e12322362": {
+            "text": "P\u00e1ginas Seleccionables"
+        },
+        "21348aafc8733099a5b3c20e4a90e7b4": {
+            "text": "Padres de p\u00e1gina seleccionable (s)"
+        },
+        "5b0591013bf2cac5ee96f90e31a5b2e9": {
+            "text": "Seleccione la matriz de las p\u00e1ginas que se pueden seleccionar."
+        },
+        "dceea0994df5640514b906a18a43810f": {
+            "text": "Plantilla de p\u00e1gina seleccionable (s)"
+        },
+        "9f80067ff42d8e69d0c3a24b67ef4c85": {
+            "text": "Seleccione la plantilla de las p\u00e1ginas que se pueden seleccionar. Puede ser utilizado en lugar de, o adem\u00e1s de, el padre anteriormente. NOTA: No es compatible con los tipos de campos de entrada PageListSelect."
+        },
+        "53158583a607fba6e71f0f18d73a910b": {
+            "text": "Selector personalizada para encontrar las p\u00e1ginas seleccionables"
+        },
+        "6ad160329dd81f9ecede290bffe93928": {
+            "text": "Si usted quiere encontrar p\u00e1ginas seleccionables mediante un selector ProcessWire en lugar de seleccionar una p\u00e1gina matriz o plantilla (arriba) y luego entrar en el selector para encontrar las p\u00e1ginas seleccionables. find(\"your selector\");\" onmouseover=\"this.style.backgroundColor='#ebeff9'\" onmouseout=\"this.style.backgroundColor='#fff'\">Este selector se pasar\u00e1 a un $ p\u00e1ginas-> find (\"el selector\"); comunicado. NOTA: No es actualmente compatible con los tipos de campos de entrada PageListSelect."
+        },
+        "d04c6c77608855a3ff0fb3ee32a2cd53": {
+            "text": "C\u00f3digo PHP personalizado para encontrar las p\u00e1ginas seleccionables"
+        },
+        "5b2e8722316eee4b8e200d6d07b51915": {
+            "text": "Si usted quiere encontrar p\u00e1ginas seleccionables utilizando un fragmento de c\u00f3digo PHP en lugar de seleccionar una p\u00e1gina matriz o plantilla (arriba) y luego introducir el c\u00f3digo para encontrar las p\u00e1ginas seleccionables. Esta declaraci\u00f3n tiene acceso a la p\u00e1gina $ $ y p\u00e1ginas variables de la API, donde $ p\u00e1gina se refiere a la p\u00e1gina que se est\u00e1 editando. El fragmento de c\u00f3digo debe devolver, ya sea un PageArray o NULL. Usando esto es opcional, y si se utiliza, anula los campos padre \/ plantilla \/ selector arriba. NOTA: No es compatible con PageListSelect o Autocompletar tipos de campos de entrada."
+        },
+        "b329c0bc717cd35d04a9362fc0d778c2": {
+            "text": "return $page->parent->parent->children(\"name=locations\")->first()->children();"
+        },
+        "bb990f9776c28444dad4fa48fb2c946c": {
+            "text": "El campo Etiqutea"
+        },
+        "e5c1791ec6a73eed5d8a7002e2799470": {
+            "text": "Seleccione el campo de p\u00e1gina que desea utilizar en la generaci\u00f3n de las etiquetas para cada p\u00e1gina seleccionable."
+        },
+        "881b1a7b97bc4d70099cc59a53e8a8e5": {
+            "text": "Tipo de campo de entrada"
+        },
+        "bcf331523fb730639bde7c2e8fc4f811": {
+            "text": "El tipo de campo que se utiliza para seleccionar una p\u00e1gina. Seleccione uno que es consistente con la p\u00e1gina solo frente de varias p\u00e1ginas necesidades que eligi\u00f3 en la pesta\u00f1a \"Detalles\" de este campo."
+        },
+        "195a66e99428447940ac989366724b42": {
+            "text": "Tipos se\u00f1alados con un asterisco son para la selecci\u00f3n de varias p\u00e1ginas."
+        },
+        "54b79da80ed98094797b9e3ee68488a6": {
+            "text": "Tipos indicados con un + suponen un \"padre\" que es la ra\u00edz de un \u00e1rbol, en lugar de un padre inmediato."
+        },
+        "8332fcbd80839cdcc617bee49529ad1e": {
+            "text": "Permitir nuevas p\u00e1ginas que se crean a partir del campo?"
+        },
+        "20463a1675fc256b438538124524746a": {
+            "text": "Si se marca, una opci\u00f3n para a\u00f1adir nueva p\u00e1gina (s) tambi\u00e9n estar\u00e1 presente si se cumplen los requisitos se\u00f1alados."
+        },
+        "7673446b991c59998763308c9f7f5d53": {
+            "text": "1. Tanto un padre y la plantilla deben ser seleccionados anteriormente."
+        },
+        "65a208c6491dac4a6fb17f7a62f76658": {
+            "text": "2. El usuario debe tener acceso de edici\u00f3n para crear \/ publicar estas p\u00e1ginas."
+        },
+        "aa2e4d260721b3a7e2776b8cb9c19fdf": {
+            "text": "3.-El campo de etiqueta se debe establecer en \"t\u00edtulo (por defecto)\"."
+        },
+        "d9a5927aa49f1a766a15e692b69c1c91": {
+            "text": "M\u00f3dulos InputField disponibles para la selecci\u00f3n de la p\u00e1gina"
+        },
+        "d5a1e1e864827e2bbb99d144e30359de": {
+            "text": "Seleccionar los m\u00f3dulos InputField que pueden utilizarse para la selecci\u00f3n de p\u00e1gina. Estos por lo general deben ser InputFields que le permiten seleccionar una o m\u00e1s opciones."
         }
     }
 }

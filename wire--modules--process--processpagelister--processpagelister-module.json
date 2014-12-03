@@ -1,5 +1,5 @@
 {
-    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageLister.module",
+    "file": "wire\\modules\\Process\\ProcessPageLister\\ProcessPageLister.module",
     "textdomain": "wire--modules--process--processpagelister--processpagelister-module",
     "translations": {
         "49ee3087348e8d44e1feda1917443987": {
@@ -21,34 +21,52 @@
             "text": "Plantilla"
         },
         "ec53a8c4f07baed5d8825072c89799be": {
-            "text": "Estatus"
+            "text": "Estado"
         },
         "30269022e9d8f51beaabb52e5d0de2b7": {
-            "text": "P\u00e1gina de nivel superior"
+            "text": "Padre"
         },
         "7acdf85c69cc3c5305456a293524386e": {
-            "text": "Escondido"
+            "text": "Oculto"
         },
         "0774e163cd7df482edd2abd498189f8b": {
-            "text": "Sin publicar"
+            "text": "Despublicado"
         },
         "d0f2e5376298c880665077b565ffd7dd": {
-            "text": "Cerrado"
+            "text": "Bloqueado"
         },
         "a7e253cd8dd95da3e20daf45519a8dc2": {
             "text": "Papelera"
+        },
+        "57c17efa48d527f45393fdbf800500a0": {
+            "text": "Marcador no reconocido o el marcador ya no est\u00e1 activo"
         },
         "f3f43e30c8c7d78c6ac0173515e57a00": {
             "text": "Filtros"
         },
         "860515850b6c6beae4343c42ecf3060f": {
-            "text": "A\u00f1adir filtro"
+            "text": "Agregar filtro"
         },
         "d050438ea9af830fff49ddbbad2218b0": {
             "text": "Columnas por defecto"
         },
+        "6d0999f49ddabda93eae8276595abe62": {
+            "text": "Seleccionar y ordenar las columnas que se mostrar\u00e1n en la tabla de lista de p\u00e1ginas."
+        },
+        "97bff91e1e9c0a1d8a8cc9a0c1ae88fc": {
+            "text": "El usuario puede, opcionalmente, el cambio que se muestran las columnas, por lo que estos se acaba de servir como los valores por defecto."
+        },
+        "0e305a04b5eb6dc8bf502625710a74d3": {
+            "text": "Los cambios que realice aqu\u00ed deben reflejarse de inmediato en los resultados de abajo."
+        },
+        "60170ad1f8db03dc180ee0ced484b19f": {
+            "text": "\u00bfQu\u00e9 columnas se mostraran en los resultados?"
+        },
+        "0c8ee3eeadc96eeeeb24e2a6dc9d4a5e": {
+            "text": "\u00bfQu\u00e9 p\u00e1ginas para mostrar"
+        },
         "e4ef81cce7e4e10033ebb10962dfdd5e": {
-            "text": "Vac\u00edo"
+            "text": "En blanco"
         },
         "de95b43bceeb4b998aed4aed5cef1ae7": {
             "text": "editar"
@@ -60,40 +78,19 @@
             "text": "nuevo"
         },
         "3b8769d187c6c3306c50729bc43a9903": {
-            "text": "Sin resultados"
-        },
-        "de9ced9bf5e9829de4a93ad8c9d7a170": {
-            "text": "A\u00f1adir"
-        },
-        "590345301b23eb45c176da0fc139b191": {
-            "text": "Columnas"
-        },
-        "57c17efa48d527f45393fdbf800500a0": {
-            "text": "Marcador desconocido o marcador ya no activo"
-        },
-        "0e305a04b5eb6dc8bf502625710a74d3": {
-            "text": "Los cambios que realizas aqu\u00ed se reflejar\u00e1n inmediatamente en los resultados debajo."
-        },
-        "60170ad1f8db03dc180ee0ced484b19f": {
-            "text": "Elige las columnas que se ver\u00e1n en la tabla de los resultados"
-        },
-        "0c8ee3eeadc96eeeeb24e2a6dc9d4a5e": {
-            "text": "Elige uno o m\u00e1s filtros a continuaci\u00f3n"
-        },
-        "7b0fb34fcab89b5e58429e5e917b98bb": {
-            "text": "Todos los ajustes se han restablicado"
+            "text": "No hay resultados."
         },
         "ef7de3f485174ff47f061ad27d83d0ee": {
             "text": "seleccionado"
         },
-        "97bff91e1e9c0a1d8a8cc9a0c1ae88fc": {
-            "text": "El usuario puede cambiar, opcionalmente, las columnas que se muestran, y \u00e9stas se convertir\u00e1n en las columnas que se muestran por defecto."
+        "7b0fb34fcab89b5e58429e5e917b98bb": {
+            "text": "Todos los ajustes se han reiniciado."
         },
-        "6d0999f49ddabda93eae8276595abe62": {
-            "text": "Selecciona y ordena las columnas que se mostrar\u00e1n en la tabla."
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Crear Nuevo"
         },
-        "a5158728109d8e67ae31b7b02bdc8b86": {
-            "text": "De %1$d a %2$d de un total de %3$d"
+        "590345301b23eb45c176da0fc139b191": {
+            "text": "Columnas"
         }
     }
 }

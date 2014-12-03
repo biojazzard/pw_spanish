@@ -1,0 +1,120 @@
+{
+    "file": "wire\\modules\\Process\\ProcessField\\ProcessFieldExportImport.php",
+    "textdomain": "wire--modules--process--processfield--processfieldexportimport-php",
+    "translations": {
+        "71eaa2b13692809e39c2f0c36e7f1d7f": {
+            "text": "Seleccione los campos que desea exportar"
+        },
+        "ad32e604e17467fc435538334fbddf3e": {
+            "text": "NOMBRE"
+        },
+        "6f434c508ad901b8667ed22f713e52bb": {
+            "text": "ETIQUETA"
+        },
+        "948495146facadfe8859789036313d79": {
+            "text": "TIPO"
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "Shift+Click para seleccionar m\u00faltiples. Ctrl+Click (or Cmd+Click) seleccionar m\u00faltiples individualmente. Ctrl+A (or Cmd+A)  para seleccionar todos."
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Exportar datos"
+        },
+        "6af8cf07d769a110f0b2483692ef424c": {
+            "text": "Copiar y pegar estos datos en la caja de \"importaci\u00f3n\" de otra instalaci\u00f3n."
+        },
+        "9d823cda278191490c2a99bbb912cc9d": {
+            "text": "Haga clic en cualquier parte del cuadro para seleccionar todos los datos de exportaci\u00f3n. Una vez seleccionado, copiar los datos con CTRL-C o CMD-C."
+        },
+        "dce8c8fe6bdf804f2a98384dedea1360": {
+            "text": "Pegar en los datos de una exportaci\u00f3n."
+        },
+        "139ef19d3b2f902827257b2ebc33d708": {
+            "text": "Copie los datos de exportaci\u00f3n de otra instalaci\u00f3n y luego pegar en el cuadro de arriba con CTRL-V o CMD-V."
+        },
+        "31fde7b05ac8952dacf4af8a704074ec": {
+            "text": "Previsualizaci\u00f3n"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "nuevo"
+        },
+        "c112bb3542e98308d12d5ecb10a67abc": {
+            "text": "Cambios"
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "Propiedad"
+        },
+        "56f05ff480907494bd933f4ad4faf9e2": {
+            "text": "Antiguo valor"
+        },
+        "943f335b83ec6549ef45388ececff4e1": {
+            "text": "Valor nuevo"
+        },
+        "939704657d1c6c48005bdb67bc14ee75": {
+            "text": "Se recomienda cambiar el tipo de este campo a \"%s\" manualmente, luego volver aqu\u00ed para aplicar los cambios adicionales."
+        },
+        "34eb90456e45e06048e287f649c4fba0": {
+            "text": "No hay cambios pendientes."
+        },
+        "c4fd77379e1e463339786fbbc671068c": {
+            "text": "Modificar este campo?"
+        },
+        "2f4ddf245d305802ffed479ba3b88451": {
+            "text": "Crear este campo?"
+        },
+        "83e14aace19687fe9e1fbb8f913bf569": {
+            "text": "haga clic en S\u00ed para mostrar los cambios"
+        },
+        "47a35a358887cc2c9994fb517d6a2b0b": {
+            "text": "A veces puede tomar dos cambios antes de aplicar todos los cambios. Por favor revisar todos los cambios pendientes inferiores y comprometerse cuando sea necesario."
+        },
+        "b2ba5835eaaa55607da59f696dcd4a87": {
+            "text": "Por favor, revise los cambios a continuaci\u00f3n y cometerlos cuando est\u00e9 listo. Si hay alg\u00fan cambio que usted no desea aplicar, desactive las casillas en su caso."
+        },
+        "b604e6f64e19eea098f6d87c63552c53": {
+            "text": "Guardar cambios"
+        },
+        "16babeb0401a3e00da9891b97e94d6fe": {
+            "text": "Sus cambios se han aplicado!"
+        },
+        "15055fb4c054396bf293c21c12c578be": {
+            "text": "No se encontraron cambios"
+        },
+        "426de2596501a3cff8977e60c271889c": {
+            "text": "Guardado:"
+        },
+        "22e3e6ff427708ffbb7a54e2e91bc99e": {
+            "text": "Campo agregado"
+        },
+        "9de8e0c21384ddfd634fd87a48f6b3b2": {
+            "text": "Campo Modificado"
+        },
+        "19b7fb53a85de3c8ba85672a91a7398b": {
+            "text": "Exportar"
+        },
+        "722034114c47bfa859a1be8200469fcf": {
+            "text": "Okay"
+        },
+        "e37dfad06455f0c5d79778a5020d946d": {
+            "text": "Importar"
+        },
+        "a7820bfdb5b31eb4ee4165f2c8bef779": {
+            "text": "S\u00ed"
+        },
+        "8ba486983cfbf272f154102c788863e6": {
+            "text": "Encontrada %d propiedad por aplicar"
+        },
+        "99dc52a2961a9de2d42d6dbd498b0103": {
+            "text": "A\u00f1adido %d campo"
+        },
+        "46b6c6eede6b98b8ac580770f6215f35": {
+            "text": "A\u00f1adidos %d campos"
+        },
+        "0ecf1cc5ca067272faabd8c0900efe68": {
+            "text": "Modificado %d campo"
+        },
+        "18e7924633aa136c8b5ba3827b3f7058": {
+            "text": "Modificados %d campos"
+        }
+    }
+}

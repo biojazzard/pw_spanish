@@ -1,0 +1,39 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselect-module",
+    "translations": {
+        "6b66a61fa66288a9a7ad6474d2e686ec": {
+            "text": "Valor por defecto"
+        },
+        "c37baf4e64db68f6887058399a37ad60": {
+            "text": "Para tener un valor por defecto preseleccionada (s), introduzca los valores de opciones (una por l\u00ednea) a continuaci\u00f3n. Para las selecciones de p\u00e1gina, este ser\u00eda el n\u00famero (s) p\u00e1gina ID."
+        },
+        "d48cd2cb0f5c1d209800b28e019eb574": {
+            "text": "Esta opci\u00f3n del valor por defecto (s) est\u00e1 disponible porque ha marcado la casilla \"requerida\" por encima."
+        },
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "Opciones"
+        },
+        "3a4accfa68ff7300f67ad7d89e07770e": {
+            "text": "Introduzca las opciones que se pueden seleccionar, uno por l\u00ednea."
+        },
+        "6cdf2b7c6a202509ddad22ed4e6d1c3d": {
+            "text": "Para preceder a su lista con una opci\u00f3n en blanco, introduzca s\u00f3lo un signo igual \"=\" como la primera opci\u00f3n."
+        },
+        "378f6008c3dc6eb2be984683df372592": {
+            "text": "Para tener una opci\u00f3n seleccionada, precedido de un signo m\u00e1s. Ejemplo: +Mi Opci\u00f3n"
+        },
+        "75d2fefda1196dd14f506b0273ebed38": {
+            "text": "Para mantener un valor independiente y etiqueta, sep\u00e1relos con un signo de igual. Ejemplo: value=Mi Opci\u00f3n"
+        },
+        "663f303f44a9a25504e3c434fc37b34d": {
+            "text": "Para crear un (grupo de opciones) optgroup sangrar las opciones en el grupo con 3 o m\u00e1s espacios."
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Seleccionar"
+        },
+        "eed6fbc4de3755e7189b1461a4844bea": {
+            "text": "La selecci\u00f3n de un valor \u00fanico de un men\u00fa desplegable"
+        }
+    }
+}

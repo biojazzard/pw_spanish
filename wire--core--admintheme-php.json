@@ -1,0 +1,15 @@
+{
+    "file": "wire\\core\\AdminTheme.php",
+    "textdomain": "wire--core--admintheme-php",
+    "translations": {
+        "1e7f9a369b1d2688c0a9de0ba9adeb43": {
+            "text": "Selecciona el tema en tu perfil de usuario para activarlo."
+        },
+        "e3d8856720f3539d3fd3e02238f095ef": {
+            "text": "Instalado el campo admin_theme y a\u00f1adido a el perfil de usuario"
+        },
+        "40c0ca08425d862d797f41d0fe0ff368": {
+            "text": "Eliminado el campo admin_theme del sistema"
+        }
+    }
+}

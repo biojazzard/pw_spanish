@@ -1,0 +1,90 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile-module",
+    "translations": {
+        "3e560c05ba6d07bcd41ac1053b5b9437": {
+            "text": "El campo \"%s\" no est\u00e1 preparado para ser usado hasta que no se configure."
+        },
+        "a8d5114d10f7846bf0263c4e4207137e": {
+            "text": "Los ajustes a\u00fan no se han guardado."
+        },
+        "d950e30995efd1abcc2dc812404f03c5": {
+            "text": "Por favor, revise la configuraci\u00f3n de esta p\u00e1gina y guardar una vez m\u00e1s (incluso si usted no cambia nada) para confirmar que los acepta."
+        },
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "nombre del archivo"
+        },
+        "abc5c518b64936be795f070ed2adf84f": {
+            "text": "Extensiones soportadas"
+        },
+        "b3f2fb9ff683cc6bb4e353a8c443260c": {
+            "text": "Introduzca todas las extensiones de archivo permitidas por este campo de subida. Separe cada extensi\u00f3n por un espacio. No hay puntos ni comas. Este campo no distingue entre may\u00fasculas y min\u00fasculas."
+        },
+        "6231c154d164f467041abbb0151816dc": {
+            "text": "N\u00famero m\u00e1ximo de archivos permitidos"
+        },
+        "2383ea51d67a0b84eda10737be272a9e": {
+            "text": "0=Sin l\u00edmite"
+        },
+        "f217d0fdc1aad53234d09e7107b25316": {
+            "text": "Valor con formato"
+        },
+        "f09906b55a7a66786de08cb25550a2c8": {
+            "text": "Seleccione el tipo de valor que desea este campo para proporcionar cuando se accede desde la API en el front-end de su sitio."
+        },
+        "ffb520d31a51841782cf1cba617fc875": {
+            "text": "Cuando el formato de salida est\u00e1 apagado, el valor es siempre una array(WireArray)."
+        },
+        "6e7e8b4097cb9c2651e291b007b8efad": {
+            "text": "Autom\u00e1tica (solo art\u00edculo o nula cuando max archivos set a 1, array de elementos de otra manera)"
+        },
+        "b93d9ddf4fe98458456fa4a117acf665": {
+            "text": "Array de elementos"
+        },
+        "fd392fe52f347bbf7391f791b963416d": {
+            "text": "Un solo elemento (null si es va\u00edo)"
+        },
+        "6f836d738a527f80156286edc9d1f829": {
+            "text": "Cadena mostrada de texto (dada por ti)."
+        },
+        "ad3f5d66e216a4f1b65654b8b70d592f": {
+            "text": "Cadena renderizada de texto"
+        },
+        "fefb41e13016890d511b8d55d8057c37": {
+            "text": "Proporcionar la cadena prestados de texto que desea que la salida como el valor de este campo. Si el campo contiene varios elementos, esta cadena se representar\u00e1 varias veces. Si el campo contiene art\u00edculos, se utilizar\u00e1 una cadena en blanco."
+        },
+        "839047fe3f6109257399fe301ddb7912": {
+            "text": "Usted puede usar cualquiera de las siguientes etiquetas:"
+        },
+        "a1ede0a9a3c447cb83c7b6598dc556ff": {
+            "text": "El valor por defecto (cuando est\u00e1 vac\u00edo)"
+        },
+        "05ac72cc4df427baf9db44228a577ed7": {
+            "text": "Opcionalmente seleccionar una p\u00e1gina que contendr\u00e1 el valor por defecto (en este mismo campo). Es posible que desee crear una p\u00e1gina espec\u00edficamente para este prop\u00f3sito."
+        },
+        "b17288f2ed130badc7ac8919f95fd5f1": {
+            "text": "Formateadores de texto (para descripciones de archivo)"
+        },
+        "8d664d296530bbabc76043e4e499b272": {
+            "text": "Seleccionar una o m\u00e1s formateadores de texto (y su orden) que se aplicar\u00e1 a la descripci\u00f3n del archivo cuando el formato de salida est\u00e1 activo. El HTML Entidad Encoder se recomienda como m\u00ednimo."
+        },
+        "3fc82a72e38b059cea88dcfbdaeafff8": {
+            "text": "Utiliza Etiquetas?"
+        },
+        "3a37a820d95c0f598d6ea38f34716c31": {
+            "text": "Si se selecciona, el campo contendr\u00e1 tambi\u00e9n una opci\u00f3n para las etiquetas, adem\u00e1s de la descripci\u00f3n."
+        },
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Tipo de entrada de campo"
+        },
+        "23f8d89e38fb131310ab885bad04b966": {
+            "text": "El tipo de campo que se utiliza para recoger de entrada."
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Archivos"
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "Campo que almacena uno o m\u00e1s archivos"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeRepeater\\FieldtypeRepeater.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtyperepeater-module",
+    "translations": {
+        "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
+            "text": "Por favor, agregar campos de este repetidor desde la pesta\u00f1a \"Detalles\"."
+        },
+        "f41ae5ce37aeed3613288bb8c0cc3489": {
+            "text": "Definir los campos que se utilizan por este repetidor. Tambi\u00e9n puede arrastrar y colocar los campos en el orden deseado."
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Crear campo"
+        },
+        "028dbbda0ea85c6b4ff5f2c9b38495de": {
+            "text": "Ready-To-Edit Nuevo Repetidor de Art\u00edculos"
+        },
+        "903d3f840b615b110dd712afd0132f5f": {
+            "text": "El n\u00famero de art\u00edculos (no publicados) listos para editar por p\u00e1gina le ayudar\u00e1 a mantenerse prestados para su uso como elementos nuevos."
+        },
+        "e7fa825f7b362804c946096d4856f5ab": {
+            "text": "Si se establece en 0, los elementos nuevos s\u00f3lo se crear\u00e1n cuando sea necesario. Esta es la configuraci\u00f3n m\u00e1s eficiente."
+        },
+        "0130612d3e112f71601647fe1201aeda": {
+            "text": "Si se pone a 1 o superior, que muchos nuevos art\u00edculos estar\u00e1n listos para editar tan pronto como haga clic en \"agregar elemento\". Esto hace que para las adiciones m\u00e1s r\u00e1pidos."
+        },
+        "06f7e37d7cc093483d98d11772f75837": {
+            "text": "Max Art\u00edculos Repetidos"
+        },
+        "9175b33ed3085ade32188d58a242e0bc": {
+            "text": "El n\u00famero m\u00e1ximo de elementos de repetidor permitido."
+        },
+        "8db1e9fd86969c9e9ee4c09365c260a6": {
+            "text": "Si se establece en 0, no habr\u00e1 l\u00edmite m\u00e1ximo."
+        },
+        "f29a8c723be64c58c0e9f4cbd6c32a88": {
+            "text": "Si se establece en 1, este campo actuar\u00e1 como un solo elemento [Page] en lugar de varios elementos [PageArray]."
+        },
+        "66eb0d45c43394f51bdb0397febc5b4f": {
+            "text": "Tenga en cuenta que cuando outputFormatting est\u00e1 apagado, siempre se comportar\u00e1 como un PageArray independientemente de la configuraci\u00f3n aqu\u00ed."
+        },
+        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
+            "text": "Tipo Repetidor"
+        },
+        "cb1f0ec5795fd6ab9a2e980b428cfff5": {
+            "text": "Cuando 'adjunto' el repetidor gestionar\u00e1 su propia p\u00e1gina de la plantilla y los padres sin que tenga que ver o pensar en ello."
+        },
+        "e3d6af2ddc6a90779dd75a3f9c753d7f": {
+            "text": "Cuando 'desvinculas', puedes mover y modificar la p\u00e1gina principal repetidor y la plantilla como mejor le parezca."
+        },
+        "77e23d8e1ff8e93bfc6e188f62e409bd": {
+            "text": "Tenga en cuenta que una vez separados, ProcessWire no borrar\u00e1 el padre o plantilla cuando \/ si se elimina el campo."
+        },
+        "1f8c0e21410e1c136bf780fc141b35ae": {
+            "text": "Agregado de campo \"%1$s\" para repetidor \"%2$s\""
+        },
+        "f54c2540ded6390c6328b2838850482d": {
+            "text": "El campo ha eliminado \"%1$s\" de repetidor \"%2$s\""
+        },
+        "0fe1cc90d79ebfffb11a259cc05d406d": {
+            "text": "Padres p\u00e1gina% s ahora se separa y puede ser movido o modificado."
+        },
+        "d3b3350cb648f345b0a21a048df0cf45": {
+            "text": "Repetidor"
+        },
+        "64137776d10ddf89ff3087915287b872": {
+            "text": "Mantiene una colecci\u00f3n de campos que se repiten para cualquier n\u00famero de veces."
+        },
+        "c58bb8dd26051c3ba65914f16c51f0b7": {
+            "text": "Campo Repetidor"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeURL.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeurl-module",
+    "translations": {
+        "b38bb5008cd8427aae4e9a8612183a6f": {
+            "text": "Se recomienda el formato \"HTML Entity Encoder\" de texto para los campos de URL."
+        },
+        "ab86e8efb5aa46bdab329fa44f7125fc": {
+            "text": "Permitir URLs relativas \/ locales sin \"http: \/\/\" al principio?"
+        },
+        "d1280d091f34a15c77f4145110d7f94d": {
+            "text": "URLs locales \/ relativos son los que no tienen esquema y de dominio."
+        },
+        "c4c54678f0d612f89caacaab99768f81": {
+            "text": "Anteponer la ruta ra\u00edz del sitio para URLs locales \/ relativos?"
+        },
+        "9d6ce819c098e5c4a7b3464cadbd028a": {
+            "text": "Esta opci\u00f3n anteponer autom\u00e1ticamente la ruta ra\u00edz del sitio para cualquier URL que comience con una barra, como \/ some \/ path \/. Esto es \u00fatil si su sitio est\u00e1 en funcionamiento desde un subdirectorio porque usted no tendr\u00e1 que incluir ese subdirectorio en la URL que introduzca en este campo. En caso de que m\u00e1s tarde mover su sitio a la ra\u00edz de un dominio (o otro subdirectorio) usted no tendr\u00e1 que preocuparse acerca de las direcciones URL rotas. Con esta opci\u00f3n habilitada, introduzca siempre las direcciones URL como si el sitio se ejecuta desde la ra\u00edz de un dominio, independientemente de si se est\u00e1 ejecutando desde un subdirectorio o no. Naturalmente, esto s\u00f3lo es aplicable si ha seleccionado \"S\u00ed\" para permitir URLs locales \/ relativas en el campo anterior. Los desarrolladores pueden tambi\u00e9n querr\u00e1n tener en cuenta que esta opci\u00f3n s\u00f3lo se aplica cuando outputFormatting de una p\u00e1gina est\u00e1 encendido."
+        },
+        "ae91f58b191e424e0eaf9022fd5407e9": {
+            "text": "Asegura que las URLs no se rompen cuando se mueve de un sitio de un subdirectorio de la ra\u00edz (el ejemplo m\u00e1s com\u00fan)."
+        },
+        "e6b391a8d2c4d45902a23a8b6585703d": {
+            "text": "URL"
+        },
+        "0ac82d10c1ddd050079962481c40f54f": {
+            "text": "Campo que guarda una URL"
+        }
+    }
+}

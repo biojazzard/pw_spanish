@@ -1,0 +1,15 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeSelector.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeselector-module",
+    "translations": {
+        "edcca7404d60fa39e1e56bbb6c85c519": {
+            "text": "Valor inicial del selector:"
+        },
+        "7705e5655113c7b4e5b224010ac7af38": {
+            "text": "Introduzca una cadena selector inicial que se utilizar\u00e1 como el punto de partida forzada por cualquier selectores generados a partir de este campo. Las p\u00e1ginas que coinciden con el selector de usuario quedar\u00e1 obligado dentro del selector que introduzca aqu\u00ed."
+        },
+        "4795bb99893dc26981eb889746b21499": {
+            "text": "Ejemplo: template=producto"
+        }
+    }
+}

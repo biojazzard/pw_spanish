@@ -1,0 +1,12 @@
+{
+    "file": "wire\\modules\\Process\\ProcessHome.module",
+    "textdomain": "wire--modules--process--processhome-module",
+    "translations": {
+        "56cc559d234df2ffabc88b8926592264": {
+            "text": "Inicio Administraci\u00f3n"
+        },
+        "3555f18b32d499274ee3fcfb73c15558": {
+            "text": "Act\u00faa como un Proceso de marcador de posici\u00f3n para el administrador ra\u00edz. Asegura el control de flujo adecuado despu\u00e9s de inicio de sesi\u00f3n."
+        }
+    }
+}

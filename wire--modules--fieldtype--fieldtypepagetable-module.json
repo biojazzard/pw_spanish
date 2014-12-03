@@ -1,12 +1,81 @@
 {
-    "file": "wire\/modules\/Fieldtype\/FieldtypePageTable.module",
+    "file": "wire\\modules\\Fieldtype\\FieldtypePageTable.module",
     "textdomain": "wire--modules--fieldtype--fieldtypepagetable-module",
     "translations": {
         "56d29e2358c489ca2ba085412d22b543": {
-            "text": "Selecciona una o m\u00e1s plantillas para los \u00edtems"
+            "text": "Seleccione una o varias plantillas para art\u00edculos"
+        },
+        "23eb7651d596fbeec11e64a6c67925d9": {
+            "text": "Estas son las plantillas que ser\u00e1n utilizados por las p\u00e1ginas gestionadas desde este campo. Es posible que desee crear una nueva plantilla espec\u00edfica a las necesidades de este campo."
+        },
+        "cc338cc1f9035c657183288e8a8679c4": {
+            "text": "Por favor, pulsa en Guardar despu\u00e9s de seleccionar una plantilla y la configuraci\u00f3n restante en la ficha de entrada contendr\u00e1 m\u00e1s contexto."
         },
         "280bdbf9e514764e2b558c5a45b03ba3": {
-            "text": "Selecciona una p\u00e1gina de nivel superior para los \u00edtems"
+            "text": "Seleccione un padre para los art\u00edculos"
+        },
+        "0aa782b2995bb478abdc16ebbb4a3e12": {
+            "text": "Todos los elementos creados y gestionados desde este campo vivir\u00e1n bajo la matriz que seleccione aqu\u00ed."
+        },
+        "5243227b5f4a58e7cc1be6b30f4bbce8": {
+            "text": "Si se ha seleccionado ning\u00fan padre, entonces los art\u00edculos ser\u00e1n colocados como hijos de la p\u00e1gina que se est\u00e1 editando."
+        },
+        "fcb2facea33821286bfd4cad3f7ac76d": {
+            "text": "Art\u00edculos de basura cuando se borra la p\u00e1gina?"
+        },
+        "08f53f44f5a22058682ec7c305c2f37b": {
+            "text": "Cuando se activa, art\u00edculos creada \/ gestionados por una determinada p\u00e1gina se papelera de forma autom\u00e1tica cuando se elimina esa p\u00e1gina. Si no se marca, los art\u00edculos permanecer\u00e1n bajo el padre que ha seleccionado anteriormente."
+        },
+        "276fe80c8306b8f1211c933c5b0789dd": {
+            "text": "Esta opci\u00f3n s\u00f3lo se aplica si ha seleccionado uno de los padres m\u00e1s arriba."
+        },
+        "7a25f2fb1df8b415ae376a1bc744ddc1": {
+            "text": "Comportamientos de la p\u00e1gina"
+        },
+        "f80a4ad87fee7c9fdc19b7769495fdb5": {
+            "text": "Nada"
+        },
+        "4cfd1fcdeecdd1e6acb46393d787316c": {
+            "text": "Enviarlos a la papelera"
+        },
+        "6ac9a034dc3a8b4cf5a3902d2b7755d4": {
+            "text": "Borrarlos"
+        },
+        "eb2f5e1930872f2aed78a2ffca4af260": {
+            "text": "Despublicarlos"
+        },
+        "8840e48a3c2b71738f5a52d5ae1e084f": {
+            "text": "Ocultarlos"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Borrar"
+        },
+        "88ab1471027561ff02fc8cfbd073ebc2": {
+            "text": "\u00bfQu\u00e9 debe suceder para \"%s\" art\u00edculos cuando se elimina permanentemente la p\u00e1gina que contiene?"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Papelera"
+        },
+        "bdea0eb389c61e57930d661c74b21423": {
+            "text": "\u00bfQu\u00e9 debe suceder para \"%s\" art\u00edculos cuando se destroz\u00f3 la p\u00e1gina que contiene?"
+        },
+        "181e9a13059454fb2212f1bf10f394ac": {
+            "text": "Despublicar"
+        },
+        "22b094a7d09fdb1839dbfe384a0f4fac": {
+            "text": "\u00bfQu\u00e9 debe suceder para \"%s\" elementos cuando la p\u00e1gina que contiene es in\u00e9dito?"
+        },
+        "113931420c7a2560f63fcd9af198df3f": {
+            "text": "Ordenar campos"
+        },
+        "b72b1e7470d1bbec8cb9ae2eb8843131": {
+            "text": "Introduzca el nombre del campo que desea que la tabla para ordenar por. Para un orden descendente, preceder el nombre del campo con un gui\u00f3n, es decir, \"-date\" en lugar de \"fecha\"."
+        },
+        "bad3d943c1f7443d2205de6edd995d6e": {
+            "text": "Puede especificar varios campos de clasificaci\u00f3n, separando cada uno con una coma, es decir, \"apellidos, nombre apellido, -birthday\"."
+        },
+        "8198f788c0d53d819605c0dcdfdfe413": {
+            "text": "Deje en blanco para la clasificaci\u00f3n de arrastrar y soltar manual (predeterminado)."
         }
     }
 }

@@ -1,0 +1,12 @@
+{
+    "file": "wire\\modules\\Process\\ProcessPageView.module",
+    "textdomain": "wire--modules--process--processpageview-module",
+    "translations": {
+        "ba53c4481b0a7190fdf6407fd2e636d7": {
+            "text": "Vista de p\u00e1gina"
+        },
+        "a479e6c423ecad082c067f87a37c152a": {
+            "text": "Todas las vistas de p\u00e1ginas se enrutan a trav\u00e9s de este proceso"
+        }
+    }
+}

@@ -1,24 +1,45 @@
 {
-    "file": "wire\/modules\/Fieldtype\/FieldtypePage.module",
+    "file": "wire\\modules\\Fieldtype\\FieldtypePage.module",
     "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
     "translations": {
-        "7b438db8547ac1c9ab6c7ba6cb1532db": {
-            "text": "P\u00e1ginas m\u00faltiples (PageArray)"
+        "d1d7182c9905811b10bcd1f5bdcb9eda": {
+            "text": "Desreferencia en API como"
         },
-        "7d5f7f76b51ac880e91da28dbc52df35": {
-            "text": "\u00bfPermitir p\u00e1ginas sin publicar?"
+        "e28f86b62065207ceeb0b5057eb98537": {
+            "text": "Si su campo contendr\u00e1 varias p\u00e1ginas, entonces usted debe seleccionar la primera opci\u00f3n (PageArray). Si el campo s\u00f3lo debe contener una sola p\u00e1gina, a continuaci\u00f3n, seleccione una de las opciones de una sola p\u00e1gina (si no est\u00e1 seguro de qu\u00e9, seleccionar la \u00faltima opci\u00f3n)."
+        },
+        "7b438db8547ac1c9ab6c7ba6cb1532db": {
+            "text": "Varias p\u00e1ginas (PageArray)"
+        },
+        "a24fcc695edbc57c60c768a732d2f30d": {
+            "text": "Una sola p\u00e1gina (P\u00e1gina) o falso booleano cuando ninguno es seleccionado"
         },
         "94a53712b9a34f922a776fc5aa68d31f": {
-            "text": "P\u00e1gina \u00fanica (Page) o p\u00e1gina vac\u00eda (NullPage) si ninguna est\u00e1 seleccionada"
+            "text": "Una sola p\u00e1gina (P\u00e1gina) o la p\u00e1gina vac\u00eda (NullPage) cuando ninguno es seleccionado"
         },
-        "081c14de091c8761b82f930fd59c8f16": {
-            "text": "Buscando y limpiando..."
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "\u00bfPermitir p\u00e1ginas no publicadas?"
+        },
+        "58b4f6dae2009a3d22a395a94de85360": {
+            "text": "Cuando se activa, p\u00e1ginas in\u00e9ditas est\u00e1n permitidos en el valor del campo. P\u00e1ginas no publicados no van a aparecer en el front-end, con excepci\u00f3n de los que tienen acceso de edici\u00f3n."
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "No es posible encontrar la p\u00e1gina"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "No se puede encontrar la plantilla"
         },
         "2d6565614947b2a6daba1a06515124da": {
             "text": "Buscar y limpiar las referencias a p\u00e1ginas hu\u00e9rfanas"
         },
+        "f7e35a334f1501cc0365458563f90cf5": {
+            "text": "Esta limpia para un problema en las versiones anteriores de ProcessWire que podr\u00eda dejar hu\u00e9rfanos referencias de p\u00e1gina para las p\u00e1ginas eliminadas. Si usted est\u00e1 consiguiendo resultados inexactos de la p\u00e1gina encontrar las operaciones (especialmente con selectores utilizando pageref.count), entonces es posible que desee ejecutar este."
+        },
         "35a326c72a6584f3c7d70109b5cd45f1": {
-            "text": "Advertencia: para m\u00e1s seguridad, deber\u00edas hacer una copia de seguridad de tu base de datos antes de ejecutar este proceso."
+            "text": "Advertencia: Para ser seguro debe hacer una copia de seguridad de su base de datos antes de ejecutar esto."
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "Encontrando y limpiando..."
         }
     }
 }

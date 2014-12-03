@@ -1,0 +1,18 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldRadios\\InputfieldRadios.module",
+    "textdomain": "wire--modules--inputfield--inputfieldradios--inputfieldradios-module",
+    "translations": {
+        "cf8a8cf17df1b387458f33ace69f49be": {
+            "text": "Las columnas de botones de radio"
+        },
+        "9cf19cb880b90f114795a612ab1d660f": {
+            "text": "Si desea que los botones de radio para mostrar en las columnas (en vez de apilar), introduzca el n\u00famero de columnas que desee utilizar (hasta 10). Para mostrar los botones de lado a lado (en l\u00ednea), escriba 1."
+        },
+        "7041d69f9024a46791714e59812fa68f": {
+            "text": "Botones de radio"
+        },
+        "692fd08ceebbbf5818d492fae7ebe7db": {
+            "text": "Los botones de opci\u00f3n para la selecci\u00f3n de un solo art\u00edculo"
+        }
+    }
+}

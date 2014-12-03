@@ -1,0 +1,36 @@
+{
+    "file": "wire\\templates-admin\\debug.inc",
+    "textdomain": "wire--templates-admin--debug-inc",
+    "translations": {
+        "7421d68c70dfc346497573bf4e08acc5": {
+            "text": "Modo depuraci\u00f3n"
+        },
+        "b9a880607682d7ff74c39ef4cdefca90": {
+            "text": "P\u00e1ginas cargadas"
+        },
+        "71c7ae294b7abd866b3fb295b3b9e4a4": {
+            "text": "Sesi\u00f3n"
+        },
+        "f929d2763e272dc4669d972bae9708e0": {
+            "text": "M\u00f3dulos cargados"
+        },
+        "554c5efaf6a3411ec0c56132825ce0f1": {
+            "text": "%d m\u00f3dulos cargados"
+        },
+        "5e9171024adf23f0e7e7f298f251a935": {
+            "text": "%d no cargado"
+        },
+        "8f9bfe9d1345237cb3b2b205864da075": {
+            "text": "Usuario"
+        },
+        "5351e7d8b45acb7070fc165ce3b738c6": {
+            "text": "Roles de usuario actuales"
+        },
+        "1b272e451c327dcb796367163a2c403b": {
+            "text": "Permisos de usuario actuales"
+        },
+        "e386ede4750a227397715b73b7727273": {
+            "text": "Permisos de usuario actuales en esta p\u00e1gina"
+        }
+    }
+}

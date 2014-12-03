@@ -1,0 +1,12 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeText.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetext-module",
+    "translations": {
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Formatos de texto"
+        },
+        "965a2e6ce23bd9e9ca5122fb9862be60": {
+            "text": "Si desea aplicar alg\u00fan tipo de formato autom\u00e1tico para el campo cuando se prepara para la salida, seleccione uno o m\u00e1s formateadores de texto anteriores. Si selecciona m\u00e1s de uno, arrastrarlos a la orden en que se deben aplicar."
+        }
+    }
+}

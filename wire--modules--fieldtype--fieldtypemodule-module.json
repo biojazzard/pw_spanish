@@ -1,0 +1,36 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeModule.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypemodule-module",
+    "translations": {
+        "40e27ece1fd60ce7081fd3084e866820": {
+            "text": "Tipos de m\u00f3dulo"
+        },
+        "e4b9c7449faedd6b2667e3db22d04cc1": {
+            "text": "Revise todos los tipos de m\u00f3dulos que pueden ser seleccionables en este campo."
+        },
+        "4aa842af483898d272ce5ea136a446d3": {
+            "text": "Hacen de este campo una instancia del m\u00f3dulo seleccionado?"
+        },
+        "1d4b3399eb44d29f0188147089a9fb8a": {
+            "text": "Si se marca, el valor del campo ser\u00e1 una instancia real del m\u00f3dulo seleccionado. Si no se marca, el valor del campo ser\u00e1 una cadena que contiene el nombre de la clase del m\u00f3dulo."
+        },
+        "bbddef2b960b6e14a0c9510c2312192e": {
+            "text": "Etiqueta de opciones"
+        },
+        "0900a3f6adfa931e0130c02c436e7e7f": {
+            "text": "Nombre de Clase del m\u00f3dulo"
+        },
+        "335fdfd0673e7e457d51384f686b00dc": {
+            "text": "M\u00f3dulo T\u00edtulo"
+        },
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Tipo de entrada"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Seleccionar"
+        },
+        "d5a4c326398e96cdf97b6d4a3cc300c1": {
+            "text": "Check circulares"
+        }
+    }
+}

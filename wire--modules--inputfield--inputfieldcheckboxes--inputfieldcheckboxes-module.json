@@ -1,0 +1,18 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldCheckboxes\\InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "d3f3236393ce7a48198cde99acaed365": {
+            "text": "Las columnas de las casillas de verificaci\u00f3n"
+        },
+        "50bad9e0658dd79a35545ebcd18f92ac": {
+            "text": "Si desea que las casillas de verificaci\u00f3n para mostrar en las columnas (en vez de apilar), introduzca el n\u00famero de columnas que desee utilizar (hasta 10). Para mostrar casillas de lado a lado (en l\u00ednea), escriba 1."
+        },
+        "c425f296c6b905c91fb3f6da1a1702b6": {
+            "text": "Las casillas de verificaci\u00f3n"
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "M\u00faltiples casillas de verificaci\u00f3n"
+        }
+    }
+}

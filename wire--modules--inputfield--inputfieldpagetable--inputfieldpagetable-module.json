@@ -1,0 +1,81 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldPageTable\\InputfieldPageTable.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagetable--inputfieldpagetable-module",
+    "translations": {
+        "140092f149378fe66bcd1b7e472cde79": {
+            "text": "Por favor, configure este campo con una selecci\u00f3n de la plantilla antes de usarlo."
+        },
+        "541d5efe9732bde27704a4d578691629": {
+            "text": "Escriba una o m\u00e1s columnas en la configuraci\u00f3n de campo antes de utilizar este campo."
+        },
+        "6a73e132a6818bc067a0cdec443689a1": {
+            "text": "d-m-Y H: i"
+        },
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[En blanco]"
+        },
+        "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
+            "text": "Los campos de tabla para mostrar en administrador"
+        },
+        "420fb882b998481add0d526522ffff81": {
+            "text": "Introduzca los nombres de los campos (1 por l\u00ednea) que desea mostrar como columnas en la tabla. Para especificar un ancho de columna para el campo, especifique \"field_name = 30\", donde \"30\" es el ancho (en porcentaje) de la columna. Al especificar anchuras, hacer que el total de todas las columnas suman 100."
+        },
+        "290cc1b749092b6f62035343a4e4f9eb": {
+            "text": "Puede especificar cualquier campo nativa o costumbre. Tambi\u00e9n puede utilizar subcampos (field.subfield) con campos que contienen varias propiedades, como referencias de p\u00e1gina."
+        },
+        "c775db1b4b86e060f703a4e7cedc292f": {
+            "text": "Los campos personalizados asignados a sus plantillas seleccionadas son las siguientes:"
+        },
+        "8ea5a88f78fabcfdc906c9cb8ec013f2": {
+            "text": "Para ver una lista de posibles campos personalizados aqu\u00ed, seleccione una plantilla en la pesta\u00f1a Detalles, en Guardar y volver aqu\u00ed."
+        },
+        "34ff6bbc0c075f35e92dc68a218b7cc2": {
+            "text": "Nombre autom\u00e1tico de P\u00e1gina"
+        },
+        "9264201faa8a6ca75fc27583eafe1e88": {
+            "text": "Cuando poblada, las p\u00e1ginas se crean autom\u00e1ticamente utilizando este formato de nombre cada vez que un usuario hace clic en el bot\u00f3n \"A\u00f1adir nuevo\". Si se deja en blanco, se le pedir\u00e1 al usuario que introduzca un nombre para la p\u00e1gina antes de que se crea."
+        },
+        "e4f63a8ac32b32675310ab45dd15e6cb": {
+            "text": "Si el formato de nombre contiene caracteres no alfanum\u00e9ricos, se considera que es un formato de fecha PHP. Si contiene s\u00f3lo caracteres alfanum\u00e9ricos entonces se puede utilizar directamente, con un n\u00famero a\u00f1adido al final (cuando sea necesario) para garantizar la unicidad."
+        },
+        "9ad1067becc6f575ac4c13c7294fdffe": {
+            "text": "Ejemplo: Ymd: El suyo es un buen formato de nombre para nombres de p\u00e1ginas basado fecha \/ hora."
+        },
+        "fd77179553ab23331a3bb360662cbf47": {
+            "text": "ProFields: P\u00e1gina Tabla"
+        },
+        "0a897fae6e81285f1da55dd87457ec94": {
+            "text": "Inputfield para acompa\u00f1ar FieldtypePageTable"
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Nombre"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "Creado"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Modificado"
+        },
+        "036eabaedf4f638437a5ecdf7582d541": {
+            "text": "Modificado por"
+        },
+        "5058207150146a31a3722ea410dac987": {
+            "text": "Creado por"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "Plantilla"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Padre"
+        },
+        "1817eacf444b166d0c26160f2176ae96": {
+            "text": "Hijo"
+        },
+        "8e1c1f71742a04abf811af399e149b72": {
+            "text": "Estado"
+        },
+        "d02df721111f58d691538543749d7ce0": {
+            "text": "Crear"
+        }
+    }
+}

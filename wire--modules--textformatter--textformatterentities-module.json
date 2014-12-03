@@ -1,0 +1,9 @@
+{
+    "file": "wire\\modules\\Textformatter\\TextformatterEntities.module",
+    "textdomain": "wire--modules--textformatter--textformatterentities-module",
+    "translations": {
+        "f34604edab8aa5bdc9e452d3e4693952": {
+            "text": "Ampersands codifican Entidad, de citas (individuales y dobles) y mayores de \/ menos de lo signos usando htmlspecialchars (str, ENT_QUOTES). Se recomienda que utilice esta en todos los campos de texto \/ textarea excepto los que utilizan un editor de texto enriquecido como TinyMCE o un lenguaje de marcas como Markdown."
+        }
+    }
+}

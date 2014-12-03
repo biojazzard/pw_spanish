@@ -1,0 +1,21 @@
+{
+    "file": "wire\\modules\\System\\SystemUpdater\\SystemUpdater.module",
+    "textdomain": "wire--modules--system--systemupdater--systemupdater-module",
+    "translations": {
+        "131f946cc232ed294bb1051fdb295d02": {
+            "text": "Actualizaci\u00f3n del sistema"
+        },
+        "68b7f791d338e65dd897b4316c51a568": {
+            "text": "Gestiona versiones y actualizaciones del sistema."
+        },
+        "2bb01c9e5f493e464bae4f127ac24891": {
+            "text": "Sistema de Registro de actualizaci\u00f3n"
+        },
+        "83d345108e3c4ebe46ec3d2de0b7e463": {
+            "text": "Versi\u00f3n del sistema"
+        },
+        "e3087085dad248ad622f15449dc45832": {
+            "text": "Esto le permite volver a solicitar una actualizaci\u00f3n de la versi\u00f3n del sistema, reduciendo el n\u00famero de versi\u00f3n."
+        }
+    }
+}

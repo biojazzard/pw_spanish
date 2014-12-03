@@ -1,0 +1,42 @@
+{
+    "file": "wire\\core\\WireUpload.php",
+    "textdomain": "wire--core--wireupload-php",
+    "translations": {
+        "c4d20a850d6031b61534f75058ae320d": {
+            "text": "Archivo subido correctamente"
+        },
+        "827ac42f1bc60fab16ae517ddb410e31": {
+            "text": "El archivo que se intenta subir excede la directiva upload_max_filesize dada en php.ini"
+        },
+        "8d9086cb60c50b568ba57e0951dc4025": {
+            "text": "El archivo que se intenta subir excede la directiva upload_max_filesize dada en el formulario HTML."
+        },
+        "4f12b222c9659d62afa795987259933f": {
+            "text": "Archivo parcialmente subido"
+        },
+        "8c9067e52e4440d8a20e74fdc745b0c6": {
+            "text": "Ning\u00fan archivo se ha subido"
+        },
+        "7623dae1dc1a0906e7062e209e36cbdb": {
+            "text": "Carpeta temporal perdida"
+        },
+        "93252348cf3a42ca5e38b70d5f866d33": {
+            "text": "Error al escribir en el disco"
+        },
+        "361e040fc0355a657b76e6727118e6e9": {
+            "text": "Subida del fichero parada por la extensi\u00f3n"
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "M\u00e1ximo n\u00famero de subidas"
+        },
+        "3317b878f497a7508ea5c2a02cdf8000": {
+            "text": "Extensi\u00f3n inv\u00e1lida, por favor usa una de estas:"
+        },
+        "1cd97c3760708f05e24ee5eb7e6034ce": {
+            "text": "El tama\u00f1o del fichero es mayor de lo permitido"
+        },
+        "acb6c0f25cc888a8d4e3cdc1dc2c247b": {
+            "text": "Ning\u00fan archivo encontrado en el archivo ZIP"
+        }
+    }
+}

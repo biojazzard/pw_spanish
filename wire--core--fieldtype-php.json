@@ -1,0 +1,18 @@
+{
+    "file": "wire\\core\\Fieldtype.php",
+    "textdomain": "wire--core--fieldtype-php",
+    "translations": {
+        "a528ac2d2f326703f458dec14cba03e5": {
+            "text": "Autoingresar"
+        },
+        "2af316156c9ea64d6d56bfe221486efd": {
+            "text": "Si se marca, los datos de este campo se cargar\u00e1n con todas las instancias de la p\u00e1gina, independientemente de si se utiliza en el momento. Si no se controla, los datos se cargan en la demanda, y s\u00f3lo cuando el campo se accede espec\u00edficamente."
+        },
+        "4cc6684df7b4a92b1dec6fce3264fac8": {
+            "text": "Global"
+        },
+        "ad1bc8634063998074151ecfaaf2e6a1": {
+            "text": "Si se marca, se les exigir\u00e1 TODAS las p\u00e1ginas de tener este campo. Que se a\u00f1adir\u00e1 autom\u00e1ticamente a cualquier fieldgroups \/ plantillas que no lo tiene. Esto no quiere decir que un valor se requiere en el campo, s\u00f3lo que el campo editable existir\u00e1 en todas las p\u00e1ginas."
+        }
+    }
+}

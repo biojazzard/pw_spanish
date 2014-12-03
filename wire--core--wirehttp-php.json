@@ -1,0 +1,15 @@
+{
+    "file": "wire\\core\\WireHttp.php",
+    "textdomain": "wire--core--wirehttp-php",
+    "translations": {
+        "77c7f3f51ebd4fa702990b4e33b1b168": {
+            "text": "Para descargar v\u00eda URL debe comenzar con http: \/\/ o https: \/\/"
+        },
+        "467af8bc03dee4f2214f406ef27a2cd2": {
+            "text": "fopen error del nombre del archivo"
+        },
+        "0209b06558d47ad36cee247c670ff405": {
+            "text": "El archivo no se puede descargar"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "file": "wire\\modules\\PageRender.module",
+    "textdomain": "wire--modules--pagerender-module",
+    "translations": {
+        "3a160df105e3d9d54575466354bdd312": {
+            "text": "T\u00edtulo del m\u00f3dulo"
+        },
+        "d2c5ea4202c4c692852b7e10fbceabd3": {
+            "text": "Sumario del m\u00f3dulo"
+        },
+        "403c89515b16b3417cd2e426612b4a53": {
+            "text": "Limpiado %d de archivos para %d p\u00e1ginas"
+        },
+        "0c22fad509c478c3442a310a7a2b2c52": {
+            "text": "\u00bfLimpiar la cache?"
+        },
+        "b4999a543edcfefc8c56ed6eafdcb98f": {
+            "text": "Hay actualmente %d p\u00e1ginas usando cache en %s"
+        }
+    }
+}

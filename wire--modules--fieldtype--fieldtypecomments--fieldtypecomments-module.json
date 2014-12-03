@@ -1,0 +1,126 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeComments\\FieldtypeComments.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--fieldtypecomments-module",
+    "translations": {
+        "017e8b29849843b6daa2501aad99f7c1": {
+            "text": "Pendiente de aprobaci\u00f3n"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Aprobado"
+        },
+        "19af9433f96a08338dbcf1ea82186f7c": {
+            "text": "SPAM! - se borrar\u00e1 automaticamete en %d dias"
+        },
+        "4a97712de239878854839560e1765f5a": {
+            "text": "Comentario enviado a: %s"
+        },
+        "0c6e8a761530efc7ecfe773a5b5a6f7e": {
+            "text": "Nada- Los comentarios se guardan inmediatamente"
+        },
+        "4f214f3246f03a94773427de4f2e7699": {
+            "text": "Todo- Todos los comentarios se deben aprobar"
+        },
+        "d3a76eec189143c6945282d37bd81bb5": {
+            "text": "Solo nuevos- Solo los comentarios de usuarios sin prioridad deben ser aprobados"
+        },
+        "11b3f4cb51868835eff93632baf73f0b": {
+            "text": "Administraci\u00f3n de comentarios"
+        },
+        "2e5d62a652e3bfee772867720b3b000e": {
+            "text": "Notificaci\u00f3n e-mail"
+        },
+        "f1f5c03105f32ee4f4eb3004e2fb49be": {
+            "text": "E-mail para ser informado cuando aparezca un nuevo comentario. Separa las direcciones con comas."
+        },
+        "9bf3d3d959883d38b84f1990340bff84": {
+            "text": "Ordenar reciente al m\u00e1s antiguo?"
+        },
+        "0c9743be855a9e62ab36d4d4eb321932": {
+            "text": "De forma predeterminada, los comentarios se ordenar\u00e1n cronol\u00f3gicamente (la m\u00e1s antigua a la m\u00e1s reciente). Para invertir comprobar que el comportamiento de esta caja."
+        },
+        "cba07fe99979c9f01d9c61a39aae3045": {
+            "text": "Use campo del sitio Web en forma de comentario?"
+        },
+        "bb28b3686215b773129c8259cf0e6525": {
+            "text": "Cuando se activa, el formulario de comentarios presentaci\u00f3n tambi\u00e9n incluir\u00e1 un campo de p\u00e1gina web."
+        },
+        "b7f00c1afdf69f32c12c300c02ac1da7": {
+            "text": "Redireccionar despu\u00e9s de escribir comentarios?"
+        },
+        "cea2870f162b18b9ab95c8c84da6d05a": {
+            "text": "Cuando se activa, ProcessWire emitir\u00e1 una redirecci\u00f3n despu\u00e9s del comentario se publica con el fin de evitar dobles presentaciones. Recomendado."
+        },
+        "0ad4c8b2b43eb0c8cfa21dd7571401b5": {
+            "text": "Enviar notificaci\u00f3n por correo electr\u00f3nico cuando hay spam?"
+        },
+        "ec8fbd0794fa6fafb9061431f9bffa03": {
+            "text": "Cuando se activa, ProcessWire todav\u00eda le enviar\u00e1 una notificaci\u00f3n por correo electr\u00f3nico, incluso si el mensaje es identificado como spam."
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Desactivado"
+        },
+        "b70aad8c6cb77fde247be00630d7f5ef": {
+            "text": "G: Adecuado para su visualizaci\u00f3n en todos los sitios web con cualquier tipo de p\u00fablico."
+        },
+        "8e25a98f71c3244890fa8ecf2230fe18": {
+            "text": "PG: Puede contener gestos groseros, personas vestidas provocativamente, el menor malas palabras, o violencia moderada."
+        },
+        "2900074213d129e33d5d4b6e74076f29": {
+            "text": "R: Puede contener cosas como malas palabras duras, violencia intensa, desnudos, o el uso de drogas duras."
+        },
+        "043cab853d189bb505d101c3c7ab3176": {
+            "text": "X: Puede contener im\u00e1genes sexuales de hardcore o violencia muy preocupante."
+        },
+        "a4949d12f429ca4af2feb4e30c1e84e4": {
+            "text": "Utilice Gravatar?"
+        },
+        "c5fce56aee82d2bc007cbf213998945b": {
+            "text": "Este servicio ofrece una imagen de avatar con cada comentario (exclusivo a la direcci\u00f3n de correo electr\u00f3nico). Para activarlo, seleccione la m\u00e1xima calificaci\u00f3n gravatar. Estas son las mismas que las clasificaciones de pel\u00edculas, donde G es la m\u00e1s familiar y X no lo es."
+        },
+        "e9f6051c655ca4a6773af3f2d8458815": {
+            "text": "Descripciones proporcionadas por Gravatar."
+        },
+        "694c233e3c1cf5b97224bd5fcbebb340": {
+            "text": "Use Filter Service Akismet spam?"
+        },
+        "13df57b389c6175fd742098a67385895": {
+            "text": "Este servicio identificar\u00e1 autom\u00e1ticamente la mayor\u00eda del spam. Comment Filter: Akismet.\" onmouseover=\"this.style.backgroundColor='#ebeff9'\" onmouseout=\"this.style.backgroundColor='#fff'\">Antes de utilizarlo, aseg\u00farese de que ha introducido una clave de API de Akismet bajo M\u00f3dulos> Comentario Filter: Akismet."
+        },
+        "bf31492fe5d4821b483bc7cb8cfe07a3": {
+            "text": "N\u00famero de d\u00edas despu\u00e9s de que eliminar el spam"
+        },
+        "72fe450a750c9f11bf0531e5395e6e75": {
+            "text": "Despu\u00e9s de que el n\u00famero de d\u00edas indicado, correo no deseado se eliminar\u00e1 autom\u00e1ticamente."
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Comentarios"
+        },
+        "a27c92ebebda4931039636893b5c716d": {
+            "text": "El campo que almacena el usuario ha escrito comentarios de una sola p\u00e1gina"
+        },
+        "bbdc0889960bd1af9368ef6a4ba299f2": {
+            "text": "ProcessWire"
+        },
+        "61d8be701930d3db7ca0e8d32d041ab6": {
+            "text": "processwire"
+        },
+        "e0c0bcd1370c684469277f8066e3c64f": {
+            "text": "P\u00e1gina"
+        },
+        "957cba65c7639be540b3bce16e2c8e57": {
+            "text": "Desde"
+        },
+        "d856205677eeb676b9b04c173a231c6b": {
+            "text": "E-mail"
+        },
+        "4df6dabe367988d938bbf565bbcdbe43": {
+            "text": "Sitio web"
+        },
+        "5be3f30f5db8303d4baac9920be07c45": {
+            "text": "Estado"
+        },
+        "15ede22296b59c623fa73c28c6dbe629": {
+            "text": "Texto"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldInteger.module",
+    "textdomain": "wire--modules--inputfield--inputfieldinteger-module",
+    "translations": {
+        "100b8cad7cf2a56f6df78f171f97a1ec": {
+            "text": "cualquiera"
+        },
+        "004d36e4fa95eec8357b066aa20e9d8d": {
+            "text": "Valor especificado %3$s removido porque est\u00e1 fuera de l\u00edmites (min=%1$s, max=%2$s)"
+        },
+        "ddf1608e4f7def4fd584f806267255d4": {
+            "text": "Tipo de entrada Num\u00e9rico"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Texto"
+        },
+        "edb082a8145b0705db7f2b843ed57471": {
+            "text": "N\u00famero (html5)"
+        },
+        "339f8a8a3ec4255e3982690df6c764fc": {
+            "text": "La elecci\u00f3n del tipo \"N\u00famero\" permite una validaci\u00f3n del lado del cliente adicional en los navegadores que lo soportan."
+        },
+        "702a538a7348a9e52b08913558867f70": {
+            "text": "Valor m\u00ednimo"
+        },
+        "e9aac774de6f4b2d481938ff2403e5a8": {
+            "text": "El valor m\u00ednimo permitido para este campo. Dejar en blanco para ignorar."
+        },
+        "48b0ece3cdd23c3605c8d7ee617c43ca": {
+            "text": "Valor m\u00e1ximo"
+        },
+        "41f052267baa5d7342df9bad1b957733": {
+            "text": "El m\u00e1ximo permitido valuValor m\u00e1ximoe para este campo. Dejar en blanco para ignorar."
+        },
+        "15b920388c8c88882ae50ac7e68a52ad": {
+            "text": "Entero (positivo o negativo)"
+        },
+        "342fcaf76020389954d449ceec0a8a80": {
+            "text": "Min: %d"
+        },
+        "96f5f93890f61d6ff4c07e2883833d72": {
+            "text": "Max: %d"
+        },
+        "a0faef0851b4294c06f2b94bb1cb2044": {
+            "text": "Entero"
+        }
+    }
+}

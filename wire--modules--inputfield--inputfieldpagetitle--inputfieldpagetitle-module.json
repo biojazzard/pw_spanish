@@ -1,0 +1,12 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldPageTitle\\InputfieldPageTitle.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagetitle--inputfieldpagetitle-module",
+    "translations": {
+        "2864512e4161ae21b145798e32938abf": {
+            "text": "T\u00edtulo de la p\u00e1gina"
+        },
+        "dc643f0a55e724a742f7bcc43fa5b84e": {
+            "text": "Maneja la entrada de la p\u00e1gina de t\u00edtulo y auto-generaci\u00f3n de Page (cuando el nombre est\u00e1 en blanco)"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldButton.module",
+    "textdomain": "wire--modules--inputfield--inputfieldbutton-module",
+    "translations": {
+        "87b7760f14fbff78d8819291f36ab9a0": {
+            "text": "Bot\u00f3n"
+        },
+        "3691c9189afe50505955f4ef8181ae3c": {
+            "text": "Formulario de elemento de bot\u00f3n que puede pasar opcionalmente un atributo href a."
+        }
+    }
+}

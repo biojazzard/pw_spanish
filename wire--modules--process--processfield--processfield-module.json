@@ -1,0 +1,306 @@
+{
+    "file": "wire\\modules\\Process\\ProcessField\\ProcessField.module",
+    "textdomain": "wire--modules--process--processfield--processfield-module",
+    "translations": {
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Guardar"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Importaci\u00f3n"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Exportaci\u00f3n"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Mostrar todo"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filtros"
+        },
+        "89872ab3eb9af52f34b4dd82077758fc": {
+            "text": "Filtrar por plantilla"
+        },
+        "410267bd4e3c99784bab90c5e64b5209": {
+            "text": "Cuando se selecciona, s\u00f3lo se mostrar\u00e1n los campos de una plantilla espec\u00edfica. Campos incorporados tambi\u00e9n se muestran cuando se filtra por la plantilla. El asterisco (*) indica plantillas del sistema."
+        },
+        "363746a770985e537565b276b37c438e": {
+            "text": "Mostrando los campos de la plantilla: %s"
+        },
+        "a81c2112e97c64099ff86d5b97cb13c6": {
+            "text": "Los campos de la plantilla"
+        },
+        "d9a45316e3230df36980cf6ab8983485": {
+            "text": "Filtrar por tipo de campo"
+        },
+        "db2b4f5915e2053955edfec38776a17f": {
+            "text": "Cuando se especifica, s\u00f3lo se mostrar\u00e1n los campos del tipo seleccionado. Campos incorporados tambi\u00e9n se muestran al filtrar por tipo de campo."
+        },
+        "cca90d2e0854b62dc0c77ad0e1679be4": {
+            "text": "Mostrando campos de tipo %s"
+        },
+        "380f82872d1eb16c53b69ce4cfb45c9f": {
+            "text": "Mostrar built-in en los campos?"
+        },
+        "2a7b956033d031e555889f8ddd52754f": {
+            "text": "Cuando se activa, una funci\u00f3n de los campos tambi\u00e9n se mostrar\u00e1. Estos incluyen campos de sistema y los campos permanentes. Campos del sistema se requiere el sistema y no pueden ser borrados o tener su nombre cambiado. Campos permanentes son aquellos que no se puede quitar de una plantilla. Estos campos se utilizan internamente por ProcessWire."
+        },
+        "1535d0228ba3626bad19ec55142ffcc6": {
+            "text": "Mostrando todos los campos, incluido el sistema integrado y campos permament."
+        },
+        "4cca2a863deef0fc4de9115b9164537b": {
+            "text": "No etiquetado"
+        },
+        "288fc0452049b753c8a75464d299ffe3": {
+            "text": "No hay campos que coincidan con tu filtro"
+        },
+        "94f0fa1e6b7f766dc6432b4d8fd960ae": {
+            "text": "Comprobaci\u00f3n de Campo inform\u00f3:"
+        },
+        "64348e0f887e58c6002080b6153add90": {
+            "text": "%d filas de la tabla hu\u00e9rfanos encontraron"
+        },
+        "4fd5d5323fc3d2535f351e46ba740d3c": {
+            "text": "... Etc\u00e9tera ..."
+        },
+        "a90c3a6bf539d90c6016413cddd2178c": {
+            "text": "Por favor, ejecute esta comprobaci\u00f3n en el campo %s"
+        },
+        "bd5aef6293f875aa908466a69c08a14a": {
+            "text": "No se han encontrado para el campo de las cuestiones %s"
+        },
+        "8334c41e37dbbfb061177998028c6d0d": {
+            "text": "Propiedades Desconocidas"
+        },
+        "50092a77c044bc5d91bb703429c29157": {
+            "text": "Se encontraron las siguientes propiedades con este campo con cero accede durante la configuraci\u00f3n. A veces esto puede indicar que las propiedades ya no est\u00e1n en uso. Marque la casilla junto a cada propiedad que desea eliminar. Caso usted no est\u00e1 seguro, no hay da\u00f1o en s\u00f3lo dejarlos all\u00ed."
+        },
+        "b2ab31c6f8fbc066d4840baa6c081821": {
+            "text": "Propiedades desconocidas potenciales encontrados en este campo. Consulte la pesta\u00f1a \"Alerta\"."
+        },
+        "292694f229d9162dd0a6510ff0745d4f": {
+            "text": "Eliminar %d filas de la tabla hu\u00e9rfanas?"
+        },
+        "afb5272a55f7eb214fd004a5becf2bb7": {
+            "text": "Encontramos filas de datos en la tabla de este campo que no coinciden con ninguna p\u00e1gina."
+        },
+        "ad4e206408c1c59bfb8a057ba7857446": {
+            "text": "Contexto"
+        },
+        "4ac3deb7dc60a1b4770ad126c84171f7": {
+            "text": "* Indica que el campo est\u00e1 anulando un valor por defecto. Configuraci\u00f3n que especifique en esta pantalla s\u00f3lo anulan los valores predeterminados cuando se utiliza con el \"%s\" de la plantilla."
+        },
+        "c64f8a38fc13441f6cc860a4cbae887a": {
+            "text": "Eliminar campo"
+        },
+        "8bcb61f8472471a1619f7bd55e2c9ad2": {
+            "text": "Este campo no est\u00e1 en uso y es seguro eliminar."
+        },
+        "1fa78a97c113bed4e867ec21d9ca918f": {
+            "text": "Este campo no se puede eliminar porque est\u00e1 en uso por una o m\u00e1s plantillas."
+        },
+        "e7ec3883e42efde03a4932115fb807eb": {
+            "text": "Ajustes cuando se utiliza con la plantilla %s"
+        },
+        "bfacb0dba61ee131e07daaacead869c5": {
+            "text": "Ajustes de campo b\u00e1sicos"
+        },
+        "5efc010f527cdfeaa2ef63b1c6898fb5": {
+            "text": "Cualquier combinaci\u00f3n de letras ASCII [az], n\u00fameros [0-9], o guiones bajos (sin guiones ni espacios)."
+        },
+        "ab2e4f95a7971ee8077df62efa20d437": {
+            "text": "Despu\u00e9s de seleccionar el tipo de campo y el ahorro, que puede ser presentado con opciones adicionales de configuraci\u00f3n espec\u00edficos para el tipo de campo que ha seleccionado."
+        },
+        "219befd28b6f70d6d0a52f13c6b93772": {
+            "text": "Esta es la etiqueta que aparece sobre el campo de entrada. Si se deja en blanco, el nombre se utilizar\u00e1 en su lugar."
+        },
+        "d421f74dd8c605a337e57a6224f23478": {
+            "text": "Informaci\u00f3n adicional que describe la materia y \/ o instrucciones sobre c\u00f3mo acceder al contenido."
+        },
+        "0b99d251c68ee30c7f38cefe42d5fbdc": {
+            "text": "Informaci\u00f3n de uso del Campo"
+        },
+        "90a7d24b2f57968c1090adc8eb1cedff": {
+            "text": "Este campo es utilizado por las siguientes plantillas:"
+        },
+        "e846a7b9b780397947329058d6856fe4": {
+            "text": "Editar campo en contexto"
+        },
+        "da15cd97dba363b29a8a06c76d4c4c7d": {
+            "text": "Este campo no est\u00e1 actualmente en uso por las plantillas."
+        },
+        "983f66857047c1e6fc8878e54c5c9939": {
+            "text": "Duplicar \/ clonar este campo?"
+        },
+        "c073843a55498e809c4dd95be0721831": {
+            "text": "Marque la casilla si desea crear una copia duplicada \/ clon de este campo. El clon se crear\u00e1 al guardar."
+        },
+        "ee2d3754b6e7f57898d9d8670f78ae71": {
+            "text": "Opciones avanzadas"
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Icono"
+        },
+        "9cc4ac29ded1988ae44a553a7ecd4ffc": {
+            "text": "Si desea asociar un icono con el campo, introduzca un nombre de icono de aqu\u00ed."
+        },
+        "41fb8fe20e74e99ab359cecc48be97d5": {
+            "text": "Ejemplo: beer"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Etiquetas"
+        },
+        "3df354a032179f36ea493c3df6643ce1": {
+            "text": "Si desea agrupar visualmente este campo con otros en la lista de campos, introducir una etiqueta de una sola palabra. Introduzca la misma etiqueta en otros campos que desea agrupar con. Para especificar varias etiquetas, sep\u00e1relas con un espacio. El uso de etiquetas puede ser \u00fatil si su sitio tiene un gran n\u00famero de campos."
+        },
+        "7f511c25eccff9ce7127eecfb136f443": {
+            "text": "Cada etiqueta tiene que ser una palabra (la separaci\u00f3n de palabras funciona bien)."
+        },
+        "78bd709db99c927f3a59a1983f18c237": {
+            "text": "Para que una etiqueta se derrumb\u00f3 en la lista de campos, anteponga un gui\u00f3n para ella, as\u00ed: -hello"
+        },
+        "011e30aea1ad8c8e81405e295f032cc8": {
+            "text": "Comprobar los datos del campo"
+        },
+        "494bfa7cbe1a6aaf0e24e92c54664859": {
+            "text": "Compruebe el campo de datos no utilizados o de otras optimizaciones posibles. Si se encuentran problemas, usted tendr\u00e1 la oportunidad de corregirlos en la ficha Alerta despu\u00e9s de guardar."
+        },
+        "89e1299f98120a24c999cdffa860d2cb": {
+            "text": "Campo eliminados"
+        },
+        "7d09843a01448bd5ac4ad4bcfb2c388e": {
+            "text": "Es obligatorio escribir un nombre"
+        },
+        "a9c97bb1362d6960df5b6489b9454678": {
+            "text": "Es obligatorio escribir un tipo"
+        },
+        "584afda122df1e41e3a533afdc1b3f6e": {
+            "text": "Agregado Campo"
+        },
+        "f173ffbd0f010d4e164484785d07b7c1": {
+            "text": "Propiedad no utilizada Eliminada  %s"
+        },
+        "1d44463bf74c66ac465f0f51cee9a827": {
+            "text": "Suprimidas  %d filas hu\u00e9rfanos"
+        },
+        "d4a2d56009360cb3a587f17538631ce9": {
+            "text": "Campo Guardado"
+        },
+        "2f449cde553921e24ebc7b252209b1dc": {
+            "text": "Campo Clonado"
+        },
+        "f2b83b9c6e7b4b10852e2920effd3433": {
+            "text": "Error al crear el clon de este campo"
+        },
+        "e49f1e280534321564ea8d40be20e4d0": {
+            "text": "Cambie el tipo de campo: %s"
+        },
+        "a3d843d337eabebe3e81df9bfef414ea": {
+            "text": "Cambiar el tipo de campo de \"%1$s\" a \"%2$s\""
+        },
+        "7d04592612713885f95f51cca38d5708": {
+            "text": "Tenga en cuenta que al cambiar el tipo de campo altera el esquema de base de datos. Si el nuevo FieldType no es compatible con el anterior, o si contiene un esquema significativamente diferente, es posible para que se produzca la p\u00e9rdida de datos. Como resultado de ello, se le recomienda hacer copia de seguridad la base de datos antes de completar un cambio de tipo de campo."
+        },
+        "cc84c47ce264c6a27bd49ff004d4c555": {
+            "text": "Confirmar el cambio de tipo de campo"
+        },
+        "c2311f219b7dc0a845a537a7a26fa8b3": {
+            "text": "Si est\u00e1 seguro de que desea cambiar el tipo de campo, active la casilla de abajo y env\u00ede este formulario."
+        },
+        "58425be3f17ffb9574fd3e5947653330": {
+            "text": "Mantener la configuraci\u00f3n del campo?"
+        },
+        "7d912a6056deaad44add9eda5494d120": {
+            "text": "Marque esta casilla para mantener todas las configuraciones personalizadas para este campo (de la Informaci\u00f3n y las fichas de entrada). Esto es deseable si el nuevo tipo de campo tiene las mismas o similares propiedades de configuraci\u00f3n para el viejo tipo de campo. Sin embargo, tambi\u00e9n puede resultar en datos de configuraci\u00f3n innecesarios o redundantes ocupando espacio en el campo. Check field data.\" onmouseover=\"this.style.backgroundColor='#ebeff9'\" onmouseout=\"this.style.backgroundColor='#fff'\">Siempre se puede analizar esta tarde a partir de: Advanced> Comprobar los datos de campo."
+        },
+        "c2fd10d6fa7d3e1e8bd7c83de24c4d95": {
+            "text": "Cambio de tipo de campo abortado"
+        },
+        "b3dd3da27d2927b5c36e28d771388c7d": {
+            "text": "Tipo de campo se cambi\u00f3"
+        },
+        "a4ca5edd20d0b5d502ebece575681f58": {
+            "text": "Campos"
+        },
+        "4b2bcb0478b24201a7d60fed561d1b42": {
+            "text": "Edite los campos individuales que posean datos de la p\u00e1gina"
+        },
+        "588f35f32f53430bfc4199ef15c424db": {
+            "text": "Mostrar opciones de filtro en la lista de campos?"
+        },
+        "887c58e4743e8c789e4ebea161c6fdfe": {
+            "text": "Esto a\u00f1ade dos cajas de selecci\u00f3n a la parte superior de la lista de campos que permiten filtrar la visualizaci\u00f3n de los campos de la plantilla o tipo."
+        },
+        "7cdb55d0d84a64ee84c14621892d8e10": {
+            "text": "Volver a la lista campos despu\u00e9s de salvar a un campo?"
+        },
+        "503eff76a9f0b3c0c78997aa4370e2f0": {
+            "text": "Por defecto, usted permanecer\u00e1 en el editor de campos despu\u00e9s de salvar a un campo. Si desea en su lugar volver a la lista de campos, marque esta casilla."
+        },
+        "d665a1b10e02b9de8f4115d5b7078976": {
+            "text": "Agregar nuevo campo"
+        },
+        "0b6c421579ca54de1ee2d79df5df6f05": {
+            "text": "Nombre"
+        },
+        "83cfa166d441c1b47108e5d6b3f21cbe": {
+            "text": "Etiqueta"
+        },
+        "516a15631804c8878a63ecc155a067fa": {
+            "text": "Tipo"
+        },
+        "b342aa8cb5e92300b8b0bda3eaf8076d": {
+            "text": "Plantillas"
+        },
+        "678cad4866392ed0961cbce7d6ff550d": {
+            "text": "Auto-introducir"
+        },
+        "f44c0dcd3537024ab1be348dffe383de": {
+            "text": "sistema"
+        },
+        "46c5d71a7ab758f0ce5b9124cd8c53a4": {
+            "text": "permanente"
+        },
+        "b1100a1a039c319674c740cdc6382e92": {
+            "text": "requerido"
+        },
+        "06dacbad9c7587cdace10537b20b43ca": {
+            "text": "mostrar si ..."
+        },
+        "dcd217d86ebc19480f6602a1835f440d": {
+            "text": "Editar campo: %s"
+        },
+        "f98b1dd6f292ac2dfa3f8b0f9a8df9b0": {
+            "text": "Agregar nuevo campo"
+        },
+        "cb4e4304ce3fbf227cdae7fecc193fbf": {
+            "text": "Alerta"
+        },
+        "cba80ebc9ff6059cddbf49c3f46172a6": {
+            "text": "Ninguno (predeterminado)"
+        },
+        "1f2b73286f18ea71c594652199e86dff": {
+            "text": "Cancelar"
+        },
+        "b2a6343356c7cf0f4c1aae50c2cac1b7": {
+            "text": "Eliminar"
+        },
+        "a90b5efafea041e94da7fffd2bd530a3": {
+            "text": "Conceptos b\u00e1sicos"
+        },
+        "0071819b4ba5f6d112dbf1eab7cbe2ae": {
+            "text": "Tipo"
+        },
+        "7facb165145d489aeaa6743a6f9f1f55": {
+            "text": "Etiqueta"
+        },
+        "9ea1f3769ad9c72e3ebf7de539b53aa1": {
+            "text": "Descripci\u00f3n"
+        },
+        "450424710b0286d62947973d7263eb21": {
+            "text": "Plantilla"
+        },
+        "3be3efa6643b5a3f2af79ace0a5145c4": {
+            "text": "Avanzado"
+        }
+    }
+}

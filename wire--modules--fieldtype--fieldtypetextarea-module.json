@@ -1,0 +1,24 @@
+{
+    "file": "wire\\modules\\Fieldtype\\FieldtypeTextarea.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextarea-module",
+    "translations": {
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Tipo de campo de entrada"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "El tipo de campo que se utilizar\u00e1 para recolectar informaci\u00f3n (\u00c1rea de texto es el valor predeterminado). Tenga en cuenta que si cambia esto y env\u00ede, las opciones de configuraci\u00f3n disponibles en la secci\u00f3n de la pesta\u00f1a \"entrada\" pueden cambiar."
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "Tipo de contenido"
+        },
+        "88183b946cc5f0e8c96b2e66e1c74a7e": {
+            "text": "Desconocido"
+        },
+        "5d85f44b69f9d7e86c7f3f473f97f771": {
+            "text": "Markup\/HTML"
+        },
+        "1991cfd60d0287cfb130420da34fcbef": {
+            "text": "Se recomienda la opci\u00f3n de marcado \/ HTML para los campos utilizando editores de texto enriquecido (TinyMCE, CKEditor, etc) y los que contienen HTML. Proporciona filtrado de tiempo de ejecuci\u00f3n adicional para el aseguramiento de la calidad."
+        }
+    }
+}

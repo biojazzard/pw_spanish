@@ -1,0 +1,57 @@
+{
+    "file": "wire\\modules\\Inputfield\\InputfieldPageAutocomplete\\InputfieldPageAutocomplete.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpageautocomplete--inputfieldpageautocomplete-module",
+    "translations": {
+        "0f6969d7052da9261e31ddb6e88c136e": {
+            "text": "eliminar"
+        },
+        "111ce57a33643818f896c8ef5b78f923": {
+            "text": "Pulsa Intro para crear"
+        },
+        "a2324d16f834e2138b021bb90f1823dc": {
+            "text": "Autocompletar opciones avanzadas"
+        },
+        "5bd9a3b9fd04ef31e99e96b10ce5ac5f": {
+            "text": "Operador de b\u00fasqueda de autocompletar"
+        },
+        "a711451766d79a07ee817f88cb63ca56": {
+            "text": "El operador de b\u00fasqueda que se utiliza en la API cuando se realiza partidos de autocompletar."
+        },
+        "ddc1a98a2c8309eab3292b5fda7e0506": {
+            "text": "Si no est\u00e1 seguro de lo que usted quiere aqu\u00ed, dejarlo fijado en el valor por defecto: * ="
+        },
+        "6774b148e1f242760726e4c88d08931a": {
+            "text": "Contiene frase o palabra parcial (utilizando el \u00edndice de texto completo) - Recomendado"
+        },
+        "10723caf0a8012a762b741f821060ea9": {
+            "text": "Contiene frase o palabra parcial (utilizando SIMILARES)"
+        },
+        "5aebeca1891bcef0142167dda686b4a7": {
+            "text": "Contiene todas las palabras [Full], en cualquier orden"
+        },
+        "0626526d691a7bf48a099a2330fde59f": {
+            "text": "Inicia con la palabra \/ frase"
+        },
+        "a606a68c3a2a799b75998b7be8d48aea": {
+            "text": "Termina con la palabra \/ frase"
+        },
+        "0a06fd6fea29497256d43910fde22cd3": {
+            "text": "Igual a [exact]"
+        },
+        "b956d301c10771357a356a80d9f0d3a5": {
+            "text": "Los campos de consulta para autocompletar"
+        },
+        "0c458f5b668cdb153d43ffa89c2f2393": {
+            "text": "Introduzca los nombres de los campos que debe tener su texto consultados para partidos de autocompletar. Normalmente esto no ser\u00eda m\u00e1s que el campo de t\u00edtulo, pero usted puede agregar otros separando cada uno con un espacio. Tenga en cuenta que esto es diferente de la \"Etiqueta de campo\" (arriba). Aqu\u00ed est\u00e1 especificando qu\u00e9 campos podr\u00e1n ser buscados, no lo que los campos se le aparecen."
+        },
+        "8fdfe6e949b4c07d26317e3e2f99a14d": {
+            "text": "Campos de texto indexadas incluyen:"
+        },
+        "0e942985459c2961ee2ddd03061475e4": {
+            "text": "Autocompletar P\u00e1gina"
+        },
+        "f2f3cd9d4e91a577333b66f5818b9d3b": {
+            "text": "Selecci\u00f3n de P\u00e1ginas m\u00faltiples utilizando el completado autom\u00e1tico y clasificaci\u00f3n de la capacidad. Dise\u00f1ado para ser utilizado como un campo de entrada para los campos de referencia de p\u00e1gina."
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "file": "wire\\modules\\Session\\SessionHandlerDB\\SessionHandlerDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--sessionhandlerdb-module",
+    "translations": {
+        "6514b2122a2e569491dccb69eebe383c": {
+            "text": "Al marcar esta casilla permitir\u00e1 a los datos que se mostrar\u00e1n en la lista de sesiones de administraci\u00f3n."
+        },
+        "262f42ad28e2d01d7dc5afa698716099": {
+            "text": "Seguimiento de direcciones IP en los datos de sesi\u00f3n?"
+        },
+        "ab5b4b2116f61fda9325e6deb591bb8f": {
+            "text": "Seguimiento de agente de usuario en datos de la sesi\u00f3n?"
+        },
+        "703fdc8134134754f6630df73ee50572": {
+            "text": "El agente de usuario normalmente contiene informaci\u00f3n sobre el navegador que se utilice."
+        }
+    }
+}

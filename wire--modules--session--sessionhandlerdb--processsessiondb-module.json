@@ -1,0 +1,39 @@
+{
+    "file": "wire\\modules\\Session\\SessionHandlerDB\\ProcessSessionDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--processsessiondb-module",
+    "translations": {
+        "a76d4ef5f3f6a672bbfab2865563e530": {
+            "text": "Tiempo"
+        },
+        "8f9bfe9d1345237cb3b2b205864da075": {
+            "text": "Usuario"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "P\u00e1gina"
+        },
+        "dfb790522fdea3859af206d32916fe77": {
+            "text": "Agente de usuario"
+        },
+        "96e3fa0d1eb9be568924ee1c73b5594d": {
+            "text": "No hay sesiones activas"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Actualizar"
+        },
+        "a9c4b6c9fbd990849d1f128dfc4ed3e7": {
+            "text": "Sesiones"
+        },
+        "7d48386aa0c37cae93a89ad878847b0a": {
+            "text": "Le permite navegar por las sesiones de base de datos activas."
+        },
+        "e37d52373bb6cfceb4f1985b2fd76db6": {
+            "text": "Sesiones activas en el \u00faltimo minuto"
+        },
+        "4ba03014e35e3b0b49352b059fb7309e": {
+            "text": "Sesiones activas en los \u00faltimos %d minutos"
+        },
+        "cd86d5313ca52208459b6bc0cfbe9fbb": {
+            "text": "N\u00famero de minutos"
+        }
+    }
+}

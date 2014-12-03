@@ -1,0 +1,30 @@
+{
+    "file": "wire\\modules\\Session\\SessionLoginThrottle\\SessionLoginThrottle.module",
+    "textdomain": "wire--modules--session--sessionloginthrottle--sessionloginthrottle-module",
+    "translations": {
+        "87f1eff9c1a8afd8f0ecee1583f88ab2": {
+            "text": "Por favor, espere al menos %d segundos antes de intentar otra entrada."
+        },
+        "2a5391490b60fb767804efa36b94d79c": {
+            "text": "Acelerando su direcci\u00f3n IP?"
+        },
+        "8d6451e8c8b2f9d07c6a9701e270025a": {
+            "text": "Por defecto, el acelerador s\u00f3lo se har\u00e1 por nombre de usuario. Si marca esta casilla, luego de estrangulaci\u00f3n tambi\u00e9n se realiza mediante la direcci\u00f3n IP. Nos recomienda habilitar esta opci\u00f3n si los usuarios no est\u00e1n viniendo desde una direcci\u00f3n IP compartida."
+        },
+        "55c8511d5d205cbddcbc743e49a39100": {
+            "text": "N\u00famero de segundos para hacer la espera del usuario despu\u00e9s de intento fallido de inicio de sesi\u00f3n"
+        },
+        "0b9bd74be740fa049b1519ae3d14eff0": {
+            "text": "Este n\u00famero se multiplica por el n\u00famero de intentos fallidos, por lo que cada intento fallido aumenta el tiempo de espera de manera exponencial. Como resultado de ello, tenga cuidado acerca de c\u00f3mo configurar esta demasiado alto."
+        },
+        "9e72aded18bb6821af87ef367e7e002e": {
+            "text": "N\u00famero m\u00e1ximo de segundos que un usuario podr\u00eda nunca tener que esperar antes de intentar otra entrada"
+        },
+        "00b826f39c964075351bbc489037d008": {
+            "text": "Debido a que el tiempo de espera se incrementa exponencialmente en cada intento, esto pone un m\u00e1ximo (cap) en el tiempo de espera. Usted debe salir de este conjunto a un n\u00famero bastante alto."
+        },
+        "ed6ad8c8924b2e836590cad9cc6c9328": {
+            "text": "60 = 1 minuto, 5 minutos = 300, 600 = 10 minutos, 3600 = 1 hora, 1 d\u00eda = 86,400"
+        }
+    }
+}

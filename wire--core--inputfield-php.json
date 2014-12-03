@@ -1,0 +1,69 @@
+{
+    "file": "wire\\core\\Inputfield.php",
+    "textdomain": "wire--core--inputfield-php",
+    "translations": {
+        "2d7ff3fa8a1a844b270d96878d358762": {
+            "text": "Saber m\u00e1s sobre [como usar esto](http:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/)."
+        },
+        "1729a56cfc89021478498fe0c89a843a": {
+            "text": "Visibilidad"
+        },
+        "c7bc3fddddb62d5b656adc30cea77a55": {
+            "text": "Presentaci\u00f3n"
+        },
+        "49632d1c8309d42371ab31fe84d56c91": {
+            "text": "Como se mostrar\u00e1 este campo en el editor?"
+        },
+        "604b97c67341baddd9547c714add721c": {
+            "text": "Siempre abierto (por defecto)"
+        },
+        "c412235f3700a685388546e557292a7e": {
+            "text": "Siempre abierto y nunca se puede cerrar."
+        },
+        "d7a1a486818eebace651ff191e42984f": {
+            "text": "Cerrado solo cuando est\u00e1 en blanco"
+        },
+        "996d9abb10eeff734a994fcd5b449db6": {
+            "text": "Cerrado solo cuando tiene contenido"
+        },
+        "c0b4e286b96d6d694cb7ecb152fe3e9d": {
+            "text": "Siempre cerrado, requiere un click para abrir"
+        },
+        "8263d549648f539508587a67f38d008b": {
+            "text": "Oculto, no se muestra en el editor"
+        },
+        "3c5df14c7c43b1d43c41b15476154474": {
+            "text": "Siempre cerrado y no es editable (bloqueado)"
+        },
+        "5b6a6f08f86510a9580df3bb8b31bb2a": {
+            "text": "Abierto cuando tiene contenido y no es editable (bloqueado)"
+        },
+        "3cfa4a6238e2b559d3f52474e7545485": {
+            "text": "Mostrar este campo solo si..."
+        },
+        "3b57940d51a0ed7f2d5c49363114bd0e": {
+            "text": "Introduce las condiciones abajo para que el campo se muestre..."
+        },
+        "a785c32894aad6d7c1dc826a4bc0a4a3": {
+            "text": "Ancho de la columna  (%d%%)"
+        },
+        "0eb0b305235144ffe99e247b24200b09": {
+            "text": "El porcentaje puede ser de 10% a 100%. Se crear\u00e1n columnas flotantes y se rellenan si sobra espacio entre ellas."
+        },
+        "8387772e28e9c2b81fa8cb674e569663": {
+            "text": "Nota: No todos los campos permiten anchuras reducidas. Debes comprobar el resultado."
+        },
+        "6e18e908568ef24580d93bfd3e0f40d7": {
+            "text": "\u00bfObligatorio?"
+        },
+        "c48c7243fc307fd425df738c9f0f4324": {
+            "text": "Si se checka este campo ser\u00e1 obligatorio"
+        },
+        "8183d67b5c53c5fb254741c64ae6f98d": {
+            "text": "Obligatorio solo si..."
+        },
+        "bb0df4a2d5e0d99eaba53f152ff7f0f7": {
+            "text": "Introduce las condiciones para que este campo sea obligatorio."
+        }
+    }
+}

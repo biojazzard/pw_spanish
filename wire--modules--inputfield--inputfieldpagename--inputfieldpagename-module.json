@@ -1,21 +1,21 @@
 {
-    "file": "wire\/modules\/Inputfield\/InputfieldPageName\/InputfieldPageName.module",
+    "file": "wire\\modules\\Inputfield\\InputfieldPageName\\InputfieldPageName.module",
     "textdomain": "wire--modules--inputfield--inputfieldpagename--inputfieldpagename-module",
     "translations": {
         "49ee3087348e8d44e1feda1917443987": {
             "text": "Nombre"
         },
         "152cfcb2150e04c8533d86e9d7642b11": {
-            "text": "Cualquier combinaci\u00f3n de letras (a-z), n\u00fameros (0-9), guiones o guiones bajos (sin espacios)."
+            "text": "Cualquier combinaci\u00f3n de letras (az), n\u00fameros (0-9), guiones o guiones bajos (sin espacios)."
         },
         "f48a4577939e2ab65867848e6b439a81": {
-            "text": "Sustituci\u00f3n de caracteres"
+            "text": "Reemplazo de caracteres"
         },
         "9d250aded0473671ec3f113407f9809c": {
-            "text": "Descripci\u00f3n de la sustituci\u00f3n de caracteres"
+            "text": "Elija los cambios que se producir\u00e1n cuando un usuario est\u00e1 introduciendo caracteres en un campo de nombre de la p\u00e1gina. Introduzca una sustituci\u00f3n por l\u00ednea en formato de clave = valor. Esto quiere decir que en cada nueva l\u00ednea, introduzca el car\u00e1cter (s) que desea reemplazar seguido de un signo igual \"=\" y el car\u00e1cter (s) ascii desea reemplazar con."
         },
         "9bc6bf958fcb86296c17a2b2db2a00a6": {
-            "text": "Notas de la sustituci\u00f3n de caracteres"
+            "text": "El valor de reposici\u00f3n de cada uno debe ser uno o m\u00e1s de: az, 0-9, guiones, subrayado o per\u00edodo."
         }
     }
 }

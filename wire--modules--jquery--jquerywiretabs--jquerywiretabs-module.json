@@ -1,0 +1,21 @@
+{
+    "file": "wire\\modules\\Jquery\\JqueryWireTabs\\JqueryWireTabs.module",
+    "textdomain": "wire--modules--jquery--jquerywiretabs--jquerywiretabs-module",
+    "translations": {
+        "9fdc49adcef1b65060a39f7a096d09e2": {
+            "text": "Proporciona un plugin de jQuery para generar pesta\u00f1as en ProcessWire."
+        },
+        "d9f813a897729ef85bdc36fe6f9bc91a": {
+            "text": "Recuerde las posiciones de pesta\u00f1a?"
+        },
+        "6e7b34fa59e1bd229b207892956dc41c": {
+            "text": "Nunca"
+        },
+        "3f8dfcf012a1f2c00ebbe7cc3fe0f265": {
+            "text": "S\u00f3lo despu\u00e9s de guardar"
+        },
+        "68eec46437c384d8dad18d5464ebc35c": {
+            "text": "Siempre"
+        }
+    }
+}

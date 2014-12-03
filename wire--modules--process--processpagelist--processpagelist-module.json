@@ -1,22 +1,7 @@
 {
-    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module",
-    "textdomain": "wire--modules--Process--ProcessPageList--ProcessPageList-module",
+    "file": "wire\\modules\\Process\\ProcessPageList\\ProcessPageList.module",
+    "textdomain": "wire--modules--process--processpagelist--processpagelist-module",
     "translations": {
-        "7dce122004969d56ae2e0245cb754d35": {
-            "text": "Editar"
-        },
-        "4351cfebe4b61d8aa5efa1d020710005": {
-            "text": "Ver"
-        },
-        "03c2e7e41ffc181a4e84080b4710e81e": {
-            "text": "A\u00f1adir"
-        },
-        "6bc362dbf494c61ea117fe3c71ca48a5": {
-            "text": "Mover"
-        },
-        "ce2c8aed9c2fa0cfbed56cbda4d8bf07": {
-            "text": "Vac\u00edo"
-        },
         "f4ec5f57bd4d31b803312d873be40da9": {
             "text": "Cambiar"
         },
@@ -27,16 +12,31 @@
             "text": "Seleccionar"
         },
         "46b816f573557a53c93ac78bbcfa9493": {
-            "text": "Anular la selecci\u00f3n"
+            "text": "Deseleccionar"
         },
         "d3da97e2d9aee5c8fbe03156ad051c99": {
             "text": "M\u00e1s"
         },
         "d95deddfb80310ff0d1d63013611777c": {
-            "text": "Haz clic y arrastra para mover"
+            "text": "Haga clic y arrastre para mover"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Editar"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Ver"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "Nueva"
+        },
+        "6bc362dbf494c61ea117fe3c71ca48a5": {
+            "text": "Mover"
+        },
+        "ce2c8aed9c2fa0cfbed56cbda4d8bf07": {
+            "text": "Vaciar"
         },
         "f413b7eb4ef50a382b0fe0cfe04fdc30": {
-            "text": "Papelera abierta: arrastra las p\u00e1ginas aqu\u00ed para eliminarlas."
+            "text": "Papelera abierta: arrastre las p\u00e1ginas debajo de la papelera para borrarlas"
         },
         "de306d89ec101aba6fb73c6879710e6c": {
             "text": "404 P\u00e1gina no encontrada"
@@ -47,23 +47,23 @@
         "a7e253cd8dd95da3e20daf45519a8dc2": {
             "text": "Papelera"
         },
+        "157fa6b945671169a76bc677977f368d": {
+            "text": "Nombre del campo p\u00e1gina"
+        },
+        "ae9945c00ae261445f0277fbae516179": {
+            "text": "Cada p\u00e1gina en un PageList se identifica mediante una etiqueta, t\u00edpicamente un t\u00edtulo o campo titular. Puede especificar qu\u00e9 campo se debe utilizar aqu\u00ed. Para especificar varios campos, separe cada nombre de campo con un espacio. Si el campo tiene un objeto (como otra p\u00e1gina), a continuaci\u00f3n, especifique la propiedad con un punto, es decir anotherpage.title. Tenga en cuenta que si el campo que especifique tiene un valor en blanco a continuaci\u00f3n, ProcessWire utilizar\u00e1 el campo \"nombre\" de la p\u00e1gina."
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Opcionalmente, puede sustituir este valor en funci\u00f3n de cada plantilla en cada plantilla de ajustes \"avanzados\"."
+        },
         "43da4fffe875f34908241df94ccb535b": {
-            "text": "N\u00famero de p\u00e1ginas para mostrar antes de crear la paginaci\u00f3n"
+            "text": "N\u00famero de p\u00e1ginas para mostrar antes de la paginaci\u00f3n"
         },
         "94d3f06b64640bda750ee1d7c7527fe4": {
             "text": "Velocidad de la animaci\u00f3n (en ms)"
         },
-        "157fa6b945671169a76bc677977f368d": {
-            "text": "Nombre d ela p\u00e1gina para mostrar"
-        },
         "453420e78223c3c2ff7a28bfc3a44dde": {
-            "text": "La velocidad de animaci\u00f3n de cada \"rama\" del arbol. Los n\u00fameros bajos aumentan la velocidad, pero la animaci\u00f3n puede resultar menos visible. Si no quieres animaci\u00f3n, pon 0.   "
-        },
-        "8593fb74b02478b2734e442f86507d7b": {
-            "text": "Opcionalmente, puedes sustituir este valor en cada plantilla individualmente, en los ajustes avanzados."
-        },
-        "ae9945c00ae261445f0277fbae516179": {
-            "text": "Cada p\u00e1gina de un PageList se identifica por una etiqueta, normalmente un t\u00edtulo o titular (\"headline\"). Puedes especificar qu\u00e9 campo se debe utilizar aqu\u00ed. Para especificar varios campos, separa cada nombre de campo con un espacio. Si el campo corresponde a un objeto (como otra p\u00e1gina),  entonces especifica la propiedad con un punto, es decir \"otrapagina.titulo\". Ten en cuenta que si el campo que especificas tiene un valor en blanco, ProcessWire utilizar\u00e1 el campo \"name\" de la p\u00e1gina."
+            "text": "Esta es la velocidad a la que cada rama del \u00e1rbol de p\u00e1ginas anima arriba o hacia abajo. Los n\u00fameros m\u00e1s bajos son m\u00e1s r\u00e1pidos pero menos visible. Por ninguna animaci\u00f3n especifique 0."
         }
     }
 }
