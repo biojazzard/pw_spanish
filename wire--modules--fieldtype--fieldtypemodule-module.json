@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Fieldtype\\FieldtypeModule.module",
+    "file": "wire\/modules\/Fieldtype\/FieldtypeModule.module",
     "textdomain": "wire--modules--fieldtype--fieldtypemodule-module",
     "translations": {
         "40e27ece1fd60ce7081fd3084e866820": {

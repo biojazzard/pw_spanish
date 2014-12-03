@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Process\\ProcessList.module",
+    "file": "wire\/modules\/Process\/ProcessList.module",
     "textdomain": "wire--modules--process--processlist-module",
     "translations": {
         "5b4883d0e89e3d445d1cd1ccad668cf1": {

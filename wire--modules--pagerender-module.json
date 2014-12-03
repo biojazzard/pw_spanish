@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\PageRender.module",
+    "file": "wire\/modules\/PageRender.module",
     "textdomain": "wire--modules--pagerender-module",
     "translations": {
         "3a160df105e3d9d54575466354bdd312": {

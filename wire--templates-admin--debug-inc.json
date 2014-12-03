@@ -1,5 +1,5 @@
 {
-    "file": "wire\\templates-admin\\debug.inc",
+    "file": "wire\/templates-admin\/debug.inc",
     "textdomain": "wire--templates-admin--debug-inc",
     "translations": {
         "7421d68c70dfc346497573bf4e08acc5": {

@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Session\\SessionLoginThrottle\\SessionLoginThrottle.module",
+    "file": "wire\/modules\/Session\/SessionLoginThrottle\/SessionLoginThrottle.module",
     "textdomain": "wire--modules--session--sessionloginthrottle--sessionloginthrottle-module",
     "translations": {
         "87f1eff9c1a8afd8f0ecee1583f88ab2": {

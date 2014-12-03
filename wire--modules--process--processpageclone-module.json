@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Process\\ProcessPageClone.module",
+    "file": "wire\/modules\/Process\/ProcessPageClone.module",
     "textdomain": "wire--modules--process--processpageclone-module",
     "translations": {
         "5fb63579fc981698f97d55bfecb213ea": {

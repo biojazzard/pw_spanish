@@ -1,5 +1,5 @@
 {
-    "file": "wire\\core\\SessionCSRF.php",
+    "file": "wire\/core\/SessionCSRF.php",
     "textdomain": "wire--core--sessioncsrf-php",
     "translations": {
         "f5456cee91779e33a9f38ddca5081710": {

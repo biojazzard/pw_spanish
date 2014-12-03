@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Session\\SessionHandlerDB\\ProcessSessionDB.module",
+    "file": "wire\/modules\/Session\/SessionHandlerDB\/ProcessSessionDB.module",
     "textdomain": "wire--modules--session--sessionhandlerdb--processsessiondb-module",
     "translations": {
         "a76d4ef5f3f6a672bbfab2865563e530": {

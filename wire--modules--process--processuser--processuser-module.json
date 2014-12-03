@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Process\\ProcessUser\\ProcessUser.module",
+    "file": "wire\/modules\/Process\/ProcessUser\/ProcessUser.module",
     "textdomain": "wire--modules--process--processuser--processuser-module",
     "translations": {
         "5dee1c6493112af5676354d6c4243fbe": {

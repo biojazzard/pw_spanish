@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Process\\ProcessHome.module",
+    "file": "wire\/modules\/Process\/ProcessHome.module",
     "textdomain": "wire--modules--process--processhome-module",
     "translations": {
         "56cc559d234df2ffabc88b8926592264": {

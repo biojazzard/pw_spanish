@@ -1,5 +1,5 @@
 {
-    "file": "wire\\core\\WireHttp.php",
+    "file": "wire\/core\/WireHttp.php",
     "textdomain": "wire--core--wirehttp-php",
     "translations": {
         "77c7f3f51ebd4fa702990b4e33b1b168": {

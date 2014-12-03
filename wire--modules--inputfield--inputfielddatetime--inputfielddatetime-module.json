@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Inputfield\\InputfieldDatetime\\InputfieldDatetime.module",
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/InputfieldDatetime.module",
     "textdomain": "wire--modules--inputfield--inputfielddatetime--inputfielddatetime-module",
     "translations": {
         "b69f42ea4444ae5aa888b53cf6045710": {

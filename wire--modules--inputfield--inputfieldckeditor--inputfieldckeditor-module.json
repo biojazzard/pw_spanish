@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Inputfield\\InputfieldCKEditor\\InputfieldCKEditor.module",
+    "file": "wire\/modules\/Inputfield\/InputfieldCKEditor\/InputfieldCKEditor.module",
     "textdomain": "wire--modules--inputfield--inputfieldckeditor--inputfieldckeditor-module",
     "translations": {
         "ea4788705e6873b424c65e91c2846b19": {

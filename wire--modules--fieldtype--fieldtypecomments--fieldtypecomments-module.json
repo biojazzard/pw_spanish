@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Fieldtype\\FieldtypeComments\\FieldtypeComments.module",
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/FieldtypeComments.module",
     "textdomain": "wire--modules--fieldtype--fieldtypecomments--fieldtypecomments-module",
     "translations": {
         "017e8b29849843b6daa2501aad99f7c1": {

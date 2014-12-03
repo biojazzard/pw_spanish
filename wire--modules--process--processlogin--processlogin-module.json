@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Process\\ProcessLogin\\ProcessLogin.module",
+    "file": "wire\/modules\/Process\/ProcessLogin\/ProcessLogin.module",
     "textdomain": "wire--modules--process--processlogin--processlogin-module",
     "translations": {
         "5048eab3b6b17142d965cf9d43f6e460": {

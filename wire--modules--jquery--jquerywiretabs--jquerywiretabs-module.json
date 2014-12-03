@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Jquery\\JqueryWireTabs\\JqueryWireTabs.module",
+    "file": "wire\/modules\/Jquery\/JqueryWireTabs\/JqueryWireTabs.module",
     "textdomain": "wire--modules--jquery--jquerywiretabs--jquerywiretabs-module",
     "translations": {
         "9fdc49adcef1b65060a39f7a096d09e2": {

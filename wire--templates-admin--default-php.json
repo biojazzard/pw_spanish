@@ -1,5 +1,5 @@
 {
-    "file": "wire\\templates-admin\\default.php",
+    "file": "wire\/templates-admin\/default.php",
     "textdomain": "wire--templates-admin--default-php",
     "translations": {
         "453aceb005ceaf54a47da15fee8b2a26": {

@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Session\\SessionHandlerDB\\SessionHandlerDB.module",
+    "file": "wire\/modules\/Session\/SessionHandlerDB\/SessionHandlerDB.module",
     "textdomain": "wire--modules--session--sessionhandlerdb--sessionhandlerdb-module",
     "translations": {
         "6514b2122a2e569491dccb69eebe383c": {

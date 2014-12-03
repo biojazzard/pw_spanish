@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\AdminTheme\\AdminThemeDefault\\AdminThemeDefault.module",
+    "file": "wire\/modules\/AdminTheme\/AdminThemeDefault\/AdminThemeDefault.module",
     "textdomain": "wire--modules--admintheme--adminthemedefault--adminthemedefault-module",
     "translations": {
         "f0a5fc96d36fdda66a2a10b79be6d7fb": {

@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Fieldtype\\FieldtypeDatetime.module",
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDatetime.module",
     "textdomain": "wire--modules--fieldtype--fieldtypedatetime-module",
     "translations": {
         "eb44c7b0eebc98a8441abb862a254b3d": {

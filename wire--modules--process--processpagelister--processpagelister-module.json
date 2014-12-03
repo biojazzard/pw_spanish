@@ -1,5 +1,5 @@
 {
-    "file": "wire\\modules\\Process\\ProcessPageLister\\ProcessPageLister.module",
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageLister.module",
     "textdomain": "wire--modules--process--processpagelister--processpagelister-module",
     "translations": {
         "49ee3087348e8d44e1feda1917443987": {
