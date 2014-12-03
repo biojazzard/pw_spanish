@@ -47,23 +47,23 @@
         "a7e253cd8dd95da3e20daf45519a8dc2": {
             "text": "Papelera"
         },
-        "157fa6b945671169a76bc677977f368d": {
-            "text": "Nombre del campo de p\u00e1gina a mostrar"
-        },
-        "ae9945c00ae261445f0277fbae516179": {
-            "text": "Toda p\u00e1gina se identifica con una etiqueta, normalmente con un titulo o titular. Puedes especificar que campo se usa aqu\u00ed. Para especificar campos m\u00faltiples, separa cada nombre de campo con un espacio. Si el campo resuelve como un objeto (como otra \u00b4pagina) , entonces especifica la propiedad con un punto, p.ej: otrapagina.title. Date cuenta que si el nombre especificado resuelve a un valor en blanco, entonces Processwire usar\u00e1 el campo \"name\". "
-        },
-        "8593fb74b02478b2734e442f86507d7b": {
-            "text": "Puedes opcionalmente omitir esta configuraci\u00f3n en entorno plantilla en cada plantilla, bajo el apartado \"avanzado\""
-        },
         "43da4fffe875f34908241df94ccb535b": {
-            "text": "N\u00famero de p\u00e1ginas a mostrar antes de paginaci\u00f3n"
+            "text": "N\u00famero de p\u00e1ginas para mostrar antes de crear la paginaci\u00f3n"
         },
         "94d3f06b64640bda750ee1d7c7527fe4": {
             "text": "Velocidad de la animaci\u00f3n (en ms)"
         },
+        "157fa6b945671169a76bc677977f368d": {
+            "text": "Nombre d ela p\u00e1gina para mostrar"
+        },
         "453420e78223c3c2ff7a28bfc3a44dde": {
-            "text": "Es la velocidad a la cual cada rama en el \u00e1rbol de p\u00e1ginas se anima hac\u00eda arriba o hacia abajo. N\u00fameros m\u00e1s bajos implica m\u00e1s velocidad, pero menos visibilidad. Si no deseas animaci\u00f3n, el valor es 0."
+            "text": "La velocidad de animaci\u00f3n de cada \"rama\" del arbol. Los n\u00fameros bajos aumentan la velocidad, pero la animaci\u00f3n puede resultar menos visible. Si no quieres animaci\u00f3n, pon 0.   "
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Opcionalmente, puedes sustituir este valor en cada plantilla individualmente, en los ajustes avanzados."
+        },
+        "ae9945c00ae261445f0277fbae516179": {
+            "text": "Cada p\u00e1gina de un PageList se identifica por una etiqueta, normalmente un t\u00edtulo o titular (\"headline\"). Puedes especificar qu\u00e9 campo se debe utilizar aqu\u00ed. Para especificar varios campos, separa cada nombre de campo con un espacio. Si el campo corresponde a un objeto (como otra p\u00e1gina),  entonces especifica la propiedad con un punto, es decir \"otrapagina.titulo\". Ten en cuenta que si el campo que especificas tiene un valor en blanco, ProcessWire utilizar\u00e1 el campo \"name\" de la p\u00e1gina."
         }
     }
 }

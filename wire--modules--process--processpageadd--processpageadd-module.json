@@ -11,9 +11,6 @@
         "de9ced9bf5e9829de4a93ad8c9d7a170": {
             "text": "A\u00f1adir"
         },
-        "5d1b7adfdc7ca6d81d9ddbfa22b443af": {
-            "text": "Vas a a\u00f1adir una p\u00e1gina utilizando la plantilla: '%s'"
-        },
         "abc32b2bc5cd1b61b5d3738f09405c0d": {
             "text": "Nos has rellenado un campo obligatorio: nombre"
         },
@@ -29,17 +26,26 @@
         "c4f4f1adddc771c086745ca04050d415": {
             "text": "A\u00f1adir p\u00e1gina"
         },
+        "a3e80c9c5e2dfb9f58712a83e2006a5e": {
+            "text": "\u00bfD\u00f3nde quieres a\u00f1adir %s?"
+        },
         "100e1438e523c6553ac21fd872262d56": {
-            "text": "Por favor eliga una p\u00e1gina padre %s de las siguientes:"
+            "text": "Por favor, selecciona la p\u00e1gina de nivel superior %s a continuaci\u00f3n:"
+        },
+        "d337f7f6b3b52602b84f206e80fc6a85": {
+            "text": "No existe una plantilla para poder a\u00f1adir p\u00e1ginas aqu\u00ed"
+        },
+        "76effbf5625101a8e29d5720e986ee6a": {
+            "text": "La plantilla \"%s\" no est\u00e1 permitida aqu\u00ed"
+        },
+        "41553b358b6daba19bf079d5ad3eefb1": {
+            "text": "P\u00e1gina provisional sin usar"
         },
         "bb8bbda58833ce19eef6193e1918e8cf": {
-            "text": "Anular la publicaci\u00f3n autom\u00e1tica."
+            "text": "Desactiva la publicaci\u00f3n autom\u00e1tica"
         },
         "13148993e6c4399880e879c88a664347": {
-            "text": "Por defecto, las p\u00e1ginas con campos comunes (\"title\", mayormente) se publicar\u00e1n autom\u00e1ticamente al ser a\u00f1adidas, haciendo el puente al caso habitual de hallarse despublicado en ese momento. Esto normalmente ahorra tiempo. Pero puedes anular este modo de funcionamiento haciendo click en el siguiente campo."
-        },
-        "a3e80c9c5e2dfb9f58712a83e2006a5e": {
-            "text": "Donde desea a\u00f1adir el nuevo %s"
+            "text": "Por defecto, las p\u00e1ginas que s\u00f3lo tienen campos globales (el m\u00e1s com\u00fan es el campo \"t\u00edtulo\") se publicar\u00e1n de forma autom\u00e1tica al crearlas, sin pasar por el estado \"sin publicar\" habitual. En general, esto permite ahorrar tiempo, por lo que es una opci\u00f3n deseable. Pero puedes cancelar este comportamiento marcando la casilla a continuaci\u00f3n."
         }
     }
 }

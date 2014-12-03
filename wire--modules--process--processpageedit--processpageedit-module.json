@@ -188,17 +188,20 @@
         "4e5878c0e4b4e901ee96c19e7fd05914": {
             "text": "%d cambios"
         },
-        "fcdd8c7fe4647ee6186ea45dd69d425d": {
-            "text": "Las subp\u00e1ginas se ordenan por \"%s\" siguiendo la configuraci\u00f3n de la plantilla"
-        },
-        "7ddc881b8c4b63699dd8487273384a38": {
-            "text": "Las subp\u00e1ginas se ordenan por"
-        },
         "7b9bb8a9e6b0d2b64837e652485e11c9": {
-            "text": "Editar P\u00e1gina: %s"
+            "text": "Editar p\u00e1gina: %s"
+        },
+        "30b78fb546fe9686f84a740a5e5524a3": {
+            "text": "La URL de la p\u00e1gina se ha cambiado a \"% s\" porque el nombre solicitado ya estaba tomado."
         },
         "70d9be9b139893aa6c69b5e77e614311": {
             "text": "Confirmar"
+        },
+        "fcdd8c7fe4647ee6186ea45dd69d425d": {
+            "text": "Las p\u00e1ginas de nivel inferior est\u00e1n ordenadas por \"%s\" seg\u00fan el ajuste definido en la plantilla."
+        },
+        "7ddc881b8c4b63699dd8487273384a38": {
+            "text": "Las subp\u00e1ginas se ordenan por"
         }
     }
 }
