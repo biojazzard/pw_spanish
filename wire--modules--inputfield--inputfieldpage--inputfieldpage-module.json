@@ -56,6 +56,9 @@
         "5b2e8722316eee4b8e200d6d07b51915": {
             "text": "Si usted quiere encontrar p\u00e1ginas seleccionables utilizando un fragmento de c\u00f3digo PHP en lugar de seleccionar una p\u00e1gina matriz o plantilla (arriba) y luego introducir el c\u00f3digo para encontrar las p\u00e1ginas seleccionables. Esta declaraci\u00f3n tiene acceso a la p\u00e1gina $ $ y p\u00e1ginas variables de la API, donde $ p\u00e1gina se refiere a la p\u00e1gina que se est\u00e1 editando. El fragmento de c\u00f3digo debe devolver, ya sea un PageArray o NULL. Usando esto es opcional, y si se utiliza, anula los campos padre \/ plantilla \/ selector arriba. NOTA: No es compatible con PageListSelect o Autocompletar tipos de campos de entrada."
         },
+        "b329c0bc717cd35d04a9362fc0d778c2": {
+            "text": "return $page->parent->parent->children(\"name=locations\")->first()->children();"
+        },
         "bb990f9776c28444dad4fa48fb2c946c": {
             "text": "El campo Etiqutea"
         },

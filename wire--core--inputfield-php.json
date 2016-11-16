@@ -64,9 +64,6 @@
         },
         "bb0df4a2d5e0d99eaba53f152ff7f0f7": {
             "text": "Introduce las condiciones para que este campo sea obligatorio."
-        },
-        "efdf8051d64766330e13627274b01787": {
-            "text": "La condiciones se expresan con un selector \"field=value\" conteniendo campos y valores que contrastar. Condiciones m\u00faltiples separadas con coma.\r\n"
         }
     }
 }
