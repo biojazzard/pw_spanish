@@ -31,6 +31,21 @@
         },
         "e386ede4750a227397715b73b7727273": {
             "text": "Permisos de usuario actuales en esta p\u00e1gina"
+        },
+        "dc62e13d18c4cec89567255a0bbd8a67": {
+            "text": "Variables API"
+        },
+        "35ad48797a780091740cbcf14ebc094d": {
+            "text": "Ganchos (hooks)"
+        },
+        "62483fbc1d13ed84612061e24f6e72fb": {
+            "text": "Queries PDO ($database)"
+        },
+        "92dd35cc61ffc41d02defdcef071856d": {
+            "text": "Timers"
+        },
+        "951102c6edd76f552294869d42635888": {
+            "text": "Queries MySQLi ($db) - En Desuso."
         }
     }
 }

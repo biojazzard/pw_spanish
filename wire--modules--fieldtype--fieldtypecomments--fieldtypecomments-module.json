@@ -98,12 +98,6 @@
         "a27c92ebebda4931039636893b5c716d": {
             "text": "El campo que almacena el usuario ha escrito comentarios de una sola p\u00e1gina"
         },
-        "bbdc0889960bd1af9368ef6a4ba299f2": {
-            "text": "ProcessWire"
-        },
-        "61d8be701930d3db7ca0e8d32d041ab6": {
-            "text": "processwire"
-        },
         "e0c0bcd1370c684469277f8066e3c64f": {
             "text": "P\u00e1gina"
         },
@@ -121,6 +115,18 @@
         },
         "15ede22296b59c623fa73c28c6dbe629": {
             "text": "Texto"
+        },
+        "e90234905413e689d67361b8f618b63f": {
+            "text": "Salvar en modo silencio?"
+        },
+        "d2c1e7bd67d4253ff76376ed718cf94f": {
+            "text": "Si chequeado, la hora de modificaci\u00f3n y el usuario no ser\u00e1 actualizada cuando se a\u00f1ada un comentario."
+        },
+        "bbdc0889960bd1af9368ef6a4ba299f2": {
+            "text": "Process Wire"
+        },
+        "61d8be701930d3db7ca0e8d32d041ab6": {
+            "text": "process wire"
         }
     }
 }
