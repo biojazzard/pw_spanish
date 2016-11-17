@@ -11,7 +11,7 @@ In Latin America the second form is more used, but in Spain is considered too co
 
 Translated from scratch by Alfredo Llanos | [alfredo@1un.es](alfredo@1un.es)
 
-17 November 2017
+17 November 2016
 
 ## ProcessWire Support
 
