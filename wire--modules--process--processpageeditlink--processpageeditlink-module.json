@@ -6,31 +6,16 @@
             "text": "Elija una p\u00e1gina"
         },
         "ddb0ec6745aefbc02b9c9eb0dfb2e796": {
-            "text": "Introduzca una direcci\u00f3n URL, seleccione una p\u00e1gina, o seleccionar un archivo para link:"
+            "text": "Introduce una direcci\u00f3n URL, selecciona una p\u00e1gina, o selecciona un archivo para vincular:"
         },
         "f6f7f0f8aa1ef94fdf01a81f1cb24e7a": {
             "text": "Enlace a URL"
         },
-        "d0371b1908138f8cd5be5356ef5a46ab": {
-            "text": "Enlace a la p\u00e1gina"
-        },
-        "7ac547b42cb510a9564daab982ac839a": {
-            "text": "Enlace a la P\u00e1gina hijo"
-        },
-        "d6610e6929ce3f2c5d432efd8cb96097": {
-            "text": "Esto es lo mismo que \"Enlace a la p\u00e1gina\" anterior, pero puede m\u00e1s r\u00e1pido de usar si la vinculaci\u00f3n a los ni\u00f1os de la p\u00e1gina actual."
-        },
         "629ea6ac7fee06a764a49cb39bd356d9": {
-            "text": "Iniciar en ventana nueva?"
+            "text": "\u00bfAbrir en ventana nueva?"
         },
         "1f3e9bfe3126acfe0af746ec6ed2db68": {
-            "text": "Si est\u00e1 marcada, el enlace se abrir\u00e1 en una nueva ventana dejando la ventana actual en su lugar."
-        },
-        "149a978aed458d66e08de0460cdbf65e": {
-            "text": "Vincular a archivo"
-        },
-        "27c6c65717076df3e127c24bee401fa7": {
-            "text": "Para seleccionar un archivo desde otra p\u00e1gina, haga clic en 'Enlace a la p\u00e1gina' arriba y elija la p\u00e1gina que desea seleccionar un archivo de."
+            "text": "Si est\u00e1 seleccionado, el enlace se abrir\u00e1 en una nueva ventana dejando la ventana actual en su lugar."
         },
         "eb629addbfc0dd4a0353d6defff81923": {
             "text": "Escribe la URL de enlaces de la p\u00e1gina"
@@ -46,6 +31,99 @@
         },
         "2453cc3c047929e3210a51607202b8bb": {
             "text": "* Actualmente experimental"
+        },
+        "97e7c9a7d06eac006a28bf05467fcc8b": {
+            "text": "Enlace"
+        },
+        "c1ea9d15a4b45722e553d5227d2a68ec": {
+            "text": "Introduzca una direcci\u00f3n URL, direcci\u00f3n de correo electr\u00f3nico, ancla o introduzca palabras para encontrar una p\u00e1gina."
+        },
+        "16fc67b7eaa1e52e2ad1ecd9d42917bc": {
+            "text": "Selecciona un Anclaje"
+        },
+        "b7a5bb32ec6b8bdd7933e1aed1226051": {
+            "text": "Anclajes encontrados en el texto que est\u00e1 editando."
+        },
+        "99e7707748ae048e17c5810fad119e0b": {
+            "text": "Selecciona una P\u00e1gina"
+        },
+        "d98192e3cb911892e861fde0f812f062": {
+            "text": "Selecciona una P\u00e1gina Hija"
+        },
+        "034cc05920524f811060e035664d50a6": {
+            "text": "Esto es lo mismo que \"Seleccionar p\u00e1gina\", pero puede ser m\u00e1s r\u00e1pido si se enlazas a los hijos de la p\u00e1gina actual."
+        },
+        "287234a1ff35a314b5b6bc4e5828e745": {
+            "text": "Atributos"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "T\u00edtulo"
+        },
+        "26175e18932f5310229ab78e3acdee97": {
+            "text": "Texto adicional para describir el enlace."
+        },
+        "c41a31890959544c6523af684561abe5": {
+            "text": "Objetivo"
+        },
+        "918dfcbd7b97a5aa266ceb37a76c3dee": {
+            "text": "Donde se abrir\u00e1 el enlace"
+        },
+        "eba991d56b1be0b940d722211bab87bc": {
+            "text": "Relaci\u00f3n"
+        },
+        "d9167711e3727337c3e12dbaaac4511f": {
+            "text": "Relaci\u00f3n de enlace a documento."
+        },
+        "9bd81329febf6efe22788e03ddeaf0af": {
+            "text": "clase"
+        },
+        "dcbd7beee5b5739c187b51f6305c7639": {
+            "text": "Clases adicionales que pueden afectar la apariencia o el comportamiento del enlace."
+        },
+        "22d6eb83c9e9109699daa15ef964e88f": {
+            "text": "Puedes personalizar los atributos disponibles mostrados arriba en la configuraci\u00f3n del m\u00f3dulo %s."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ninguno"
+        },
+        "d7e5b64c4aa7c174c3b8e7c013f57891": {
+            "text": "abrir en nueva ventana"
+        },
+        "14ca6a0caadcbfe73ca835d810b6efe5": {
+            "text": "decir a los buscadores que no sigan el enlace"
+        },
+        "1aa14e9f377b528b5537d70fbd35c6a2": {
+            "text": "Seleccionar Archivo"
+        },
+        "518c59a47fc797ac7a43040c96b8e2e2": {
+            "text": "Mostrando archivos en la p\u00e1gina:"
+        },
+        "35afa790dae10280b1b4b38417e756ee": {
+            "text": "Selecciona el archivo de esta p\u00e1gina a la que desea enlazar."
+        },
+        "0fc76f2ae9061248b25a11b099e80fd6": {
+            "text": "Para seleccionar un archivo desde otra p\u00e1gina, haga clic en \"Seleccionar p\u00e1gina\" y seleccione la p\u00e1gina desde la que desea seleccionar un archivo."
+        },
+        "6c7999851a00aff2df139ead430fac5c": {
+            "text": "Opciones de Atributo"
+        },
+        "b31cbfca485dbc22cfb79ea992fa8e98": {
+            "text": "Introduce un valor de atributo por l\u00ednea. El usuario podr\u00e1 seleccionar estos como opciones al agregar enlaces. Para hacer una opci\u00f3n seleccionada por defecto (para los nuevos acoplamientos), precederla con un m\u00e1s  \"+\"."
+        },
+        "a09630836c5a01bfa93c8cdfbbb065d3": {
+            "text": "Atributos de enlace externos"
+        },
+        "9b291241830397114b711a98ca6695d6": {
+            "text": "Especifique el atributo seleccionado predeterminado que se propagar\u00e1 autom\u00e1ticamente cuando se detecte un enlace externo."
+        },
+        "7f4fd9351aed8f03ec4559872d125eb4": {
+            "text": "Si se utiliza, el valor debe ser uno que haya predefinido anteriormente."
+        },
+        "eafd32d33d67b845444c70572e6c1e50": {
+            "text": "Ejemplo: Especificar nofollow har\u00eda que los enlaces externos quedaran predeterminados para no ser seguidos por los motores de b\u00fasqueda."
+        },
+        "1da324557a591359538e1705e30b5dea": {
+            "text": "Ejemplo: Especificar _blank har\u00eda los enlaces externos por defecto para abrir en una nueva ventana."
         }
     }
 }

@@ -1,0 +1,120 @@
+{
+    "file": "wire\/modules\/Page\/PageFrontEdit\/PageFrontEditConfig.php",
+    "textdomain": "wire--modules--page--pagefrontedit--pagefronteditconfig-php",
+    "translations": {
+        "2e3924cdf708580effa1682a30cc024c": {
+            "text": "Antes de utilizar la edici\u00f3n front-end, revise la ayuda de edici\u00f3n de la parte frontal."
+        },
+        "728f08c6a5722017ce7fb9747da7bac3": {
+            "text": "Configuraci\u00f3n del editor en l\u00ednea"
+        },
+        "180efa8a9b1cfee25988715f7d673dbc": {
+            "text": "Opci\u00f3n A: editar campos front-editable"
+        },
+        "97f5063cc7446aefa21ae4e7fb3cc146": {
+            "text": "Estos campos basados en texto se pueden editar en el front-end, directamente en la p\u00e1gina, simplemente marcando las casillas siguientes."
+        },
+        "d0526ac74110f73ee2926fd2d650c4a9": {
+            "text": "**Tenga cuidado con esta opci\u00f3n:** Si est\u00e1 imprimiendo el valor de un campo en m\u00e1s de un lugar en una p\u00e1gina, deber\u00eda usar [Opci\u00f3n B, C o D](https:\/\/processwire.com\/api\/Modules\/front-end-editing\/)."
+        },
+        "78badcbc932189f3c876e9f2f55350cd": {
+            "text": "(no recomendad)"
+        },
+        "f16845125537677cf6b52cc53b2e1ee7": {
+            "text": "Opci\u00f3n A: \u00e1mbito del editor"
+        },
+        "5fd733ebd21770ef2dff6a0382db2117": {
+            "text": "Cuando se muestran los campos marcados arriba, \u00bfd\u00f3nde deber\u00edan ser editables?"
+        },
+        "2fac3d64842df30df607c68da216acd7": {
+            "text": "Campos editables s\u00f3lo si son de la p\u00e1gina que se est\u00e1 prestando (recomendado)"
+        },
+        "aa27ca4492b42802705a21889bb9a27e": {
+            "text": "Campos editables independientemente de la p\u00e1gina"
+        },
+        "8b0326c326b1dddbdc4bf7b3519c02f6": {
+            "text": "Botones Guardar\/Cancelar"
+        },
+        "046d8235ad520c64afae23d7aaa4ffcc": {
+            "text": "Localizaci\u00f3n de los Botones"
+        },
+        "06b9281e396db002010bde1de57262eb": {
+            "text": "Autom\u00e1tico"
+        },
+        "a4d0d101d6a34bf80ffeee601c3ff84a": {
+            "text": "Arriba Izquierda"
+        },
+        "d3708546a929dfcf66eaeaba794486eb": {
+            "text": "Arriba Derecha"
+        },
+        "b67554192c50f4f6a4c1bd4797f6c3f8": {
+            "text": "Abajo Izquierda"
+        },
+        "5968e3c37145f57587afcba727d2b120": {
+            "text": "Abajo Derecha"
+        },
+        "61a4338583e41efc9ecde01cc622f21c": {
+            "text": "Tipo de Botones"
+        },
+        "de39b6da18c671eec0524a2bfc0da0c2": {
+            "text": "Auto (iconos y texto para el escritorio, iconos para dispositivos t\u00e1ctiles)"
+        },
+        "fb8bc05d9bb7a27307aff0d799f995fd": {
+            "text": "Iconos y Texto"
+        },
+        "e01d2e7e85c1522149ddd1abead1167f": {
+            "text": "Texto solo"
+        },
+        "bf1079a9cc453b4caaa03e1b4d3c41d7": {
+            "text": "Iconos solo"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "M\u00e1s"
+        },
+        "fdf8ef9fa133d1852bef33c7c85144cb": {
+            "text": "Existen varias maneras diferentes de habilitar la edici\u00f3n front-end para este campo. Independientemente de la opci\u00f3n que elija, la edici\u00f3n front-end s\u00f3lo aparecer\u00e1 cuando el usuario tenga los permisos adecuados para la p\u00e1gina y el campo."
+        },
+        "4cb305eca1333573edc880819fc7c977": {
+            "text": "Los permisos requeridos son edici\u00f3n de p\u00e1ginas y edici\u00f3n de p\u00e1ginas en el front-end"
+        },
+        "5e7f95d663a3711b9965a6fa8707ef6f": {
+            "text": "Cuando un campo es editable, volando muestra un puntero de rat\u00f3n de contexto en lugar de un puntero regular. Para editar el campo en el front-end, debe hacer **doble click** en \u00e9l."
+        },
+        "17dc7a031f9540dbeb3cf9e10a7a1ebf": {
+            "text": "Esta opci\u00f3n no es compatible con este campo."
+        },
+        "5f858c76077c44036b1442243b30ac34": {
+            "text": "Opci\u00f3n A: Edici\u00f3n autom\u00e1tica"
+        },
+        "88dad1b60aca7105bd5e7e185fa221ec": {
+            "text": "Cuando el valor formateado del campo se recupera de una p\u00e1gina $, ser\u00e1 editable sin tener que escribir ning\u00fan c\u00f3digo de marcado o c\u00f3digo para \u00e9l. Esto es suponiendo que el usuario tiene permiso para editarlo."
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Configurar"
+        },
+        "c214147662040e46e52c3cd0006a1122": {
+            "text": "Esta opci\u00f3n est\u00e1 actualmente HABILITADA para este campo."
+        },
+        "c4755719068ffa0049bab373cee32aef": {
+            "text": "Opci\u00f3n B: llamada al m\u00e9todo API"
+        },
+        "b4da834069eb28c98cdf74c0dd7179d3": {
+            "text": "Utilice $ page->edit (\"% s\"); En lugar de $Page->%s; Cuando desea dar salida al valor."
+        },
+        "a88ea479a9d66a019262dbfd5b4879b7": {
+            "text": "Se admite cualquiera de las siguientes opciones de sintaxis (elegir una). El \"1001\" puede ser cualquier ID de p\u00e1gina o ruta de acceso, y el \"...\" puede ser cualquier marcado o c\u00f3digo, normalmente donde se genera el valor de campo."
+        },
+        "48f403566075715027bd7fc9e1902cbc": {
+            "text": "Opci\u00f3n C: A\u00f1adir etiquetas de edici\u00f3n HTML para crear una regi\u00f3n editable"
+        },
+        "ee885b8843c6c111129d0eaca536bbbe": {
+            "text": "Opci\u00f3n D: Agregar atributos de edici\u00f3n HTML a la etiqueta de marcado existente para crear una regi\u00f3n editable"
+        },
+        "0e060a7eca98daf0e3c2e5280319e907": {
+            "text": "La etiqueta div que se muestra a continuaci\u00f3n puede ser cualquier etiqueta HTML existente que abraza su regi\u00f3n editable."
+        },
+        "5c23fae6f3e37e699b6663a4fa6dbf08": {
+            "text": "Tenga en cuenta que al utilizar los atributos de edici\u00f3n, siempre se utiliza el editor modal. Todas las otras opciones utilizar\u00e1n el editor en l\u00ednea cuando se admita."
+        }
+    }
+}

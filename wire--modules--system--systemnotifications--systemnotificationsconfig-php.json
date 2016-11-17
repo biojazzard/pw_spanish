@@ -1,0 +1,141 @@
+{
+    "file": "wire\/modules\/System\/SystemNotifications\/SystemNotificationsConfig.php",
+    "textdomain": "wire--modules--system--systemnotifications--systemnotificationsconfig-php",
+    "translations": {
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "Encendido"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Apagado"
+        },
+        "945d5e233cf7d6240f6b783b36a374ff": {
+            "text": "Izquierda"
+        },
+        "92b09c7c48c520c3c55e497875da437c": {
+            "text": "Derecha"
+        },
+        "64930416d9c5663de5d4ef880d8e0b0e": {
+            "text": "Estado de las notificaciones"
+        },
+        "2e9cdb9adc7f7c13f750d7fe7ab46979": {
+            "text": "Cuando est\u00e1 desactivada, las notificaciones no se procesar\u00e1n."
+        },
+        "1983cbef846882d5eb60db0f1af3cf4a": {
+            "text": "Seguir edici\u00f3n de p\u00e1gina"
+        },
+        "6f089aa14345991d2dc5234b61b2841c": {
+            "text": "Notifica a los usuarios cuando intentan editar una p\u00e1gina que ya se est\u00e1 editando."
+        },
+        "51bcb0deba18f3c17526ac9589275a1b": {
+            "text": "Orden de notificaci\u00f3n"
+        },
+        "452fe939bf3b82240e39d4e32402f191": {
+            "text": "Seleccionar en qu\u00e9 orden deben aparecer las notificaciones."
+        },
+        "dbc0773df87763dba658c0718cb23cbd": {
+            "text": "De nuevo a m\u00e1s antiguo"
+        },
+        "795c06257e98282a98f9b4372343154c": {
+            "text": "De m\u00e1s antiguo al m\u00e1s nuevo"
+        },
+        "2871a976bc7a1ed674bc578c34af81ee": {
+            "text": "Activar Ganchos de notificaci\u00f3n autom\u00e1ticos"
+        },
+        "b106396b3992fc580dd88f36d98c32b5": {
+            "text": "Siempre que ocurra alguno de estos eventos, se notificar\u00e1 al usuario del sistema anterior."
+        },
+        "53af239ee5d3e261545dededcb6ffd57": {
+            "text": "404 P\u00e1gina no encontrada"
+        },
+        "926febaa3f486221378c09d2fb900eff": {
+            "text": "Logro y fracaso del acceso del usuario"
+        },
+        "6d204ddabcf344603448790344217ec5": {
+            "text": "Cerrar sesi\u00f3n de usuario"
+        },
+        "1bb51316162ffaecdae67003acc36d00": {
+            "text": "Estos son principalmente s\u00f3lo ejemplos de notificaciones con fines de demostraci\u00f3n."
+        },
+        "d9b71f69d8afdf5b522a5529ec7434f5": {
+            "text": "Nombre del usuario que recibe notificaciones del sistema"
+        },
+        "2495a34a1379d1325ca518e3c0b2b098": {
+            "text": "Tiempo entre actualizaciones"
+        },
+        "d4f7e0a594dd8d1eb92264b3d43c507d": {
+            "text": "Frecuencia de comprobaci\u00f3n de actualizaci\u00f3n de las notificaciones (en milisegundos). Ejemplo: 5000 significa 5 segundos."
+        },
+        "534fd46732986cba0efeda8701592427": {
+            "text": "Formato de fecha"
+        },
+        "414f2eb480e8f38b6f93f41ca28279fb": {
+            "text": "Formato de fecha utilizado para las notificaciones. Utilice el formato date () o strftime (), o \"relativo\" para la fecha\/hora relativa, \"rel\" para la fecha\/hora abreviada."
+        },
+        "64a87d656e89eca4f73f4ecda74480f5": {
+            "text": "Icono de mensaje"
+        },
+        "b454aae1916829fd90512b2c31a01e68": {
+            "text": "Icono de advertencia"
+        },
+        "c59e636f1291af56f91d53c3a51ac8f8": {
+            "text": "Icono de error"
+        },
+        "b386baeabf452105b52ddd8a8dbebf1c": {
+            "text": "Delay fantasma"
+        },
+        "fa3ed13e0d1d3606900f0d0fcb96b94e": {
+            "text": "Cu\u00e1nto tiempo aparecen los mensajes fantasma (en ms)."
+        },
+        "a24efc3293365b4ca44161c70fffe1b7": {
+            "text": "Retardo de error de fantasma"
+        },
+        "0673410c6de314e9317a7f593f6a99b6": {
+            "text": "Cu\u00e1nto tiempo aparecen los errores fantasma (en ms)."
+        },
+        "cc7148e90f03a6539cd11c343d8fdf8a": {
+            "text": "Opacidad de error de fantasma"
+        },
+        "4f8b65fe69b4b13c2a02bf47648c9a34": {
+            "text": "Opacidad total de los fantasmas (0.1-1.0)"
+        },
+        "333da8687b16a586812b92b6acda8674": {
+            "text": "L\u00edmite de fantasmas"
+        },
+        "8a1cf8cf2597193851e727307d3d3b31": {
+            "text": "Mostrar el resumen del fantasma si es m\u00e1s que."
+        },
+        "a2736075ee5bcaeaad4650b9a1bb7d43": {
+            "text": "Velocidad de devanecimiento del fantasma"
+        },
+        "c4f9ba7565ccdd1b1ec3e06265ef4995": {
+            "text": "Velocidad a la que los fantasmas entran o salen."
+        },
+        "081b98759749efbb07052c62da920324": {
+            "text": "Intermedio (sin desvanecimiento al entrar o salir)"
+        },
+        "e16b5b7f26f54214445cbe38d72c2828": {
+            "text": "R\u00e1pido"
+        },
+        "960b44c579bc2f6818d2daaf9e4c16f0": {
+            "text": "Normal"
+        },
+        "efa5397985b8609a5dbeb430a4bcadd3": {
+            "text": "Lento"
+        },
+        "4b3f62787ef2a663f5af7c2a25c0c617": {
+            "text": "Posici\u00f3n del fantasma"
+        },
+        "22c3a11778dfb998611f45125023b39c": {
+            "text": "De qu\u00e9 lado de los fantasmas de la pantalla deben flotar."
+        },
+        "d6e7bc4caa8b68af7f00ff457e4d3344": {
+            "text": "Avisos de ejecuci\u00f3n\/solicitud \u00fanica"
+        },
+        "a2e68070d70d39ee23fe1edf9767c11c": {
+            "text": "Mostrar como notificaciones"
+        },
+        "9650b6be51970b497f28b3f079f7bf79": {
+            "text": "Dejarlos en paz"
+        }
+    }
+}

@@ -12,19 +12,22 @@
             "text": "Ninguna"
         },
         "8a4b7daad69389d978a2ea6bab5b07f8": {
-            "text": "Formato de salida de la hora"
+            "text": "Formato de Salida de la Hora"
         },
         "cce774e589c4c23ce9c8cc7cb958861a": {
-            "text": "Si quieres tiempo de salida, adem\u00e1s de la fecha, seleccione el formato que se utilizar\u00e1 cuando se emiten tiempo con este campo. Esto se combinar\u00e1 con el formato de fecha."
+            "text": "Si deseas que el tiempo de salida aparezca adem\u00e1s de la fecha, seleccione el formato que se utilizar\u00e1 al imprimir el tiempo con este campo. Esto se combinar\u00e1 con el formato de fecha."
         },
         "c1a326c2753f410fad585781390da97f": {
             "text": "Formato de salida de Fecha\/Hora"
         },
         "7b9ea642d1b10d7efc18d2c64a8940f8": {
-            "text": "La fecha \/ hora se emitir\u00e1 de acuerdo con el siguiente formato. Esta se construye autom\u00e1ticamente de las selecciones de fecha \/ hora anteriores, pero puede cambiar seg\u00fan sea necesario para satisfacer sus necesidades."
+            "text": "La fecha\/hora se emitir\u00e1n de acuerdo con el siguiente formato. Esto se crea autom\u00e1ticamente a partir de las selecciones de fecha\/hora anteriores, pero puede cambiarlas seg\u00fan sea necesario para satisfacer sus necesidades."
         },
         "e606a86ec2852d83f2ea4622de245889": {
-            "text": "Consulte la referencia de funciones PHP fecha para obtener m\u00e1s informaci\u00f3n sobre c\u00f3mo personalizar este formato. Alternativamente, puede utilizar un formato strftime de PHP si se desea para la localizaci\u00f3n."
+            "text": "Consulta la referencia de funci\u00f3n [PHP date] (http:\/\/www.php.net\/manual\/en\/function.date.php) para obtener m\u00e1s informaci\u00f3n sobre c\u00f3mo personalizar este formato. Alternativamente, puedes usar un formato [PHP strftime] (http:\/\/www.php.net\/manual\/en\/function.strftime.php) si lo deseas para la localizaci\u00f3n."
+        },
+        "5bdb46a370b6d6a509c68a76551e5e3d": {
+            "text": "Para formatos de fecha\/hora relativos, consulte Formato de Salida de la Hora"
         }
     }
 }

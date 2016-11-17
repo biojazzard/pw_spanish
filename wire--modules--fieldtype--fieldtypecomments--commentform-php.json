@@ -2,9 +2,6 @@
     "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentForm.php",
     "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentform-php",
     "translations": {
-        "6f207f8b5dfe1eebac63467930df5189": {
-            "text": "h3"
-        },
         "55db28530640e9fb41ebf71ea8afce72": {
             "text": "Enviar comentario"
         },
@@ -12,10 +9,10 @@
             "text": "Gracias, tu envio se ha guardado"
         },
         "5443970b690d94d32a481cac5cf31cb6": {
-            "text": "Su comentario ha sido enviado y aparecer\u00e1 una vez aprobado por el moderador."
+            "text": "Tu comentario ha sido enviado y aparecer\u00e1 una vez aprobado por el moderador."
         },
         "af54d31f765138998bf8d2903d4095ce": {
-            "text": "El env\u00edo no se salv\u00f3 debido a uno o m\u00e1s errores. Por favor, compruebe que ha completado todos los campos antes de enviar de nuevo."
+            "text": "El env\u00edo no se guard\u00f3 debido a uno o m\u00e1s errores. Por favor, comprueba que ha completado todos los campos antes de enviar de nuevo."
         },
         "614cffa523202658a898e34a5d94d05e": {
             "text": "Nombre"
@@ -31,6 +28,21 @@
         },
         "a4d3b161ce1309df1c4e25df28694b7b": {
             "text": "Enviar"
+        },
+        "8dd3177b8d343a6b39f8e817f528f3db": {
+            "text": "Por favor, elige una puntuaci\u00f3n"
+        },
+        "8cc46df5ae23686a6fbb8e132f4aaf26": {
+            "text": "Respuestas"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Todas"
+        },
+        "5256dc211b8fc0ac5ea5e2418e18bf98": {
+            "text": "Notificaciones por Email"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Apagado"
         }
     }
 }

@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/PageBookmarks.php",
+    "textdomain": "wire--modules--process--processpageedit--pagebookmarks-php",
+    "translations": {
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Marcadores"
+        },
+        "d0b0f5485a703781d56c4c55bdce4da7": {
+            "text": "Editar Marcadores"
+        },
+        "a181a603769c1f98ad927e7367c7aa51": {
+            "text": "todos"
+        },
+        "e0748a9891a21b21d3c6f6376ab12f8f": {
+            "text": "Actualmente, no se han definido marcadores"
+        },
+        "ed881bac6397ede33c0a285c9f50bb83": {
+            "text": "todos"
+        },
+        "d5a8dcb24e93ee00847e32750d56eca5": {
+            "text": "Marcadores para: %s"
+        },
+        "9a013ed2472d5e17678963b8a653a0ac": {
+            "text": "%s Editor de Marcadores"
+        },
+        "cfbe50a1f9e891f884e3e6318d635a89": {
+            "text": "Tenga en cuenta que s\u00f3lo los superusuarios pueden ver este editor."
+        },
+        "7317631eaad804856acd03ce85bd8ef7": {
+            "text": "A\u00f1adir Marcador"
+        },
+        "1aaddfb42057a3f42fbd26b95d3b9c78": {
+            "text": "Haz clic en la acci\u00f3n \"agregar marcador\" a continuaci\u00f3n para seleccionar las p\u00e1ginas a agregar como marcadores. Si deseas que los marcadores s\u00f3lo aparezcan para un rol de usuario espec\u00edfico, seleccionar primero el rol anterior."
+        },
+        "09c3829dccd8e7db10887f1ec26c7431": {
+            "text": "Marcadores guardados"
+        },
+        "e750f199f551e1b0b52dd0f5228da48d": {
+            "text": "\u00bfPermitir el uso de Marcadores?"
+        },
+        "53b820d38e547eb253a74a242a29e16f": {
+            "text": "Los marcadores te permiten crear accesos directos a las p\u00e1ginas de este m\u00f3dulo, configurables por funci\u00f3n de usuario. \u00datil para aplicaciones grandes."
+        }
+    }
+}

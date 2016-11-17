@@ -1,0 +1,126 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeTextareaHelper.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextareahelper-php",
+    "translations": {
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Tipo de Entrada"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "El tipo de campo que se utilizar\u00e1 para recopilar la entrada (Textarea es el valor predeterminado). Ten en cuenta que si cambias esto y lo env\u00edas, las opciones de configuraci\u00f3n disponibles en la secci\u00f3n \"entrada\" pueden cambiar."
+        },
+        "a9b2702617bab3152e6c7018a2285a92": {
+            "text": "Desconocido\/Texto"
+        },
+        "d337592463bb66726521716a080b78da": {
+            "text": "Se recomienda la opci\u00f3n Markup\/HTML para los campos que utilizan editores de texto enriquecido (como CKEditor) y aquellos que contienen HTML. Proporciona controles de tiempo de ejecuci\u00f3n adicionales que filtran para garantizar la calidad."
+        },
+        "0601bf716a208a7476c5f97c040fc44c": {
+            "text": "Si selecciona la opci\u00f3n Desconocido\/Texto, se recomienda encarecidamente [por seguridad] que tambi\u00e9n seleccione el \"Codificador de entidad HTML\" en el campo Text Formatters anterior."
+        },
+        "f49044eb0f5ff823c157a2feedf2b9f8": {
+            "text": "Para obtener m\u00e1s informaci\u00f3n sobre las opciones anteriores, consulte la descripci\u00f3n de las opciones de tipo de contenido."
+        },
+        "2addde1795e171e77196f84ba88dbcbf": {
+            "text": "Opciones HTML"
+        },
+        "22f8b4c1c9e9fb845bebab08141575db": {
+            "text": "Las opciones siguientes proporcionan una garant\u00eda de calidad adicional para HTML en tiempo de ejecuci\u00f3n."
+        },
+        "6691dadd4bc16c7d23fee64a309e2eaa": {
+            "text": "Nota: Estas opciones son actualmente experimentales. Por favor, observe los problemas e informe cualquier error."
+        },
+        "8985f62bfdbc5d278d07342bc4a7f5c2": {
+            "text": "Las opciones anteriores registran errores en Setup>Logs>markup-qa-errors."
+        },
+        "4518ac1588b93d4b89d45741c610a3f5": {
+            "text": "Enlace de abstracci\u00f3n:"
+        },
+        "9bf757dce49f1b058b55e0234e5b422a": {
+            "text": "Actualizar href atributos autom\u00e1ticamente cuando los v\u00ednculos internos cambian"
+        },
+        "1721f5bf2ec99fbb54f5ff6cea84968c": {
+            "text": "Actualizar los atributos alt de la imagen:"
+        },
+        "e18d0ae0d4d738e2afb687643527b107": {
+            "text": "Reemplazar los atributos alt en blanco con la descripci\u00f3n de la imagen"
+        },
+        "87b47dca906c93d9e1a035e8d14e6e95": {
+            "text": "Arreglar im\u00e1genes rotas:"
+        },
+        "1d88fc19dbd058dc84585c30ab49b306": {
+            "text": "Eliminar etiquetas img que resultar\u00eda en un 404, o volver a crear im\u00e1genes cuando sea posible"
+        },
+        "3b51a8c40e3436386b687d45ddb5f836": {
+            "text": "Control de acceso a im\u00e1genes:"
+        },
+        "4d1e0f588db26c2678b311717d9d5c65": {
+            "text": "Quitar im\u00e1genes del marcado que el usuario no tiene acceso de visualizaci\u00f3n"
+        },
+        "8ab4f511bd5b2971beecbe09b1462818": {
+            "text": "Aplicar opciones de HTML ahora"
+        },
+        "5fe0528e0c4b792b394749289ad392f1": {
+            "text": "Para aplicar las opciones anteriores a todas las p\u00e1ginas existentes ahora, marcar esta casilla. Esto se centra principalmente en la opci\u00f3n de abstracci\u00f3n de enlace."
+        },
+        "7b4f1bb8cb43086b5d5f3b850d06a6c3": {
+            "text": "Advertencia, esto realiza una actualizaci\u00f3n a trav\u00e9s de potencialmente cientos de p\u00e1ginas (m\u00e1ximo 300 por ejecuci\u00f3n) y actualiza las modificaciones de la p\u00e1gina. Si su sitio tiene un mont\u00f3n de p\u00e1ginas, es posible que tenga que ejecutar esto varias veces."
+        },
+        "d9acd327c0ee998a16c85324936d214d": {
+            "text": "Como precauci\u00f3n adicional, se recomienda realizar una copia de seguridad de la base de datos antes de ejecutarla."
+        },
+        "0f754c670b9d8c02b22eaeebd630181e": {
+            "text": "Parece que hemos terminado! Las opciones de HTML ahora se aplican completamente."
+        },
+        "2029a900eb62eecaaf188a654c2c084d": {
+            "text": "Las actualizaciones futuras se aplicar\u00e1n autom\u00e1ticamente cuando se guarde cada p\u00e1gina."
+        },
+        "4b9ad9f31022ef1c2c6d202da55a0365": {
+            "text": "Todav\u00eda hay m\u00e1s p\u00e1ginas que aplicar. Marcat la casilla de nuevo para aplicar a las p\u00e1ginas restantes."
+        },
+        "2c1df5375d9f20282b3df677f8a4bc0c": {
+            "text": "\u00bfNecesita aplicar s m\u00e1s p\u00e1ginas a la vez? Puede agregar una configuraci\u00f3n %s al archivo \/site\/config.php."
+        },
+        "d4705c271d7e1e75a05e9b6236ad836c": {
+            "text": "(ver %s log)"
+        },
+        "d53200ec5949152baffbeed6c4d58966": {
+            "text": "Actualizada %1$d de %2$d p\u00e1ginas para las opciones de HTML."
+        },
+        "8a64cae4f29b541d3e532599d513e04e": {
+            "text": "Resumen de garant\u00eda de calidad de Markup\/HTML:"
+        },
+        "7b538279515341a88a5fcfb4197111f6": {
+            "text": "Otras opciones de HTML se aplican en tiempo de ejecuci\u00f3n."
+        },
+        "9b039b000924bae6bb0977867cc455a0": {
+            "text": "%d etiquetas externas a[href]"
+        },
+        "bb83c854fd76ba88b57f700280e65291": {
+            "text": "%s enlaces de p\u00e1ginas internas \/ abstractas"
+        },
+        "52b8044e625821dcc4f2002c70f05881": {
+            "text": "%d referencias de archivos\/activos"
+        },
+        "b49218c47bb7e184c12776471a865612": {
+            "text": "%d etiquetas relativas a[href]"
+        },
+        "84a543e559f6e8ae86ba9ca203f6c57f": {
+            "text": "%d etiquetas locales\/no reconocidas a[href]"
+        },
+        "2fb3cb1dbd223aca0a255df639afabb1": {
+            "text": "%d no-http enlaces a[href] mailto, tel, etc."
+        },
+        "a0b71249600398fd6f497273a8fbd0c6": {
+            "text": "%d etiquetas no resueltas a[href]"
+        },
+        "1207ad89efff06ef7ff663d9b3a61af4": {
+            "text": "%d imagenes no resueltas img[src]"
+        },
+        "29cf35e7a0357a5a759b715afbcfa857": {
+            "text": "%d imagenes no resueltas y arregladas img[src]"
+        },
+        "bf488dca57621015b17e715b49053f72": {
+            "text": "%d imagenes blank img[src] en tiempo de ejecuci\u00f3n"
+        }
+    }
+}

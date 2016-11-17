@@ -31,6 +31,30 @@
         },
         "e386ede4750a227397715b73b7727273": {
             "text": "Permisos de usuario actuales en esta p\u00e1gina"
+        },
+        "dc62e13d18c4cec89567255a0bbd8a67": {
+            "text": "Variables API"
+        },
+        "35ad48797a780091740cbcf14ebc094d": {
+            "text": "Ganchos"
+        },
+        "62483fbc1d13ed84612061e24f6e72fb": {
+            "text": "Peticiones PDO ($database)"
+        },
+        "92dd35cc61ffc41d02defdcef071856d": {
+            "text": "Temporizadores"
+        },
+        "951102c6edd76f552294869d42635888": {
+            "text": "Peticiones MySQLi ($db) - Obsoleto"
+        },
+        "ab0cf104f39708eabd07b8cb67e149ba": {
+            "text": "Cach\u00e9"
+        },
+        "3d7ce213fb1c2bec707c0fac7b1999e2": {
+            "text": "Autocarga"
+        },
+        "38dee61bfa5e86e18c76e272c4c830fa": {
+            "text": "No deje activado el modo de depuraci\u00f3n en entornos de producci\u00f3n en vivo (consulte $ config-> debug in file \/site\/config.php)."
         }
     }
 }

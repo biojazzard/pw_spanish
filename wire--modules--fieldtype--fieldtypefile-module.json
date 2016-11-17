@@ -9,16 +9,16 @@
             "text": "Los ajustes a\u00fan no se han guardado."
         },
         "d950e30995efd1abcc2dc812404f03c5": {
-            "text": "Por favor, revise la configuraci\u00f3n de esta p\u00e1gina y guardar una vez m\u00e1s (incluso si usted no cambia nada) para confirmar que los acepta."
+            "text": "Por favor, revisa la configuraci\u00f3n de esta p\u00e1gina y guarda de nuevo (incluso si no cambias nada) para confirmar que los aceptas."
         },
         "435ed7e9f07f740abf511a62c00eef6e": {
             "text": "nombre del archivo"
         },
         "abc5c518b64936be795f070ed2adf84f": {
-            "text": "Extensiones soportadas"
+            "text": "Extensiones V\u00e1lidas Soportadas"
         },
         "b3f2fb9ff683cc6bb4e353a8c443260c": {
-            "text": "Introduzca todas las extensiones de archivo permitidas por este campo de subida. Separe cada extensi\u00f3n por un espacio. No hay puntos ni comas. Este campo no distingue entre may\u00fasculas y min\u00fasculas."
+            "text": "Introduce todas las extensiones de archivo permitidas por este campo de subida. Separa cada extensi\u00f3n por un espacio. Sin puntos ni comas. Este campo no distingue entre may\u00fasculas y min\u00fasculas."
         },
         "6231c154d164f467041abbb0151816dc": {
             "text": "N\u00famero m\u00e1ximo de archivos permitidos"
@@ -30,13 +30,13 @@
             "text": "Valor con formato"
         },
         "f09906b55a7a66786de08cb25550a2c8": {
-            "text": "Seleccione el tipo de valor que desea este campo para proporcionar cuando se accede desde la API en el front-end de su sitio."
+            "text": "Selecciona el tipo de valor que deseas que este campo proporcione cuando se acceda desde la API en el front-end de su sitio."
         },
         "ffb520d31a51841782cf1cba617fc875": {
-            "text": "Cuando el formato de salida est\u00e1 apagado, el valor es siempre una array(WireArray)."
+            "text": "Cuando el formato de salida est\u00e1 apagado, el valor es siempre un array (WireArray)."
         },
         "6e7e8b4097cb9c2651e291b007b8efad": {
-            "text": "Autom\u00e1tica (solo art\u00edculo o nula cuando max archivos set a 1, array de elementos de otra manera)"
+            "text": "Autom\u00e1tica (un solo elemento o nulo cuando max archivos est\u00e1 a 1, array de elementos de otra manera)"
         },
         "b93d9ddf4fe98458456fa4a117acf665": {
             "text": "Array de elementos"
@@ -51,25 +51,25 @@
             "text": "Cadena renderizada de texto"
         },
         "fefb41e13016890d511b8d55d8057c37": {
-            "text": "Proporcionar la cadena prestados de texto que desea que la salida como el valor de este campo. Si el campo contiene varios elementos, esta cadena se representar\u00e1 varias veces. Si el campo contiene art\u00edculos, se utilizar\u00e1 una cadena en blanco."
+            "text": "Proporciona la cadena de texto que deseas mostrar como el valor de este campo. Si el campo contiene varios elementos, esta cadena se rendear\u00e1 varias veces. Si el campo no contiene elementos, se utilizar\u00e1 una cadena en blanco."
         },
         "839047fe3f6109257399fe301ddb7912": {
-            "text": "Usted puede usar cualquiera de las siguientes etiquetas:"
+            "text": "Puedes usar cualquiera de las siguientes etiquetas:"
         },
         "a1ede0a9a3c447cb83c7b6598dc556ff": {
             "text": "El valor por defecto (cuando est\u00e1 vac\u00edo)"
         },
         "05ac72cc4df427baf9db44228a577ed7": {
-            "text": "Opcionalmente seleccionar una p\u00e1gina que contendr\u00e1 el valor por defecto (en este mismo campo). Es posible que desee crear una p\u00e1gina espec\u00edficamente para este prop\u00f3sito."
+            "text": "Opcionalmente seleccionar una p\u00e1gina que contendr\u00e1 el valor por defecto (en este mismo campo). Es posible que desees crear una p\u00e1gina espec\u00edficamente para este prop\u00f3sito."
         },
         "b17288f2ed130badc7ac8919f95fd5f1": {
             "text": "Formateadores de texto (para descripciones de archivo)"
         },
         "8d664d296530bbabc76043e4e499b272": {
-            "text": "Seleccionar una o m\u00e1s formateadores de texto (y su orden) que se aplicar\u00e1 a la descripci\u00f3n del archivo cuando el formato de salida est\u00e1 activo. El HTML Entidad Encoder se recomienda como m\u00ednimo."
+            "text": "Selecciona uno o m\u00e1s formateadores de texto (y su orden) que se aplicar\u00e1n a la descripci\u00f3n del archivo cuando el formato de salida est\u00e9 activo. Se recomienda como m\u00ednimo el codificador de entidades HTML."
         },
         "3fc82a72e38b059cea88dcfbdaeafff8": {
-            "text": "Utiliza Etiquetas?"
+            "text": "\u00bfUtilizar Etiquetas?"
         },
         "3a37a820d95c0f598d6ea38f34716c31": {
             "text": "Si se selecciona, el campo contendr\u00e1 tambi\u00e9n una opci\u00f3n para las etiquetas, adem\u00e1s de la descripci\u00f3n."

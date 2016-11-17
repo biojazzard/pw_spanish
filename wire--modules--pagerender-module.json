@@ -6,16 +6,28 @@
             "text": "T\u00edtulo del m\u00f3dulo"
         },
         "d2c5ea4202c4c692852b7e10fbceabd3": {
-            "text": "Sumario del m\u00f3dulo"
+            "text": "Agrega un m\u00e9todo de render a la p\u00e1gina y almacena en caches la salida de la p\u00e1gina."
         },
         "403c89515b16b3417cd2e426612b4a53": {
-            "text": "Limpiado %d de archivos para %d p\u00e1ginas"
+            "text": "Limpiada la cach\u00e9 de %d archivos en %d p\u00e1ginas"
         },
         "0c22fad509c478c3442a310a7a2b2c52": {
-            "text": "\u00bfLimpiar la cache?"
+            "text": "\u00bfBorrar la p\u00e1gina Cache de Disco?"
         },
         "b4999a543edcfefc8c56ed6eafdcb98f": {
             "text": "Hay actualmente %d p\u00e1ginas usando cache en %s"
+        },
+        "22a38306ce7556a0a5eeebca65cd9b58": {
+            "text": "Cach\u00e9 de p\u00e1gina caducada para todo el sitio"
+        },
+        "b091c65f589c970f6084669796efb995": {
+            "text": "Archivo de cach\u00e9 borrado: %s"
+        },
+        "af4137a5254dfe8654d87ff05286b80e": {
+            "text": "Archivo de cach\u00e9 borrado:"
+        },
+        "f3fbe32b9b2f8a4b6b3eecc5084e999c": {
+            "text": "Archivo de cach\u00e9 borrado para %s p\u00e1ginas(s)"
         }
     }
 }

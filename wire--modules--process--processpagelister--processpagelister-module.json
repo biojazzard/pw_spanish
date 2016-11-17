@@ -68,15 +68,6 @@
         "e4ef81cce7e4e10033ebb10962dfdd5e": {
             "text": "En blanco"
         },
-        "de95b43bceeb4b998aed4aed5cef1ae7": {
-            "text": "editar"
-        },
-        "1bda80f2be4d3658e0baa43fbe7ae8c1": {
-            "text": "ver"
-        },
-        "22af645d1859cb5ca6da0c484f1f37ea": {
-            "text": "nuevo"
-        },
         "3b8769d187c6c3306c50729bc43a9903": {
             "text": "No hay resultados."
         },
@@ -91,6 +82,33 @@
         },
         "590345301b23eb45c176da0fc139b191": {
             "text": "Columnas"
+        },
+        "9b9d8a976b42e0bd66381797644943d5": {
+            "text": "Publicado"
+        },
+        "379a82f72eacfec4228f74d4e39f3eec": {
+            "text": "Num de Hijos"
+        },
+        "3361493ce22b609b5d11f463c8bd8c6a": {
+            "text": "El modo especificado 'include =' no est\u00e1 permitido aqu\u00ed."
+        },
+        "e418dc3d6d68592a1932bb1446975acb": {
+            "text": "No todas las plantillas especificadas son editables. S\u00f3lo se permite 'include = hidden'"
+        },
+        "12b585ee7c6e8dca3790262f321f3823": {
+            "text": "No hay plantillas especificadas para que 'include = hidden' sea max allowed include mode"
+        },
+        "a5158728109d8e67ae31b7b02bdc8b86": {
+            "text": "%1$d a %2$d de %3$d"
+        },
+        "2cd1c7a79703fe25a98128ad343a621e": {
+            "text": "Refrescar resultados"
+        },
+        "d77a4f65dfe38bdbb76371048e3ae9ea": {
+            "text": "Restablecer filtros y columnas predeterminados"
+        },
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Marcadores"
         }
     }
 }

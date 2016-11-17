@@ -9,10 +9,13 @@
             "text": "Idioma"
         },
         "185d23ff9526ad93077a1c9ad5ed26a2": {
-            "text": "Direcci\u00f3n e-mail"
+            "text": "Direcci\u00f3n E-mail"
         },
         "b78a3223503896721cca1303f776159b": {
             "text": "T\u00edtulo"
+        },
+        "3f94f86633491ad8e5d18f5e481330c2": {
+            "text": "Los cambios en este campo no se guardar\u00e1n porque no tiene permiso para el idioma: %s."
         }
     }
 }

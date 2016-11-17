@@ -11,12 +11,6 @@
         "dab4b1ae6ff4f4a6b0ae4a2ce2601794": {
             "text": "dd-mm-yyy"
         },
-        "1388e1432a93282ab487548dce4847d4": {
-            "text": "H:i"
-        },
-        "a5dc4a847828895f72a94ab5debe5c00": {
-            "text": "hh:mm"
-        },
         "0ccb67e7eaae09d9e4078d161eeca100": {
             "text": "Igual"
         },
@@ -54,7 +48,7 @@
             "text": "Ascendente Por"
         },
         "8ff3555e6aae7a100304c7b522bc350a": {
-            "text": "Descendente por"
+            "text": "Descendente Por"
         },
         "9f9913233699a4b67524eaac55a5f973": {
             "text": "Tiene"
@@ -129,10 +123,10 @@
             "text": "Incluye"
         },
         "765c9ab816a31bfd73ee87ce63960319": {
-            "text": "Ocultos e in\u00e9ditos"
+            "text": "Ocultos + No publicados"
         },
         "b0db92ad2bbe61a11556a881e26ee82c": {
-            "text": "papelera + in\u00e9dito + Ocultos"
+            "text": "Ocultos + No publicaods + Papelera"
         },
         "b1c94ca2fbc3e78fc30069c8d0f01680": {
             "text": "Todos"
@@ -168,16 +162,16 @@
             "text": "Coincide por ID (subselector)"
         },
         "1d79542121869a6161bed167902ddc79": {
-            "text": "Cada fila selector arriba dice: campo debe coincidir con el valor. Estos son los llamados y Condiciones. En los casos en el mismo campo o valor aparece en m\u00e1s de una fila, una condici\u00f3n OR es posible. La presencia de una casilla de verificaci\u00f3n en el extremo de la fila indica esto. Marque esta casilla para que la fila de una condici\u00f3n OR en lugar de una condici\u00f3n AND."
+            "text": "Cada fila de selecci\u00f3n anterior dice: campo debe coincidir con el valor. Estas son llamadas condiciones AND. En casos donde el mismo campo o valor aparece en m\u00e1s de una fila, una condici\u00f3n OR es posible. La presencia de una casilla de verificaci\u00f3n al final de la fila indica esto. Marca esta casilla para que la fila sea una condici\u00f3n OR en lugar de una condici\u00f3n AND."
         },
         "d1a7ff19fe990b9467a4a64f01a09f4e": {
-            "text": "Padres"
+            "text": "Padre"
         },
         "8449d3ddcf7322067ea68d60a3098945": {
-            "text": "Padres"
+            "text": "Padre"
         },
         "ea66a0a3f3311a155d84ef03a56850ca": {
-            "text": "Campos del sistema"
+            "text": "Campos del Sistema"
         },
         "b12aae296eaa3d0cb3191edcf8764117": {
             "text": "Campos"
@@ -186,13 +180,52 @@
             "text": "Subcampos"
         },
         "997bf93bdd0a990a751b4b33749fb171": {
-            "text": "1 coincidencia"
+            "text": "Campos que coinciden con el mismo (1) elemento"
         },
         "c3bd2ae49552f0fe2dd5927024fea5db": {
             "text": "Modificadores"
         },
         "700e1502327c4e2d38cef2f7c15b2f17": {
             "text": "Ajustes"
+        },
+        "f9b4bd2025de32122aca0de287601aa0": {
+            "text": "No contiene el texto"
+        },
+        "c792d413c780e14f2ab0cd586af2940a": {
+            "text": "No contiene la frase"
+        },
+        "f97418feca88d6e3a1747a59883b35fe": {
+            "text": "No contiene palabras"
+        },
+        "256511287ee7ec2a36613f761a24370c": {
+            "text": "No comienza por"
+        },
+        "70e54ebce37af51191725a9b2451e1b0": {
+            "text": "No termina por"
+        },
+        "9a438bd942f1f19e6a641028bcfb43ff": {
+            "text": "Temporal"
+        },
+        "4303f3a12b6405bb83d68a5438f1b6b8": {
+            "text": "Fecha publicaci\u00f3n"
+        },
+        "72280ef3b155dee3c1a134b8184c08a5": {
+            "text": "Ruta\/URL"
+        },
+        "d7ba791417071ac5ec60f1cea2672faf": {
+            "text": "Personalizado field=value)"
+        },
+        "2627637e263ef687fa978b576580b8b1": {
+            "text": "Marcada"
+        },
+        "eae4975b49e9af4e0b024b1c44c7fe4f": {
+            "text": "Esto est\u00e1 aqu\u00ed s\u00f3lo en caso de que desees probar la funcionalidad de este campo de entrada."
+        },
+        "b077806311238aeddd99b979570eb107": {
+            "text": "Coincidencia %d p\u00e1gina"
+        },
+        "ea4311c5f366d55a9a6e38450d3bad9f": {
+            "text": "Coincidencias %d p\u00e1ginas"
         }
     }
 }

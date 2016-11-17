@@ -1,0 +1,144 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--config-php",
+    "translations": {
+        "cb2d417d536ac6b6d8668d272b28ca47": {
+            "text": "El campo del repetidor \"%s\" tiene un ajuste de dependencia \"s\u00f3lo necesario si\" y esto no se admite en campos Repetidores."
+        },
+        "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
+            "text": "Agregue campos a este repetidor en la pesta\u00f1a \"detalles\"."
+        },
+        "f41ae5ce37aeed3613288bb8c0cc3489": {
+            "text": "Definir los campos que utiliza este repetidor. Tambi\u00e9n puedes arrastrar y colocar campos en el orden deseado."
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "A\u00f1adir Campo"
+        },
+        "ebfc6d0dd40c27dd753e7e6dfbf18dd2": {
+            "text": "Etiquetas de elemento repetidor"
+        },
+        "66a81e26ad18214b582553f4d33030f2": {
+            "text": "Introducir el nombre del campo que deseas utilizar para las etiquetas de repetidor, en el editor de p\u00e1ginas o dejar en blanco para generar autom\u00e1ticamente."
+        },
+        "699a4d80b29a2b87e8bea7946afebe8e": {
+            "text": "Para utilizar varios campos, o para especificar tu propia cadena de formato, rodear los nombres de los campos en {par\u00e9ntesis}."
+        },
+        "c5e90fa5edbe00c619ca4d69c3692627": {
+            "text": "Para incluir un n\u00famero de \u00edndice de repetidor con cada etiqueta, agregue \"#n\" en alg\u00fan lugar de la cadena de formato."
+        },
+        "4c95bcccf333bef2208b02fbd212af55": {
+            "text": "Ejemplo: #n: {title}"
+        },
+        "d347b63bb97431df68506ea3059be495": {
+            "text": "Etiqueta para agregar nuevo elemento"
+        },
+        "db9d65ca0ad208926207fbf99636b1f4": {
+            "text": "Introducir la etiqueta que deseas usar para el texto\/bot\u00f3n \"Agregar nuevo elemento\", o deje en blanco el valor predeterminado."
+        },
+        "ef9eb3b1c72a3d00e09495aa7ecf195a": {
+            "text": "Visibilidad del elemento repetidor en el editor"
+        },
+        "e420623b25fa348e2155e3e2bdbf5620": {
+            "text": "Los elementos del repetidor pueden estar abiertos o colapsados (requiriendo un clic para abrir). El modo colapsado es m\u00e1s conveniente para ordenar y ver todos los elementos juntos."
+        },
+        "c2d450307945339defec74620dd295d2": {
+            "text": "Nuevos elementos abiertos, elementos existentes colapsados (recomendados para la mayor\u00eda de los casos)"
+        },
+        "0905199ed34fceff86e31adf81cbc702": {
+            "text": "Elementos siempre abiertos (desactiva la carga din\u00e1mica de los elementos existentes)"
+        },
+        "83a9d92f04fe2ce7f34ad4e7070c61aa": {
+            "text": "Los elementos siempre se colapasan"
+        },
+        "1c1fc75d282666eeffc288a4d82594ba": {
+            "text": "Repetidor de carga din\u00e1mica (AJAX) en el editor"
+        },
+        "78385cca5a362b333c60753b2fcf6e40": {
+            "text": "\u00bfQu\u00e9 elementos se deben cargar din\u00e1micamente con AJAX en el editor de p\u00e1ginas? Si encuentra que el repetidor utiliza un campo que no funciona con carga din\u00e1mica, puede ser necesario desactivar esta funci\u00f3n."
+        },
+        "18e57decad6ecfd57b1231426deb7f2d": {
+            "text": "Art\u00edculos existentes y nuevos (recomendado, especialmente para repetidores que podr\u00edan tener MUCHOS art\u00edculos)"
+        },
+        "e8b8b3345ab0076aaef6c21cd7ca5b79": {
+            "text": "S\u00f3lo nuevos art\u00edculos (buenos para los repetidores que tendr\u00e1n s\u00f3lo unos pocos art\u00edculos)"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Apagado"
+        },
+        "2db718f06a27de2a35a889b205ef0bb4": {
+            "text": "\u00bfRecordar qu\u00e9 elementos del repetidor est\u00e1n abiertos?"
+        },
+        "031e3292fe279734b454896226066dfc": {
+            "text": "Cuando se selecciona, los elementos repetidores abiertos permanecen abiertos despu\u00e9s de guardar o recargar desde el editor de p\u00e1ginas (a menos que el usuario los cierre)."
+        },
+        "65f6a551619120fdc79329b66ab6c1fd": {
+            "text": "\u00bfEliminar elementos antiguos\/no utilizados del repetidor?"
+        },
+        "9c539ab2317d7056d5d664b083557796": {
+            "text": "Hay %d elementos repetidores antiguos\/no utilizados, marque esta casilla para eliminarlos."
+        },
+        "2878ed508d1b136f7b170f593c0ff00f": {
+            "text": "Un elemento repetidor se considera antiguo si tiene al menos 3 d\u00edas y a\u00fan no se ha poblado o publicado."
+        },
+        "8c4f6c33cbae4831021c3dc17c991a23": {
+            "text": "Deshabilitar AJAX para agregar elementos al editor"
+        },
+        "78f74cbd5e74d0a401b6e91e2d11e812": {
+            "text": "De forma predeterminada, al hacer clic en el enlace \"Agregar elemento\" se cargar\u00e1 el nuevo elemento de repetidor a trav\u00e9s de AJAX, lo que proporciona una experiencia m\u00e1s transparente. Pero algunos campos pueden no ser compatibles con esto. Marque esta casilla para deshabilitar AJAX para agregar elementos."
+        },
+        "028dbbda0ea85c6b4ff5f2c9b38495de": {
+            "text": "Nuevos elementos del repetidor listo para editar"
+        },
+        "903d3f840b615b110dd712afd0132f5f": {
+            "text": "El n\u00famero de elementos listos para editar (no publicados) por p\u00e1gina, para mantenerlos renderizados para su uso como elementos nuevos."
+        },
+        "e7fa825f7b362804c946096d4856f5ab": {
+            "text": "Si se establece en 0, s\u00f3lo se crear\u00e1n nuevos elementos seg\u00fan sea necesario. Este es el ajuste m\u00e1s eficiente."
+        },
+        "0130612d3e112f71601647fe1201aeda": {
+            "text": "Si se establece en 1 o superior, muchos elementos nuevos estar\u00e1n listos para editar tan pronto como haga clic en \"agregar elemento\". Esto hace que las adiciones sean m\u00e1s r\u00e1pidas."
+        },
+        "06f7e37d7cc093483d98d11772f75837": {
+            "text": "N\u00famero m\u00e1ximo de items del repetidor"
+        },
+        "9175b33ed3085ade32188d58a242e0bc": {
+            "text": "N\u00famero m\u00e1ximo de elementos de repetidor permitidos."
+        },
+        "8db1e9fd86969c9e9ee4c09365c260a6": {
+            "text": "Si se establece en 0, no habr\u00e1 l\u00edmite m\u00e1ximo."
+        },
+        "f29a8c723be64c58c0e9f4cbd6c32a88": {
+            "text": "Si se establece en 1, este campo actuar\u00e1 como un \u00fanico elemento [P\u00e1gina] en lugar de varios elementos [PageArray]."
+        },
+        "66eb0d45c43394f51bdb0397febc5b4f": {
+            "text": "Tenga en cuenta que cuando outputFormatting est\u00e1 desactivado, siempre se comportar\u00e1 como un PageArray independientemente del ajuste aqu\u00ed."
+        },
+        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
+            "text": "Tipo de Repetidor"
+        },
+        "cb1f0ec5795fd6ab9a2e980b428cfff5": {
+            "text": "Cuando 'adjunto' el repetidor administrar\u00e1 su propia plantilla y p\u00e1gina de padres sin que tenga que ver o pensar en ello."
+        },
+        "e3d6af2ddc6a90779dd75a3f9c753d7f": {
+            "text": "Cuando 'separado' puede mover y modificar la p\u00e1gina principal y la plantilla del repetidor como mejor le parezca."
+        },
+        "77e23d8e1ff8e93bfc6e188f62e409bd": {
+            "text": "Tenga en cuenta que una vez separado, ProcessWire no eliminar\u00e1 el padre o la plantilla cuando\/si el campo se elimina."
+        },
+        "1f8c0e21410e1c136bf780fc141b35ae": {
+            "text": "Agregado el campo \"%1$s\" al repetidor \"%2$s\""
+        },
+        "f54c2540ded6390c6328b2838850482d": {
+            "text": "Removido el campo \"%1$s\" al repetidor \"%2$s\""
+        },
+        "27dafd7f7794d09bc001fc0acac8e1ad": {
+            "text": "Eliminado %d elemento antiguo\/repetidor no utilizado"
+        },
+        "0fe1cc90d79ebfffb11a259cc05d406d": {
+            "text": "La p\u00e1gina principal %s est\u00e1 ahora separada y se puede mover o modificar."
+        },
+        "678e17a04cd1c42a28cc8a9eff4f60c0": {
+            "text": "Campos Repetidor"
+        }
+    }
+}

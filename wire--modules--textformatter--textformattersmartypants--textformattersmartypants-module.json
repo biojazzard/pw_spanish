@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterSmartypants\/TextformatterSmartypants.module",
+    "textdomain": "wire--modules--textformatter--textformattersmartypants--textformattersmartypants-module",
+    "translations": {
+        "25311c7902557e01bc00f49ff049bcd5": {
+            "text": "\u00bfUtilizar caracteres UTF-8 para reemplazos en lugar de entidades HTML?"
+        },
+        "0c5d2b49bcf5a803467880b04e70010d": {
+            "text": "El comportamiento predeterminado para SmartyPants es a\u00f1adir\/actualizar caracteres utilizando entidades HTML."
+        },
+        "1db1fb23d15114bebcd0b4c9451753ff": {
+            "text": "Si observa problemas de codificaci\u00f3n doble, es posible que desee que utilice reemplazos UTF-8 en su lugar."
+        },
+        "34ba6fe92bd3442e28614da7804133f7": {
+            "text": "No (por defecto)"
+        },
+        "438be7072bafe2bb92897edc240e45ae": {
+            "text": "S\u00ed (algunos)"
+        },
+        "8265970592705983b3983796fe0bb408": {
+            "text": "S\u00ed (todos)"
+        },
+        "3dbbad2a19b63578a38458d5c9b08980": {
+            "text": "Ten en cuenta que la opci\u00f3n \"all\" har\u00e1 decodificar los siguientes caracteres (cuando se codifica la entidad) incluso si no fueron insertados por SmartyPants:"
+        }
+    }
+}

@@ -69,7 +69,7 @@
             "text": "Campos predeterminados para buscar"
         },
         "bfe2201d3b973b0d8c3c5b0ea08e1736": {
-            "text": "Escriba los nombres de uno o m\u00e1s campos de texto que desea buscar, separando cada uno por un espacio."
+            "text": "Escribe los nombres de uno o m\u00e1s campos de texto que deseas buscar, separando cada uno por un espacio."
         },
         "6278e5dbbd21048091f612f55185257e": {
             "text": "Campo (s) para buscar en el modo de b\u00fasqueda admin (ajax)"
@@ -81,7 +81,7 @@
             "text": "Campo por defecto Nombre (s) para mostrar en los resultados de b\u00fasqueda"
         },
         "6cfd6f09104bdac467bb40624aae4e9c": {
-            "text": "Si se especifica m\u00e1s de un campo, sep\u00e1relos con un espacio."
+            "text": "Si se especifica m\u00e1s de un campo, separalos con un espacio."
         },
         "51e1d489ac4198969f8daf52b7cdfaf6": {
             "text": "Operador de b\u00fasqueda predeterminado"
@@ -106,6 +106,12 @@
         },
         "4b315bff8c7b70281de8ffffbd150708": {
             "text": "B\u00fasqueda"
+        },
+        "1da914fe3f639d8b3d977a006d2b0c69": {
+            "text": "Encontrada %1$d p\u00e1gina usando el selector: %2$s"
+        },
+        "dc87414810d43e27f63b89feabadc943": {
+            "text": "Encontradas %1$d p\u00e1gina usando el selector: %2$s"
         }
     }
 }

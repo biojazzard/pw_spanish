@@ -12,19 +12,19 @@
             "text": "Por favor, introduce una direcci\u00f3n e-mail v\u00e1lida"
         },
         "729be41e3a896b691a703fda562f4c98": {
-            "text": "Los mensajes de correo electr\u00f3nico que ha entrado no encontr\u00f3, por favor rellene de nuevo"
+            "text": "Los correos electr\u00f3nicos que ha introducido no coinciden, por favor int\u00e9ntelo de nuevo."
         },
         "afce6fcb2d736e43b0bf509e385d477a": {
-            "text": "Confirmar correo?"
+            "text": "\u00bfConfirmar correo electr\u00f3nico?"
         },
         "f98e5e5fd93bc01f60e2a0a30c90618a": {
-            "text": "Cuando se activa, aparecer\u00e1n dos entradas de correo electr\u00f3nico y el usuario tendr\u00e1 que introducir su direcci\u00f3n de correo electr\u00f3nico dos veces para confirmarla. Esto ayuda a reducir la posibilidad de errores tipogr\u00e1ficos."
-        },
-        "ce8ae9da5b7cd6c3df2929543a9af92d": {
-            "text": "Email"
+            "text": "Cuando se selecciona, aparecer\u00e1n dos entradas de correo electr\u00f3nico y el usuario deber\u00e1 introducir su direcci\u00f3n de correo electr\u00f3nico dos veces para confirmarla. Esto ayuda a reducir la posibilidad de errores tipogr\u00e1ficos."
         },
         "3918809b01dd88b1c1c892aec102512b": {
             "text": "Direcci\u00f3n E-Mail en formato v\u00e1lido"
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "Email"
         }
     }
 }

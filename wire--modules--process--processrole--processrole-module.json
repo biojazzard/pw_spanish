@@ -5,20 +5,56 @@
         "d08ccf52b4cdd08e41cfb99ec42e0b29": {
             "text": "Permisos"
         },
-        "abf1be1c76c0620d1a220871b1ba0da1": {
-            "text": "Permisos indicados abren m\u00e1s opciones de permisos que se revelan despu\u00e9s de marcar la casilla y guardar la p\u00e1gina."
-        },
-        "55713ee9cd76b3704908899aaa30b5e5": {
-            "text": "* Tenga en cuenta que el control de la autorizaci\u00f3n p\u00e1gina a editar aqu\u00ed s\u00f3lo significa que el papel se puede seleccionar para el acceso de edici\u00f3n a nivel de plantilla. Simplemente asignar el permiso p\u00e1gina de edici\u00f3n aqu\u00ed no conceder el permiso de edici\u00f3n hasta que tambi\u00e9n se selecciona en una o m\u00e1s configuraciones de control de acceso de la plantilla."
-        },
-        "2ac1fce951ddece70a50dfb03bd386b2": {
-            "text": "Nombre|t\u00edtulo"
-        },
         "9bfb6e6af6e6793bfa9387e728187c87": {
             "text": "(requerido)"
         },
         "e5e77ccf470959bc6be60127730908b5": {
             "text": "Gestionar roles de usuario y los permisos que se adjuntan"
+        },
+        "e0c8b59640bc35bac606431203d2d9b0": {
+            "text": "Para obtener descripciones detalladas de estos permisos, consulte la referencia de permisos."
+        },
+        "cea791d6258d032e4742a9a99f1ecf11": {
+            "text": "Comprobar que el permiso de edici\u00f3n de p\u00e1gina aqu\u00ed no concede acceso de edici\u00f3n a ninguna p\u00e1gina por s\u00ed solo. En su lugar, le permite configurar el acceso de edici\u00f3n para esta funci\u00f3n en la configuraci\u00f3n de acceso a la plantilla. El permiso de edici\u00f3n de p\u00e1gina es tambi\u00e9n lo que permite a los usuarios ver p\u00e1ginas en el administrador. Este permiso se recomienda para todos los usuarios administrativos."
+        },
+        "d923671ad010412a573db8ccdbddc911": {
+            "text": "Indica que el permiso puede agregarse o revocarse opcionalmente de las funciones de usuario en la configuraci\u00f3n de acceso a la plantilla. Comprobar el permiso lo permite para todas las plantillas editables. Si s\u00f3lo deseas que un rol de usuario tenga uno de estos permisos para las p\u00e1ginas que usen plantillas espec\u00edficas, debes dejarlo sin marcar aqu\u00ed y en su lugar, seleccionarlo en una pesta\u00f1a \"Acceso\" de la plantilla."
+        },
+        "64a4d3473343a325080c311b47099be6": {
+            "text": "Los permisos de p\u00e1gina y de creaci\u00f3n de p\u00e1gina s\u00f3lo se pueden agregar desde la configuraci\u00f3n de acceso a la plantilla y se muestran aqu\u00ed s\u00f3lo con fines informativos."
+        },
+        "efc30c4ed12a9e95e4fad5ae9be115fb": {
+            "text": "Indica una plantilla que a\u00f1ade el permiso. Haz clic para abrir una ventana a la configuraci\u00f3n de acceso para esa plantilla. Si el nombre de la plantilla tiene %s, indica que se agrega el permiso en la plantilla, pero que se anula por su selecci\u00f3n aqu\u00ed."
+        },
+        "dce4a957c0c6225be564be146d71b245": {
+            "text": "Igual que el anterior, excepto que el permiso est\u00e1 siendo revocado por esa plantilla (en lugar de a\u00f1adido)."
+        },
+        "dc3abfaff3190368a09f01d6589eeeea": {
+            "text": "Agregar a los ni\u00f1os a las p\u00e1ginas con la plantilla"
+        },
+        "9c281188158fc34cf5afc9d2820a761c": {
+            "text": "Crear p\u00e1ginas usando la plantilla"
+        },
+        "faa5826bce6656df7f63cbeb5b2a85fe": {
+            "text": "Este permiso s\u00f3lo puede asignarse mediante la configuraci\u00f3n de acceso de plantilla."
+        },
+        "3cac60e98937c01a72ef6e6cfe66f90f": {
+            "text": "Este permiso es necesario para todas las funciones."
+        },
+        "1def073965e264ae40ae1d9877290fd3": {
+            "text": "se aplica a todas las plantillas editables"
+        },
+        "26c77f67debae46ee5b0a12626817076": {
+            "text": "%1$s a\u00f1adido por la plantilla %2$s, haga clic para editar"
+        },
+        "37ef521112472af77d381e834922a7af": {
+            "text": "%1$s revocado por la plantilla %2$s, haga clic para editar"
+        },
+        "1754bfdd544e98486c2ed46753ca8edd": {
+            "text": "Al marcar esta casilla, se agrega el permiso para todas las plantillas editables, pero este permiso ya est\u00e1 siendo aplicado por separado por una o m\u00e1s plantillas. Para mantener las cosas ordenadas, te recomendamos que elimines el permiso de esas plantillas antes de habilitarlo para todos. \u00bfEst\u00e1s seguro de que quieres habilitarlo ahora?"
+        },
+        "95c58584c58685c05c1a7cc706416455": {
+            "text": "No se aplica actualmente a ninguna plantilla"
         }
     }
 }

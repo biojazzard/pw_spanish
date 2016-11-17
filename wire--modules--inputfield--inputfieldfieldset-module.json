@@ -3,10 +3,10 @@
     "textdomain": "wire--modules--inputfield--inputfieldfieldset-module",
     "translations": {
         "5b3a50aadfa94048d38820473b25ec57": {
-            "text": "Set campos"
+            "text": "Campo de juego"
         },
         "80b64fcc30458532fff6446e92e98c54": {
-            "text": "Uno o m\u00e1s campos juntos en un recipiente"
+            "text": "Agrupa uno o m\u00e1s campos juntos en un contenedor"
         }
     }
 }

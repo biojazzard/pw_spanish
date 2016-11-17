@@ -3,10 +3,19 @@
     "textdomain": "wire--modules--inputfield--inputfieldasmselect--inputfieldasmselect-module",
     "translations": {
         "0c4cf3dd938578951cefc0c5503f4939": {
-            "text": "Selecci\u00f3nArm"
+            "text": "Selecci\u00f3nAsm"
         },
         "74c0ecf830d7e594ea8491c932418590": {
             "text": "Selecci\u00f3n m\u00faltiple, mejora progresiva para seleccion m\u00faltiple"
+        },
+        "74e906bc8df82271d879cf0df37fc13c": {
+            "text": "\u00bfVincular las p\u00e1ginas seleccionadas al editor de p\u00e1ginas?"
+        },
+        "341aefc07b2236054d74eb4c5b312c8a": {
+            "text": "Cuando est\u00e1 activada, las etiquetas seleccionadas se enlazar\u00e1n para editar la p\u00e1gina seleccionada."
+        },
+        "16de616a3ba1c1801d425dacdd28aff6": {
+            "text": "S\u00ed (en ventana modal)"
         }
     }
 }

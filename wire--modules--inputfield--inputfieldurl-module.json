@@ -2,20 +2,14 @@
     "file": "wire\/modules\/Inputfield\/InputfieldURL.module",
     "textdomain": "wire--modules--inputfield--inputfieldurl-module",
     "translations": {
-        "961a0e7330169a0918a85c1086c4ff3a": {
-            "text": "Ingrese una URL v\u00e1lida, es decir http:\/\/www.company.com\/dir\/"
-        },
         "34b4cb36f08c1d976a2e58d37d81ce49": {
             "text": "Iniciar URLs locales con \"\/\" y dejar fuera de la \"% s\" parte."
         },
         "31d3da8cb2ee3f26243a6157ce0e5634": {
-            "text": "Error encontrado - por favor compruebe que es una URL v\u00e1lida"
+            "text": "Error encontrado - por favor comprueba que es una URL v\u00e1lida"
         },
         "db04dc8c39e8a426d723ba1c6f8a2cd4": {
-            "text": "Tenga en cuenta que \"http: \/\/\" se a\u00f1adi\u00f3"
-        },
-        "e6b391a8d2c4d45902a23a8b6585703d": {
-            "text": "URL"
+            "text": "Ten en cuenta que \"http:\/\/\" se a\u00f1adi\u00f3"
         },
         "1a30197ddff7dc9d65d91f285125cdc2": {
             "text": "URL en formato v\u00e1lido"

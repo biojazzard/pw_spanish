@@ -3,7 +3,16 @@
     "textdomain": "wire--modules--languagesupport--languagetabs-module",
     "translations": {
         "4ee6b922de4a3b1d79036b200520ee37": {
-            "text": "Expandir pesta\u00f1as de Idioma"
+            "text": "Expandir Pesta\u00f1as de Idioma"
+        },
+        "c667865dc18e9366c835d279c3192aea": {
+            "text": "Colapsar\/Convertir en Pesta\u00f1as"
+        },
+        "b6c58c381f9516ef95ac4dcbec9ed478": {
+            "text": "click+mantener para cambiar todas las pesta\u00f1as"
+        },
+        "72f18bd929af0ac260805811117b85e9": {
+            "text": "Campo a utilizar para las etiquetas de pesta\u00f1a"
         }
     }
 }

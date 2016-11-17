@@ -3,10 +3,10 @@
     "textdomain": "wire--modules--inputfield--inputfieldpagetable--inputfieldpagetable-module",
     "translations": {
         "140092f149378fe66bcd1b7e472cde79": {
-            "text": "Por favor, configure este campo con una selecci\u00f3n de la plantilla antes de usarlo."
+            "text": "Por favor, configura este campo con una selecci\u00f3n de plantilla antes de usarlo."
         },
         "541d5efe9732bde27704a4d578691629": {
-            "text": "Escriba una o m\u00e1s columnas en la configuraci\u00f3n de campo antes de utilizar este campo."
+            "text": "Introduce una o m\u00e1s columnas en la configuraci\u00f3n de su campo antes de usar este campo."
         },
         "6a73e132a6818bc067a0cdec443689a1": {
             "text": "d-m-Y H: i"
@@ -15,28 +15,28 @@
             "text": "[En blanco]"
         },
         "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
-            "text": "Los campos de tabla para mostrar en administrador"
+            "text": "Campos de tabla para mostrar en el administrador"
         },
         "420fb882b998481add0d526522ffff81": {
-            "text": "Introduzca los nombres de los campos (1 por l\u00ednea) que desea mostrar como columnas en la tabla. Para especificar un ancho de columna para el campo, especifique \"field_name = 30\", donde \"30\" es el ancho (en porcentaje) de la columna. Al especificar anchuras, hacer que el total de todas las columnas suman 100."
+            "text": "Introduce los nombres de los campos (1 por l\u00ednea) que desees mostrar como columnas en la tabla. Para especificar un ancho de columna para el campo, especifica \"field_name = 30\" donde \"30\" es el ancho (en porcentaje) de la columna. Al especificar anchos, haz que el total de todas las columnas agregue hasta 100."
         },
         "290cc1b749092b6f62035343a4e4f9eb": {
-            "text": "Puede especificar cualquier campo nativa o costumbre. Tambi\u00e9n puede utilizar subcampos (field.subfield) con campos que contienen varias propiedades, como referencias de p\u00e1gina."
+            "text": "Puedes especificar cualquier campo nativo o personalizado. Tambi\u00e9n puedes utilizar subcampos (field.subfield) con campos que contienen varias propiedades, como referencias de p\u00e1gina."
         },
         "c775db1b4b86e060f703a4e7cedc292f": {
             "text": "Los campos personalizados asignados a sus plantillas seleccionadas son las siguientes:"
         },
         "8ea5a88f78fabcfdc906c9cb8ec013f2": {
-            "text": "Para ver una lista de posibles campos personalizados aqu\u00ed, seleccione una plantilla en la pesta\u00f1a Detalles, en Guardar y volver aqu\u00ed."
+            "text": "Para ver una lista de posibles campos personalizados aqu\u00ed, selecciona una plantilla en la Pesta\u00f1a Detalles, Guarda y vuelve aqu\u00ed."
         },
         "34ff6bbc0c075f35e92dc68a218b7cc2": {
             "text": "Nombre autom\u00e1tico de P\u00e1gina"
         },
         "9264201faa8a6ca75fc27583eafe1e88": {
-            "text": "Cuando poblada, las p\u00e1ginas se crean autom\u00e1ticamente utilizando este formato de nombre cada vez que un usuario hace clic en el bot\u00f3n \"A\u00f1adir nuevo\". Si se deja en blanco, se le pedir\u00e1 al usuario que introduzca un nombre para la p\u00e1gina antes de que se crea."
+            "text": "Cuando se rellena, las p\u00e1ginas se crear\u00e1n autom\u00e1ticamente utilizando este formato de nombre siempre que un usuario haga clic en el bot\u00f3n \"A\u00f1adir nuevo\". Si se deja en blanco, se le pedir\u00e1 al usuario que introduzca un nombre para la p\u00e1gina antes de crearla."
         },
         "e4f63a8ac32b32675310ab45dd15e6cb": {
-            "text": "Si el formato de nombre contiene caracteres no alfanum\u00e9ricos, se considera que es un formato de fecha PHP. Si contiene s\u00f3lo caracteres alfanum\u00e9ricos entonces se puede utilizar directamente, con un n\u00famero a\u00f1adido al final (cuando sea necesario) para garantizar la unicidad."
+            "text": "Si el formato de nombre contiene caracteres no alfanum\u00e9ricos, se considera que es un formato [PHP date] (http:\/\/www.php.net\/manual\/en\/function.date.php). Si contiene s\u00f3lo caracteres alfanum\u00e9ricos, se utilizar\u00e1 directamente, con un n\u00famero a\u00f1adido al final (cuando sea necesario) para garantizar la unicidad."
         },
         "9ad1067becc6f575ac4c13c7294fdffe": {
             "text": "Ejemplo: Ymd: El suyo es un buen formato de nombre para nombres de p\u00e1ginas basado fecha \/ hora."
@@ -76,6 +76,30 @@
         },
         "d02df721111f58d691538543749d7ce0": {
             "text": "Crear"
+        },
+        "ff63ad7fe05686c64e062c5c034ad04f": {
+            "text": "Se encontraron hijos que se pueden agregar a esta tabla. Marca la casilla junto a la que deseeas agregar."
+        },
+        "4c41e0bd957698b58100a5c687d757d9": {
+            "text": "Seleccionar todo"
+        },
+        "3c59f93c033e789777be18c1ad66b13b": {
+            "text": "A\u00f1adida(s) %d pagina(s) a la tabla"
+        },
+        "1b599a361b1d70e9e618b990e78c3bac": {
+            "text": "Editar el comportamiento de la ventana modal"
+        },
+        "ddc5451d4ec8474b52d0c29aa3a0d475": {
+            "text": "Cierre autom\u00e1tico al guardar (predeterminado)"
+        },
+        "7d3bd56da0d093058cd12ccf10411b3d": {
+            "text": "Mantener la ventana abierta, cierre manual"
+        },
+        "f45cf450f2435b8e50cee88a4ac15112": {
+            "text": "Publicado"
+        },
+        "fab3cb63defc8837e34f8ff45d16299f": {
+            "text": "Ruta"
         }
     }
 }

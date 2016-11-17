@@ -18,43 +18,16 @@
             "text": "M\u00e1s"
         },
         "d95deddfb80310ff0d1d63013611777c": {
-            "text": "Haga clic y arrastre para mover"
-        },
-        "7dce122004969d56ae2e0245cb754d35": {
-            "text": "Editar"
-        },
-        "4351cfebe4b61d8aa5efa1d020710005": {
-            "text": "Ver"
-        },
-        "03c2e7e41ffc181a4e84080b4710e81e": {
-            "text": "Nueva"
-        },
-        "6bc362dbf494c61ea117fe3c71ca48a5": {
-            "text": "Mover"
-        },
-        "ce2c8aed9c2fa0cfbed56cbda4d8bf07": {
-            "text": "Vaciar"
-        },
-        "f413b7eb4ef50a382b0fe0cfe04fdc30": {
-            "text": "Papelera abierta: arrastre las p\u00e1ginas debajo de la papelera para borrarlas"
-        },
-        "de306d89ec101aba6fb73c6879710e6c": {
-            "text": "404 P\u00e1gina no encontrada"
-        },
-        "e3afed0047b08059d0fada10f400c1e5": {
-            "text": "Administraci\u00f3n"
+            "text": "Haz clic y arrastre para mover"
         },
         "a7e253cd8dd95da3e20daf45519a8dc2": {
             "text": "Papelera"
         },
         "157fa6b945671169a76bc677977f368d": {
-            "text": "Nombre del campo p\u00e1gina"
-        },
-        "ae9945c00ae261445f0277fbae516179": {
-            "text": "Cada p\u00e1gina en un PageList se identifica mediante una etiqueta, t\u00edpicamente un t\u00edtulo o campo titular. Puede especificar qu\u00e9 campo se debe utilizar aqu\u00ed. Para especificar varios campos, separe cada nombre de campo con un espacio. Si el campo tiene un objeto (como otra p\u00e1gina), a continuaci\u00f3n, especifique la propiedad con un punto, es decir anotherpage.title. Tenga en cuenta que si el campo que especifique tiene un valor en blanco a continuaci\u00f3n, ProcessWire utilizar\u00e1 el campo \"nombre\" de la p\u00e1gina."
+            "text": "Nombre del campo de p\u00e1gina a mostrar"
         },
         "8593fb74b02478b2734e442f86507d7b": {
-            "text": "Opcionalmente, puede sustituir este valor en funci\u00f3n de cada plantilla en cada plantilla de ajustes \"avanzados\"."
+            "text": "Opcionalmente, puedes sustituir este valor en funci\u00f3n de cada plantilla en los \"ajustes avanzados\" de plantilla."
         },
         "43da4fffe875f34908241df94ccb535b": {
             "text": "N\u00famero de p\u00e1ginas para mostrar antes de la paginaci\u00f3n"
@@ -63,7 +36,31 @@
             "text": "Velocidad de la animaci\u00f3n (en ms)"
         },
         "453420e78223c3c2ff7a28bfc3a44dde": {
-            "text": "Esta es la velocidad a la que cada rama del \u00e1rbol de p\u00e1ginas anima arriba o hacia abajo. Los n\u00fameros m\u00e1s bajos son m\u00e1s r\u00e1pidos pero menos visible. Por ninguna animaci\u00f3n especifique 0."
+            "text": "Esta es la velocidad a la que cada rama del \u00e1rbol de p\u00e1ginas se anima hacia arriba o hacia abajo. Los n\u00fameros m\u00e1s bajos son m\u00e1s r\u00e1pidos pero menos visibles. Para ninguna animaci\u00f3n especifique 0."
+        },
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "Error de Red, por favor prueba otra vez m\u00e1s tarde"
+        },
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "Error desconocido, por favor prueba otra vez m\u00e1s tarde"
+        },
+        "bdfca484a650a86abab2578865834ac3": {
+            "text": "Cada p\u00e1gina de una lista de p\u00e1ginas se identifica mediante una etiqueta, normalmente un t\u00edtulo o un t\u00edtulo. Puedes especificar el campo que se debe usar aqu\u00ed. Para especificar varios campos, separe cada nombre de campo con un espacio o utiliza su propia cadena de formato con nombres de campo rodeados en {par\u00e9ntesis}. Si el campo se resuelve en un objeto (como en otra p\u00e1gina), especifique la propiedad con un punto, es decir {anotherpage.title}. Tenga en cuenta que si el formato que especifique se resuelve en un valor en blanco, ProcessWire utilizar\u00e1 el campo \"nombre\" de la p\u00e1gina."
+        },
+        "eceb8bf0921f19bb3ae6972e7902c887": {
+            "text": "El valor por defecto es %d."
+        },
+        "f0ebf50a114d563bc9bd51eb8df08f5a": {
+            "text": "Si se deja en el valor predeterminado, esta configuraci\u00f3n tambi\u00e9n se puede especificar en el array $config->pageList."
+        },
+        "7f46e875eed0badd2516b23657f4f320": {
+            "text": "\u00bfMostrar acciones de p\u00e1gina al hacer \"hover\"?"
+        },
+        "04f8c71ea1d550c45b3c987978fe56b3": {
+            "text": "De forma predeterminada, las acciones de una p\u00e1gina aparecen despu\u00e9s de un clic (al menos en el tema de administraci\u00f3n predeterminado). Para hacer que aparezcan en el lugar en su lugar, selecciona esta casilla."
+        },
+        "bcf77f341a0ec5189588bdad819c9ee7": {
+            "text": "Para m\u00e1s opciones aqu\u00ed, vea la configuraci\u00f3n de $config->pageList en \/wire\/config.php. Puedes copiar esas configuraciones en \/site\/config.php y anularlas."
         }
     }
 }

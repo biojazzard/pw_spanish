@@ -6,25 +6,43 @@
             "text": "Se recomienda el formato \"HTML Entity Encoder\" de texto para los campos de URL."
         },
         "ab86e8efb5aa46bdab329fa44f7125fc": {
-            "text": "Permitir URLs relativas \/ locales sin \"http: \/\/\" al principio?"
+            "text": "\u00bfPermitir URLs relativas\/locales sin \"http: \/\/\" al principio?"
         },
         "d1280d091f34a15c77f4145110d7f94d": {
-            "text": "URLs locales \/ relativos son los que no tienen esquema y de dominio."
+            "text": "URLs locales\/relativas son las que no tienen esquema y de dominio."
         },
         "c4c54678f0d612f89caacaab99768f81": {
-            "text": "Anteponer la ruta ra\u00edz del sitio para URLs locales \/ relativos?"
+            "text": "\u00bfAnteponer la ruta ra\u00edz del sitio para URLs locales\/relativos?"
         },
         "9d6ce819c098e5c4a7b3464cadbd028a": {
-            "text": "Esta opci\u00f3n anteponer autom\u00e1ticamente la ruta ra\u00edz del sitio para cualquier URL que comience con una barra, como \/ some \/ path \/. Esto es \u00fatil si su sitio est\u00e1 en funcionamiento desde un subdirectorio porque usted no tendr\u00e1 que incluir ese subdirectorio en la URL que introduzca en este campo. En caso de que m\u00e1s tarde mover su sitio a la ra\u00edz de un dominio (o otro subdirectorio) usted no tendr\u00e1 que preocuparse acerca de las direcciones URL rotas. Con esta opci\u00f3n habilitada, introduzca siempre las direcciones URL como si el sitio se ejecuta desde la ra\u00edz de un dominio, independientemente de si se est\u00e1 ejecutando desde un subdirectorio o no. Naturalmente, esto s\u00f3lo es aplicable si ha seleccionado \"S\u00ed\" para permitir URLs locales \/ relativas en el campo anterior. Los desarrolladores pueden tambi\u00e9n querr\u00e1n tener en cuenta que esta opci\u00f3n s\u00f3lo se aplica cuando outputFormatting de una p\u00e1gina est\u00e1 encendido."
+            "text": "Esta opci\u00f3n a\u00f1adir\u00e1 autom\u00e1ticamente la ruta ra\u00edz del sitio a cualquier URL que comience con una barra, como \/some\/path\/. Esto es \u00fatil si su sitio se ejecuta desde un subdirectorio porque no tendr\u00e1 que incluir ese subdirectorio en las URL que introduzca en este campo. Si posteriormente mueve su sitio a la ra\u00edz de un dominio (u otro subdirectorio), no tendr\u00e1 que preocuparse por las URL rotas. Con esta opci\u00f3n habilitada, escriba siempre las URL como si el sitio estuviera ejecut\u00e1ndose desde la ra\u00edz de un dominio, independientemente de si se ejecuta desde un subdirectorio o no. Naturalmente, esto s\u00f3lo es aplicable si ha seleccionado 'S\u00ed' para permitir URL locales \/ relativas en el campo anterior. Es posible que los desarrolladores tambi\u00e9n deseen tener en cuenta que esta opci\u00f3n s\u00f3lo se aplica cuando outputFormatting est\u00e1 activado para la p\u00e1gina."
         },
         "ae91f58b191e424e0eaf9022fd5407e9": {
-            "text": "Asegura que las URLs no se rompen cuando se mueve de un sitio de un subdirectorio de la ra\u00edz (el ejemplo m\u00e1s com\u00fan)."
-        },
-        "e6b391a8d2c4d45902a23a8b6585703d": {
-            "text": "URL"
+            "text": "Garantiza que las URL no se rompan al mover un sitio desde un subdirectorio a ra\u00edz (el ejemplo m\u00e1s com\u00fan)."
         },
         "0ac82d10c1ddd050079962481c40f54f": {
             "text": "Campo que guarda una URL"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "S\u00ed"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "No"
+        },
+        "7a51839f06248c613d3b07007f4fc05d": {
+            "text": "Si se utiliza esta URL para cualquier salida, se recomienda encarecidamente que seleccione \"HTML Entity Encoder\" para \"Formateadores de texto\" en la ficha Detalles."
+        },
+        "00b2e08d975238a3563e783aa19811fd": {
+            "text": "\u00bfPermitir nombres de dominio internacionalizados (IDNs)?"
+        },
+        "05e7ec04e65f559e191ad8a7c4a02b03": {
+            "text": "Cuando est\u00e1 activado, se permiten nombres de dominio no ASCII."
+        },
+        "e8e4b5ed6eb1c0a268c7587be6ca66e7": {
+            "text": "\u00bfPermitir caracteres de comillas simples \/ dobles en las URL?"
+        },
+        "1b6f57a9eab52d70bc2fff5321da54fb": {
+            "text": "Cuando est\u00e1 habilitado, debe estar absolutamente seguro de que dichas URL est\u00e1n \"entity decoded\" cuando se usan en el marcado."
         }
     }
 }

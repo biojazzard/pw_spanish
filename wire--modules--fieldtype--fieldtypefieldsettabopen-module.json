@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFieldsetTabOpen.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefieldsettabopen-module",
+    "translations": {
+        "7d46168ae11400e7b496a22b2bfe6c6f": {
+            "text": "\u00bfAbrir en la ventana modal?"
+        },
+        "fb6e6fc9f3f435218d01763c02dec7c3": {
+            "text": "Marcar la casilla para que esta pesta\u00f1a se abra en su propia ventana modal. Esto puede mejorar el rendimiento con formas grandes."
+        },
+        "e9f1e9337e418af0267d9475c5b46940": {
+            "text": "Para resolver una necesidad similar, puede considerar la opci\u00f3n AJAX disponible en: Entrada (pesta\u00f1a) > Visibilidad> Presentaci\u00f3n."
+        }
+    }
+}

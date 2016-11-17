@@ -3,28 +3,28 @@
     "textdomain": "wire--modules--languagesupport--languagesupportpagenames-module",
     "translations": {
         "ae739a236065a45c64ad51aacb19498c": {
-            "text": "Activo?"
+            "text": "\u00bfActivo?"
         },
         "35b837a5674ea74e192fc0fa8b68f46c": {
-            "text": "Prefijo de P\u00e1gina para la paginaci\u00f3n"
-        },
-        "6119a76d8e8915737cda0e4151922c06": {
-            "text": "El n\u00famero de p\u00e1gina se a\u00f1ade a esta palabra en URLs paginados para este idioma. Si omitido, \"% s\" se utilizar\u00e1."
+            "text": "Prefijo del n\u00famero de p\u00e1gina para paginaci\u00f3n"
         },
         "5b5fec43bb1313c56d2e944d9567cd96": {
-            "text": "Por defecto P\u00e1gina lenguaje URL es el mismo que el URL ra\u00edz?"
+            "text": "\u00bfLa URL de la p\u00e1gina de inicio del idioma predeterminado es la misma que la URL de la ra\u00edz?"
         },
         "6fbae724946d15c837d8d88af35ed18c": {
-            "text": "Elija S\u00ed si desea que la p\u00e1gina principal de su idioma por defecto para ser servido por la ra\u00edz URL \/ (recomendado). Elija No si desea que su direcci\u00f3n URL ra\u00edz para realizar una redirecci\u00f3n a \/ nombre \/ (donde \/ nombre \/ es el nombre del idioma predeterminado de su p\u00e1gina de inicio)."
+            "text": "Elija ** S\u00ed ** si desea que la p\u00e1gina principal de su idioma predeterminado sea servida por la URL ra\u00edz **\/** (recomendado). Elija **No** si desea que su URL ra\u00edz realice una redirecci\u00f3n a **\/nombre\/** (donde \/name\/ es el nombre de idioma predeterminado de su p\u00e1gina de inicio)."
         },
         "fccde8e7592dffb93fe985bc462771c0": {
-            "text": "Este ajuste s\u00f3lo afecta al comportamiento de p\u00e1gina de inicio. Si selecciona No, tambi\u00e9n debe asegurarse de que su p\u00e1gina web tiene un nombre definido para el idioma predeterminado."
+            "text": "Esta configuraci\u00f3n s\u00f3lo afecta al comportamiento de la p\u00e1gina principal. Si seleccionas No, tambi\u00e9n debes asegurarte de que tu p\u00e1gina de inicio tenga un nombre definido para el idioma predeterminado."
         },
         "ff88cd079dc8d2fb836b8807f5d266a4": {
             "text": "S\u00ed - La URL ra\u00edz sirve homepage idioma por defecto (recomendado)"
         },
         "f1bd84fbcee1b287fe538f7df1cbd700": {
-            "text": "No - URL Root realiza una redirecci\u00f3n a: \/ Nombre \/"
+            "text": "No - URL Root realiza una redirecci\u00f3n a: \/Nombre\/"
+        },
+        "68d765216e3092d42524f9f6f14ce93c": {
+            "text": "El n\u00famero de p\u00e1gina se agrega a esta palabra en URL paginadas para este idioma. Si se omite, se utilizar\u00e1 \"%s\"."
         }
     }
 }

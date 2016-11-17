@@ -12,10 +12,13 @@
             "text": "Reemplazo de caracteres"
         },
         "9d250aded0473671ec3f113407f9809c": {
-            "text": "Elija los cambios que se producir\u00e1n cuando un usuario est\u00e1 introduciendo caracteres en un campo de nombre de la p\u00e1gina. Introduzca una sustituci\u00f3n por l\u00ednea en formato de clave = valor. Esto quiere decir que en cada nueva l\u00ednea, introduzca el car\u00e1cter (s) que desea reemplazar seguido de un signo igual \"=\" y el car\u00e1cter (s) ascii desea reemplazar con."
+            "text": "Introduce los reemplazos que se producir\u00e1n cuando un usuario introduzca caracteres en un campo de nombre de p\u00e1gina. Introduzca un reemplazo por l\u00ednea en el formato key=value. Esto es, en cada nueva l\u00ednea, escriba el(los) car\u00e1cter(s) que desea reemplazar seguido de un signo de igualdad \"=\" y el car\u00e1cter ascii con el que desea reemplazar."
         },
         "9bc6bf958fcb86296c17a2b2db2a00a6": {
-            "text": "El valor de reposici\u00f3n de cada uno debe ser uno o m\u00e1s de: az, 0-9, guiones, subrayado o per\u00edodo."
+            "text": "El valor de reemplazado de cada uno debe ser uno o m\u00e1s de: a-z, 0-9, guiones, subrayado o per\u00edodo."
+        },
+        "5e6587062568e96fc604e79a948a7460": {
+            "text": "La configuraci\u00f3n de reemplazos de caracteres est\u00e1 deshabilitada porque $config-> pageNameCharset es UTF8."
         }
     }
 }

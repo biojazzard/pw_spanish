@@ -11,33 +11,6 @@
         "7e4cc6c00140cefcecd178df1836fbba": {
             "text": "Imagen cambia de tama\u00f1o para adaptarse a las dimensiones m\u00e1ximas permitidas"
         },
-        "f2a6c498fb90ee345d997f888fce3b18": {
-            "text": "Eliminar"
-        },
-        "ad2ac1967f0165ebf04a84bc1819e0de": {
-            "text": "Mover al final"
-        },
-        "727b701bcc5f26422461f10c07a58d48": {
-            "text": "Mover arriba"
-        },
-        "95dde9286ff11d93e5f5ce0c832b9f2c": {
-            "text": "Visualizar miniaturas en editor de la p\u00e1gina?"
-        },
-        "183cf71ab1252b747070605a2aa370c2": {
-            "text": "Miniaturas ocupan menos espacio y hacen que sea m\u00e1s f\u00e1cil clasificar varias im\u00e1genes. Si no se controla, la imagen a tama\u00f1o completo (original) se mostrar\u00e1 en el editor de p\u00e1ginas."
-        },
-        "597c4d1113db01e43b62cd8a7112cf88": {
-            "text": "Vista predeterminada"
-        },
-        "530f488f7a9800411efc6926ab189708": {
-            "text": "Filas"
-        },
-        "5174d1309f275ba6f275db3af9eb3e18": {
-            "text": "Rejilla"
-        },
-        "b3da2ccb426643b265971f8085617aa0": {
-            "text": "De cualquier punto de vista se puede activar haciendo clic en el icono de cuadr\u00edcula \/ fila en el campo de imagen. Esto simplemente define cu\u00e1l es el valor predeterminado. La vista filas es el que recomendamos."
-        },
         "7f0785e56befa113ce8fca2316a12a2e": {
             "text": "Max Dimensiones de la imagen"
         },
@@ -54,7 +27,7 @@
             "text": "Altura m\u00e1xima de las im\u00e1genes subidas"
         },
         "6760d392e57247a882e160cdb8b3680c": {
-            "text": "Min imagen Dimensiones"
+            "text": "Dimensiones de imagen m\u00ednimas"
         },
         "a195023920e6ece61b6211755c9af27f": {
             "text": "Opcionalmente introducir la anchura y \/ o altura de im\u00e1genes cargadas m\u00ednimo. Si se especifica, las im\u00e1genes que no cumplan con estos m\u00ednimos ser\u00e1n rechazados."
@@ -63,13 +36,85 @@
             "text": "Anchura m\u00ednima de las im\u00e1genes subidas"
         },
         "b477617de997199bdd26761085aea486": {
-            "text": "Estatura m\u00ednima para las im\u00e1genes subidas"
+            "text": "Altura m\u00ednima para las im\u00e1genes subidas"
         },
         "fff0d600f8a0b5e19e88bfb821dd1157": {
             "text": "Im\u00e1genes"
         },
         "8a29508fcba587b8af0cfb36c544ee0d": {
             "text": "Uno o m\u00e1s archivos de imagen (ordenable)"
+        },
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Recortar"
+        },
+        "a4374740662193b987e63eb5b727c994": {
+            "text": "Variaciones"
+        },
+        "f4843c1c797abf1a256c8802b6cd9f51": {
+            "text": "Dimensiones"
+        },
+        "b18c29b8470190a02813415a04a2191f": {
+            "text": "Tama\u00f1o del archivo"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Editar"
+        },
+        "f6462f94fa453f425245109b06f64d22": {
+            "text": "arrastrar y soltar nuevas im\u00e1genes arriba"
+        },
+        "f4795ac01103c68bc75e637665b7bd12": {
+            "text": "Este campo de im\u00e1genes puede tener cambios no guardados que podr\u00edan perderse despu\u00e9s de esta acci\u00f3n. Guarda antes de recortar o haz doble clic en el bot\u00f3n."
+        },
+        "d6a369d29506d3151a76c33791fc80b6": {
+            "text": "suelta una imagen para reemplazar"
+        },
+        "f0823f4faa69306cc75fd14c8e5e38e3": {
+            "text": "las miniaturas se volver\u00e1n a crear en guardar"
+        },
+        "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
+            "text": "Hay im\u00e1genes de vista previa en miniatura de mayor \/ baja calidad arriba - marca esta casilla para volver a crearlas."
+        },
+        "5e244fccb2d4cda18bebf756dacce94c": {
+            "text": "Imagen de %s excede el tama\u00f1o m\u00e1ximo"
+        },
+        "96733a97d96b04ddd6e06cdf3147df1e": {
+            "text": "No editable"
+        },
+        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
+            "text": "Modo cuadr\u00edcula en imagen predeterminada"
+        },
+        "c53c009277b900e7292c4b49f07ddaec": {
+            "text": "En el administrador, la lista de im\u00e1genes aparecer\u00e1 en este modo de forma predeterminada. El usuario puede cambiarlo en cualquier momento haciendo clic en los iconos en la esquina superior derecha del campo."
+        },
+        "e6c7b90087278c53b5361182358a2d92": {
+            "text": "Si has utilizado recientemente este campo de im\u00e1genes, tendr\u00e1s que borrar las cookies antes de ver cualquier cambio en esta configuraci\u00f3n."
+        },
+        "a188c29fb8020eee47113073e366f78e": {
+            "text": "Parrilla cuadrada de im\u00e1genes"
+        },
+        "06d5ddb736061086ad90f364eca1c56d": {
+            "text": "Parrilla proporcional de im\u00e1genes"
+        },
+        "fa996d5ac4351e7e603f3ab1b9f77afe": {
+            "text": "Lista vertical"
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "\u00bfRechazar im\u00e1genes que excedan las dimensiones m\u00e1ximas?"
+        },
+        "e0af28e6bea01f8a983ebd94ec3b7468": {
+            "text": "Si se selecciona, las im\u00e1genes que excedan el ancho \/ altura m\u00e1ximo ser\u00e1n rechazadas en lugar de redimensionadas."
+        },
+        "a39e1de5e7b995d90322ab7d047428bc": {
+            "text": "\u00bfIntercambiar dimensiones m\u00ednimas \/ m\u00e1ximas para im\u00e1genes de retrato?"
+        },
+        "7f3d934927a1c106f5191c01b36c7766": {
+            "text": "Si se selecciona, las dimensiones de anchura \/ altura m\u00ednima y anchura \/ altura m\u00e1ximas se intercambiar\u00e1n para las im\u00e1genes de retrato para adaptarse a la relaci\u00f3n de aspecto diferente."
+        },
+        "36400352f439e8894099e79dc33fada1": {
+            "text": "Recrea todas las miniaturas"
+        },
+        "382b0f5185773fa0f67a8ed8056c7759": {
+            "text": "N\/A"
         }
     }
 }

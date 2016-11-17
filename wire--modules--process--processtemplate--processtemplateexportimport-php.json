@@ -24,7 +24,7 @@
             "text": "Copiar y pegar estos datos en la caja de \"importaci\u00f3n\" de otra instalaci\u00f3n."
         },
         "9d823cda278191490c2a99bbb912cc9d": {
-            "text": "Haga clic en cualquier parte del cuadro para seleccionar todos los datos de exportaci\u00f3n. Una vez seleccionado, copiar los datos con CTRL-C o CMD-C."
+            "text": "Hacer clic en cualquier parte del cuadro para seleccionar todos los datos de exportaci\u00f3n. Una vez seleccionado, copiar los datos con CTRL-C o CMD-C."
         },
         "dce8c8fe6bdf804f2a98384dedea1360": {
             "text": "Pegar en los datos de una exportaci\u00f3n."
@@ -63,16 +63,16 @@
             "text": "haga clic en S\u00ed para mostrar los cambios"
         },
         "47a35a358887cc2c9994fb517d6a2b0b": {
-            "text": "A veces puede tomar dos cambios antes de aplicar todos los cambios. Por favor revisar todos los cambios pendientes inferiores y comprometerse cuando sea necesario."
+            "text": "A veces puede tomar dos confirmaciones antes de aplicar todos los cambios. Revisa los cambios pendientes que aparecen a continuaci\u00f3n y conf\u00edrmalos seg\u00fan sea necesario."
         },
         "b2ba5835eaaa55607da59f696dcd4a87": {
-            "text": "Por favor, revise los cambios a continuaci\u00f3n y cometerlos cuando est\u00e9 listo. Si hay alg\u00fan cambio que usted no desea aplicar, desactive las casillas en su caso."
+            "text": "Revise los cambios a continuaci\u00f3n y conf\u00edrmalos cuando est\u00e9 listo. Si hay alg\u00fan cambio que no deseas aplicar, desmarca las casillas donde corresponda."
         },
         "b604e6f64e19eea098f6d87c63552c53": {
             "text": "Guardar cambios"
         },
         "16babeb0401a3e00da9891b97e94d6fe": {
-            "text": "Sus cambios se han aplicado!"
+            "text": "Tus cambios se han aplicado!"
         },
         "15055fb4c054396bf293c21c12c578be": {
             "text": "No se encontraron cambios"
@@ -98,9 +98,6 @@
         "a7820bfdb5b31eb4ee4165f2c8bef779": {
             "text": "S\u00ed"
         },
-        "1354eb301e2c7c55f79a7f13adb363e3": {
-            "text": "No"
-        },
         "1de056630a16e4be557e090c25f5791e": {
             "text": "%d aviso"
         },
@@ -108,10 +105,10 @@
             "text": "%d avisos"
         },
         "8ba486983cfbf272f154102c788863e6": {
-            "text": "Encontrado %d  propiedad a aplicar."
+            "text": "Encontrada %d  propiedad a aplicar."
         },
         "dbda450b59595e4fd37fd581d205334f": {
-            "text": "Encontrado %d propiedades a aplicar."
+            "text": "Encontradas %d propiedades a aplicar."
         },
         "55c3a7525ed259e874a6d8f5e7e1b951": {
             "text": "Avisos en %d plantilla"
@@ -148,6 +145,9 @@
         },
         "fc9475948584941277524f1216bb18ff": {
             "text": "Omitidos %d elementos"
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "May\u00fas + clic para seleccionar m\u00faltiples en secuencia. Ctrl + Clic (o Cmd + Clic) para seleccionar m\u00faltiples individualmente. Ctrl + A (o Cmd + A) para seleccionar todo."
         }
     }
 }

@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/FieldtypeOptions.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--fieldtypeoptions-module",
+    "translations": {
+        "69b3176dd209b9a908446d55ceb0cfd2": {
+            "text": "La pre-selecci\u00f3n configurada no se ha completado ya que no siempre se requiere el valor. Corregir esta configuraci\u00f3n de campo."
+        },
+        "aee44a384657fe502a5b91c94fbc7713": {
+            "text": "La importaci\u00f3n de opciones a\u00fan no se ha implementado. Aunque pueden ser f\u00e1cilmente importados de un sitio a otro por copiar \/ pegar directamente desde la pantalla de edici\u00f3n de campo."
+        },
+        "33568d5ff03072672cce95681df20964": {
+            "text": "Opciones de selecci\u00f3n"
+        },
+        "440494bea619acd17c0a19326d9030fd": {
+            "text": "Campo que almacena opciones de selecci\u00f3n \u00fanica y m\u00faltiple."
+        }
+    }
+}

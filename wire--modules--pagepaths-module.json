@@ -7,6 +7,9 @@
         },
         "b198072961bf47ed9c790c1006f98372": {
             "text": "Actualizadas las rutas %d"
+        },
+        "0e620fb070fcc5279681b61f5720fb6e": {
+            "text": "Por favor: Desinstala el m\u00f3dulo Core> PagePaths (no es compatible con LanguageSupportPageNames)"
         }
     }
 }

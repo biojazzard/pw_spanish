@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/SelectableOptionConfig.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--selectableoptionconfig-php",
+    "translations": {
+        "d5d394071928f1f25b0e3c0f0a336d13": {
+            "text": "Confirme que desea eliminar las opciones"
+        },
+        "69e27cd6eff790dbbd4b6f65275ebaf7": {
+            "text": "ELIMINAR:"
+        },
+        "2193a0641b7380e976778074efdfec0a": {
+            "text": "Valor \u00fanico"
+        },
+        "06a7c76b256c778d08e1c9548a9e679d": {
+            "text": "Multiples valores"
+        },
+        "1465fa2b1c38fd4e8579e84e2b31a6d6": {
+            "text": "\u00bfQu\u00e9 se debe utilizar para la entrada?"
+        },
+        "a088b8e4d1d572f82e2661ab0862f00b": {
+            "text": "Dependiendo del tipo de entrada que elija, el usuario podr\u00e1 seleccionar una sola opci\u00f3n o varias opciones. Algunos tipos de entrada (como AsmSelect) tambi\u00e9n admiten selecciones seleccionables por el usuario. Algunos tipos de entrada tambi\u00e9n proporcionan m\u00e1s ajustes en la pesta\u00f1a *Input* (visible despu\u00e9s de guardar)."
+        },
+        "2b19b4791a203f60ffe7369493dd7b5f": {
+            "text": "\u00bfCu\u00e1les son las opciones seleccionables?"
+        },
+        "7ca00a9ac9a521d8e1d62919da2e66c6": {
+            "text": "Introduzca una opci\u00f3n seleccionable por l\u00ednea. Despu\u00e9s de guardar, se asignar\u00e1 un n\u00famero de ID a cada una de sus opciones, que ver\u00e1 como `123=title`, por ejemplo. Consulte nuestras [instrucciones para usar este campo](%s)."
+        },
+        "ebe68b1a7edd199230885058ca3f3351": {
+            "text": "Nota en varios idiomas: defina las opciones en el idioma predeterminado y gu\u00e1rdelas antes de traducirlas a otros idiomas."
+        },
+        "0581f7830fb426e1d56efadbc1a09edb": {
+            "text": "\u00bfQu\u00e9 opciones desea preseleccionar? (Si lo hubiere)"
+        },
+        "ad560982b535502d63dbf2f46ea8b3a6": {
+            "text": "Este campo tambi\u00e9n sirve como una vista previa del tipo de entrada seleccionado (%s) y las opciones."
+        },
+        "810906cf431b89762465d39dd3402ba7": {
+            "text": "Ten en cuenta que rus selecciones aqu\u00ed no se activan a menos que se requiera un valor * siempre * para este campo. Consulta la opci\u00f3n \"requerido\" en la pesta\u00f1a Entrada de su configuraci\u00f3n de campo."
+        },
+        "a6a26b1340a7cbaf1b405484a8a74b98": {
+            "text": "Esta funci\u00f3n est\u00e1 activa ya que siempre se requiere un valor."
+        },
+        "c3524d56fb147114b84d6e9dd56110a9": {
+            "text": "Eliminar esta opci\u00f3n"
+        },
+        "c766e5be484b0e0a2104bc2fe925000c": {
+            "text": "Eliminar estas opciones"
+        }
+    }
+}

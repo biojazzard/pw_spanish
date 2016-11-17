@@ -12,19 +12,19 @@
             "text": "Descargar e instalar"
         },
         "fadeae979278b23b0c0245fe143813ca": {
-            "text": "Agregar m\u00f3dulo De Directorio"
+            "text": "Agregar m\u00f3dulo desde Directorio"
         },
         "91412465ea9169dfd901dd5e7c96dd99": {
             "text": "Subir"
         },
         "a97f194fe643428c6e0e5b1d3ea79dbd": {
-            "text": "Agregar m\u00f3dulo Desde \"upload\""
+            "text": "Agregar m\u00f3dulo desde Subidas"
         },
         "5e3f8e6adc33178f32cc7beb6ad19072": {
             "text": "Agregar m\u00f3dulo Desde URL"
         },
         "cc3acbc843dd28f892ae2c9c1211b4cb": {
-            "text": "Compruebar nuevos m\u00f3dulos"
+            "text": "Comprobar nuevos m\u00f3dulos"
         },
         "98dd43dfae05b11befe1f140e0ec787a": {
             "text": "Instalado"
@@ -33,16 +33,13 @@
             "text": "Instalar M\u00f3dulo"
         },
         "ea90a0c1864c51f82f862a6850c13951": {
-            "text": "Archivos del m\u00f3dulo eliminados"
+            "text": "Archivos de m\u00f3dulos eliminados"
         },
         "a7d6475ec8993b7224d6facc8cb0ead6": {
             "text": "Sitio"
         },
         "9c67d775a708bbc2a042f878e78cfe2c": {
             "text": "\/site\/modules\/ - M\u00f3dulos espec\u00edficos para usar en tu sitio"
-        },
-        "4d90ec9a7117ef7ad9c02a90860d7122": {
-            "text": "Para eliminar un m\u00f3dulo, haga clic en el m\u00f3dulo para editar, marcar la casilla 'desinstalaci\u00f3n', a continuaci\u00f3n, guardar. Una vez desinstalado, archivo (s) del m\u00f3dulo puede ser removido de \/ web \/ modules \/. Si sigue apareciendo en la lista anterior, puede que tenga que hacer clic en el 'cheque por nuevos m\u00f3dulos \"bot\u00f3n para ProcessWire para ver el cambio."
         },
         "83168e6cb289d732cc78427b51f93153": {
             "text": "N\u00facleo"
@@ -52,9 +49,6 @@
         },
         "03c2e7e41ffc181a4e84080b4710e81e": {
             "text": "Nuevo"
-        },
-        "cb4e8aca2c4d3f2f34a8019ac88458bd": {
-            "text": "M\u00f3dulos reci\u00e9n descubiertos"
         },
         "94e84ea867143991751f06bad2b5da30": {
             "text": "En la \u00faltima hora"
@@ -75,28 +69,28 @@
             "text": "Nombre de la \"Clase\" del m\u00f3dulo"
         },
         "8de5f3b8fe691cf6304176b9a5ed54da": {
-            "text": "Usted puede navegar por el directorio de m\u00f3dulos y localizar el m\u00f3dulo que desea descargar e instalar. Escriba o pegue en el \"nombre de clase\" para el m\u00f3dulo que desea instalar."
+            "text": "Puedes explorar el directorio de m\u00f3dulos y localizar el m\u00f3dulo que deseas descargar e instalar. Escribe o pega en el \"nombre de clase\" para el m\u00f3dulo que desea instalar."
         },
         "3b0798392299a74418470d3f13b5eec2": {
-            "text": "El directorio de m\u00f3dulos se encuentra en modules.processwire.com"
+            "text": "El directorio de m\u00f3dulos se encuentra en [modules.processwire.com] (http:\/\/modules.processwire.com)"
         },
         "dc975a9e6b0112228c42a6abbe82ae93": {
-            "text": "Estar absolutamente seguro de que conf\u00eda en el origen del archivo ZIP."
+            "text": "Estate absolutamente seguro de que conf\u00edas en el origen del archivo ZIP."
         },
         "d5f38db4e3d76c9a7cda57c660ac0dad": {
             "text": "M\u00f3dulo ZIP desde URL"
         },
         "29b21610722fa13430132a8d4e757d1f": {
-            "text": "Descargar un archivo ZIP que contiene un m\u00f3dulo. Si descarga un m\u00f3dulo que ya est\u00e1 instalada, la versi\u00f3n instalada se sobrescribe con la versi\u00f3n reci\u00e9n descargado."
+            "text": "Descarga un archivo ZIP que contenga un m\u00f3dulo. Si descargas un m\u00f3dulo que ya est\u00e1 instalado, la versi\u00f3n instalada se sobrescribir\u00e1 con la versi\u00f3n descargada."
         },
         "e7aef889dd1b168dc269e9ddff6a57a5": {
             "text": "M\u00f3dulo del archivo ZIP"
         },
         "6010e3962902142283df28e6d1a1d897": {
-            "text": "Subir un archivo ZIP que contiene el archivo (s) del m\u00f3dulo. Si se carga un m\u00f3dulo que ya est\u00e1 instalada, ser\u00e1 sobrescrito con el que usted cargue."
+            "text": "Carga un archivo ZIP que contenga archivos de m\u00f3dulo. Si cargas un m\u00f3dulo que ya est\u00e1 instalado, se sobrescribir\u00e1 con el que haya cargado."
         },
         "5975f55a2bcd254c58d9fe16d7a21417": {
-            "text": "Si ha colocado nuevos m\u00f3dulos en \/ web \/ modules \/ usted mismo, haga clic en este bot\u00f3n para encontrarlos."
+            "text": "Si has colocado nuevos m\u00f3dulos en \/site\/modules\/, haz clic en este bot\u00f3n para encontrarlos."
         },
         "56f298ec43e271496dd37302c5f2d023": {
             "text": "No hay nuevos m\u00f3dulos"
@@ -111,10 +105,10 @@
             "text": "m\u00e1s"
         },
         "0d17be96c4c0a8f101dcaa0ce9c5ee7d": {
-            "text": "Eliminar %s?"
+            "text": "\u00bfEliminar %s?"
         },
         "b9c21fa0192c783c8c3d3c48cd251f6c": {
-            "text": "Nuevo m\u00f3dulo Encontrado"
+            "text": "Nuevo m\u00f3dulo encontrado"
         },
         "5d695cc28c6a7ea955162fbdd0ae42b9": {
             "text": "Encontrado"
@@ -123,22 +117,22 @@
             "text": "Mostrar todo"
         },
         "8395847485c9a34007295da6a4f9d4cf": {
-            "text": "Recuperando datos de error de URL de servicio web"
+            "text": "Error al recuperar datos de la URL del servicio web"
         },
         "f629d0ec5b19860b76ae88da3ea10273": {
-            "text": "Error de decodificaci\u00f3n de JSON"
+            "text": "Error al descodificar JSON del servicio web descodificar Definiciones de descodificar verbo Aplicar las reglas adecuadas a un mensaje que ha sido emitido en un sistema de signos determinado, para entenderlo. ha de saber descodificar ese mensaje; clasificar\u00e1 y descodificar\u00e1 toda la informaci\u00f3n; puede ser descodificada en una estaci\u00f3n receptora . Traducciones de descodificar verbo decode descodificar, descifrar"
         },
         "8d68afb831b95c0dc23e1457385a983c": {
-            "text": "Reporte de error:"
+            "text": "Error reportado por el servicio web:"
         },
         "9e5fd09ae1c89e20aa28deee64d7f631": {
             "text": "Lo sentimos m\u00f3dulos de tipo \"%s\" no se pueden instalar desde el administrador."
         },
         "2b0c95ea68acdfcd4e4d995f89bf3b92": {
-            "text": "Este m\u00f3dulo no indica la compatibilidad con esta versi\u00f3n de ProcessWire. Todav\u00eda puede trabajar, pero puede que desee consultar con el m\u00f3dulo de autor."
+            "text": "Este m\u00f3dulo no indica compatibilidad con esta versi\u00f3n de ProcessWire. Es posible que todav\u00eda funcione, pero es posible que desee comprobar con el autor del m\u00f3dulo."
         },
         "5259630c836d951d40cd2771922dfb5e": {
-            "text": "La versi\u00f3n instalada est\u00e1 actualizada"
+            "text": "La versi\u00f3n instalada actual ya est\u00e1 actualizada"
         },
         "356025c686f0f84759d1762a071903ad": {
             "text": "Una actualizaci\u00f3n de este m\u00f3dulo est\u00e1 disponible!"
@@ -153,10 +147,10 @@
             "text": "P\u00e1gina del proyecto"
         },
         "49ec9b5c06ace9e448b8c7901304c036": {
-            "text": "P\u00e1gina de soporte"
+            "text": "P\u00e1gina de Soporte"
         },
         "baa2c21bbd137636014e8f357698761e": {
-            "text": "Aseg\u00farese de que conf\u00eda en el origen del archivo ZIP anterior antes de continuar!"
+            "text": "Aseg\u00farate de que conf\u00edas en el origen del archivo ZIP anterior antes de continuar!"
         },
         "2d30ce478ce5e77c288d80f804617331": {
             "text": "Este m\u00f3dulo no tiene URL de descarga especificada y debe ser instalado manualmente."
@@ -177,7 +171,7 @@
             "text": "Instalar ahora"
         },
         "bfaf55307f89bbad2f781f3ea25fae91": {
-            "text": "Dejar desinstalado"
+            "text": "Mantener Desinstalado"
         },
         "bb8985c9a93d30135e0a662d77228e87": {
             "text": "Actualizado:"
@@ -192,10 +186,10 @@
             "text": "No se ha especificado ning\u00fan m\u00f3dulo"
         },
         "e45037779e7b459b4ea29944f1b2ef5c": {
-            "text": "Desinstalar este m\u00f3dulo? Despu\u00e9s de desinstalar, puede eliminar los archivos de m\u00f3dulos del servidor si no est\u00e1 en uso por otros m\u00f3dulos."
+            "text": "\u00bfDesinstalar este m\u00f3dulo? Despu\u00e9s de desinstalar, puedes eliminar los archivos de m\u00f3dulos del servidor si no est\u00e1 en uso por otros m\u00f3dulos."
         },
         "a0ab914bff40f68598d99e99d39d859c": {
-            "text": "Esto tambi\u00e9n desinstalar otros m\u00f3dulos"
+            "text": "Esto tambi\u00e9n va a desinstalar otros m\u00f3dulos"
         },
         "1f698ebf835d58ef66a38c20e1496fa2": {
             "text": "(Desactivado)"
@@ -210,31 +204,22 @@
             "text": "Este m\u00f3dulo no tiene ning\u00fan campo para configurar"
         },
         "aadb23a524b84262538be0a416d5868f": {
-            "text": "M\u00f3dulo desinstalado"
+            "text": "M\u00f3dulo Desinstalado"
         },
         "9b60baa546e5c978341fd2907b1d5dc9": {
             "text": "M\u00f3dulo Guardado"
         },
         "9c098768612f6e24d58eae6fb38ae756": {
-            "text": "Comprobar si hay actualizaciones"
+            "text": "comprobar si hay actualizaciones"
         },
         "bf17ac149e2e7a530c677e9bd51d3fd2": {
             "text": "M\u00f3dulos"
         },
         "b7e2c8a0dd9e5f4ac8848dc0ff32ba0f": {
-            "text": "Lista, editar o instalar \/ desinstalar m\u00f3dulos"
-        },
-        "ea6cee49cbd5313f532c8f213e820e63": {
-            "text": "URL m\u00f3dulos de servicio Web"
-        },
-        "b815574829ed2efce1faef571bc8b22e": {
-            "text": "M\u00f3dulos de Servicio Web API Key"
+            "text": "Lista, editar o instalar\/desinstalar m\u00f3dulos"
         },
         "70d2b9e888cc1816db79833873ff3a93": {
             "text": "M\u00f3dulo"
-        },
-        "27a35aaa9bc34010a2a8b5f6e72bc59c": {
-            "text": "Version"
         },
         "397433048c1c0bf93e5c0b270e178cb5": {
             "text": "Resumen"
@@ -243,7 +228,7 @@
             "text": "Requiere"
         },
         "d79883f0aa4bbfa29cfade81d86f4914": {
-            "text": "Tambi\u00e9n se instala"
+            "text": "Tambi\u00e9n instala"
         },
         "7dadd48b9d04ac2c725c773fb9b845e6": {
             "text": "Instalar"
@@ -259,9 +244,6 @@
         },
         "874966d700b2e2cca2577a2eac1d28f0": {
             "text": "Clase"
-        },
-        "f660f5f5478044f06b7c4ff7faf94e22": {
-            "text": "Version"
         },
         "64e220482c5957a4bc72eb93fa23c97d": {
             "text": "Instalado?"
@@ -321,7 +303,100 @@
             "text": "M\u00e1s informaci\u00f3n"
         },
         "da50401ad6d0a7e3ec13844538e10864": {
-            "text": "Informaci\u00f3n del m\u00f3dulo"
+            "text": "Informaci\u00f3n del M\u00f3dulo"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Refrescar"
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Configurar"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Instalar"
+        },
+        "4516572c6fda0d98d0668aecc205fd25": {
+            "text": "Error al instalar el M\u00f3dulo"
+        },
+        "75a1550235c0efb5d9dedd5f02f1fe86": {
+            "text": "Cach\u00e9 del compilador de archivos eliminada."
+        },
+        "883368e39a6dfd38bba57a0d881c87df": {
+            "text": "M\u00f3dulos cach\u00e9 actualizados (%d m\u00f3dulos)"
+        },
+        "fdbd482a575730a7abb63cdbf62a0f6c": {
+            "text": "El m\u00f3dulo \"%s\" tiene varios archivos (el archivo en negrita es el que est\u00e1 en uso)."
+        },
+        "458268ddfe6f3ace67044ba7f55c7079": {
+            "text": "Haz clic aqu\u00ed para cambiar el archivo que se utiliza"
+        },
+        "0e1b7d725ac07f97cf9181f6cea25cf5": {
+            "text": "Borrar archivos compilados"
+        },
+        "19d1a8e075651f072ba0771e6cbc831b": {
+            "text": "Examine el directorio de m\u00f3dulos en %s"
+        },
+        "326051e869bfb9785613fcb1e957a71e": {
+            "text": "Para eliminar un m\u00f3dulo, haz clic en el m\u00f3dulo para editar, activa el cuadro Desinstalar y guarda. Una vez desinstalado, los archivos del m\u00f3dulo pueden ser eliminados de \/site\/modules\/. Si todav\u00eda aparece en la lista anterior, puede que tengas que hacer clic en el bot\u00f3n Actualizar para que ProcessWire vea el cambio."
+        },
+        "496fe18d4a1185b1236724440ed4ade6": {
+            "text": "El bot\u00f3n de abajo borra los m\u00f3dulos de sitio compilado y los archivos de plantilla, forz\u00e1ndolos a volver a compilar la pr\u00f3xima vez que se accede a ellos. Tenga en cuenta que esto puede causar un retraso temporal para una o m\u00e1s solicitudes mientras los archivos se vuelven a compilar."
+        },
+        "385accc7e6612e8dba4e99f22b6876b1": {
+            "text": "M\u00f3dulos que tienen opciones de configuraci\u00f3n"
+        },
+        "8c3466d7f1cc1dc4c01a040fe64573d5": {
+            "text": "M\u00f3dulos en el sistema de archivos que no est\u00e1n instalados actualmente"
+        },
+        "cebc0576aea62c59ee4ab6b11793d0ab": {
+            "text": "La instalaci\u00f3n puede causar problemas. \u00bfSeguro que quieres instalarlo?"
+        },
+        "67f02952b064d6064216f2639a516eca": {
+            "text": "Requiere el m\u00f3dulo \"%s\" antes de que pueda instalarse"
+        },
+        "30d23c0f67dc47f239879658b08c371a": {
+            "text": "Archivo de M\u00f3dulo a usar"
+        },
+        "fc93b2cc57529c815c8810364ec885ea": {
+            "text": "Hay varias copias de este m\u00f3dulo. Seleccione el archivo de m\u00f3dulo que desea utilizar."
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + Salir"
+        },
+        "0a5d45b5062fbc6cf7c0fce7c6ecedb7": {
+            "text": "(namespace por defecto)"
+        },
+        "498ba8bc46d453108ed1961748ae5d6c": {
+            "text": "Ninguno (root namespace)"
+        },
+        "1c4336473685430feefceabf2d42669c": {
+            "text": "\u00bfDeshabilitar Autocarga?"
+        },
+        "0e7a5c8e978678d4124240dafccdc636": {
+            "text": "Ten cuidado, la selecci\u00f3n de esta caja puede romper algo en el m\u00f3dulo o en su sitio. \u00daselo solo para pruebas temporales."
+        },
+        "2f44417567bc123bd7c60de8c2a2b444": {
+            "text": "antes"
+        },
+        "632a2406bbcbcd553eec45ac14b40a0a": {
+            "text": "despu\u00e9s"
+        },
+        "fd50b49603c0cfa8d50d7c2933cc052c": {
+            "text": "Instalar %s"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "A\u00f1adir Nuevo"
+        },
+        "27a35aaa9bc34010a2a8b5f6e72bc59c": {
+            "text": "versi\u00f3n"
+        },
+        "f660f5f5478044f06b7c4ff7faf94e22": {
+            "text": "Versi\u00f3n"
+        },
+        "289aa00733ebcfd0bae827af29d01356": {
+            "text": "Versi\u00f3n"
+        },
+        "7f3e66ccbb2c396210f9f58ad5a75e39": {
+            "text": "Depuraci\u00f3n"
         }
     }
 }

@@ -6,10 +6,10 @@
             "text": "cualquiera"
         },
         "004d36e4fa95eec8357b066aa20e9d8d": {
-            "text": "Valor especificado %3$s removido porque est\u00e1 fuera de l\u00edmites (min=%1$s, max=%2$s)"
+            "text": "Valor especificado %3$s eliminado porque est\u00e1 fuera de l\u00edmites (min=%1$s, max=%2$s)"
         },
         "ddf1608e4f7def4fd584f806267255d4": {
-            "text": "Tipo de entrada Num\u00e9rico"
+            "text": "Tipo de Entrada Num\u00e9rico"
         },
         "9dffbf69ffba8bc38bc4e01abf4b1675": {
             "text": "Texto"
@@ -35,14 +35,29 @@
         "15b920388c8c88882ae50ac7e68a52ad": {
             "text": "Entero (positivo o negativo)"
         },
-        "342fcaf76020389954d449ceec0a8a80": {
-            "text": "Min: %d"
-        },
-        "96f5f93890f61d6ff4c07e2883833d72": {
-            "text": "Max: %d"
-        },
         "a0faef0851b4294c06f2b94bb1cb2044": {
             "text": "Entero"
+        },
+        "342fcaf76020389954d449ceec0a8a80": {
+            "text": "M\u00ednimo: %d"
+        },
+        "96f5f93890f61d6ff4c07e2883833d72": {
+            "text": "M\u00e1ximo: %d"
+        },
+        "bf23ca4feca536a9667209e45869c2f1": {
+            "text": "Tama\u00f1o Entrada"
+        },
+        "320e94493eb997536f4ec1eb75a61c38": {
+            "text": "Especifica el atributo de tama\u00f1o para la entrada o especifica 0 para el ancho completo."
+        },
+        "08adfc4e3f75347c88b665609425d43a": {
+            "text": "El valor por defecto es: %d"
+        },
+        "3a5dcb943d6bc607c6b2658350526bc5": {
+            "text": "Valor inicial"
+        },
+        "6b2dbf9c383cf3fcf4cc27147020c3b5": {
+            "text": "Valor inicial asignado"
         }
     }
 }

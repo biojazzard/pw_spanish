@@ -9,13 +9,13 @@
             "text": "El spam se eliminan autom\u00e1ticamente despu\u00e9s de la cantidad de tiempo especificado en la configuraci\u00f3n del campo."
         },
         "193a4762fa2301d6e5d9fac2730dbe71": {
-            "text": "Este art\u00edculo est\u00e1 en espera de aprobaci\u00f3n o eliminaci\u00f3n."
+            "text": "Este elemento est\u00e1 en espera de aprobaci\u00f3n o eliminaci\u00f3n."
         },
         "95742f3daaebcf075ad53961b11fc0dd": {
             "text": "Comentario #%1d Puesto el %2$s por %3$s"
         },
         "6f9e04c43332fd4945f2c933c8eea611": {
-            "text": "Ciudad"
+            "text": "Cita"
         },
         "082e55a73f10496681c84231dc1c88f7": {
             "text": "E-mail"
@@ -47,8 +47,32 @@
         "af4a8ef24b938b7857109b49e38c8969": {
             "text": "Pendiente"
         },
+        "88559a0cfd8250c9d65970cc145c92d4": {
+            "text": "Apagado"
+        },
+        "97154f7c3d4195084cbcb58bc5357c7a": {
+            "text": "Comentario #%d (%s)"
+        },
+        "077821dbbc7b778e3fccdb71e1f8cda3": {
+            "text": "TODOS los nuevos comentarios"
+        },
+        "a2c889314eecccf6704dd2427f12b478": {
+            "text": "RESPUESTAS solo"
+        },
+        "ec53a8c4f07baed5d8825072c89799be": {
+            "text": "Estado"
+        },
+        "84c4dfc8fccf9350a9610e366ae769a5": {
+            "text": "Responder a"
+        },
+        "d37c550d781bfb93b0088a2470598bcf": {
+            "text": "Estrellas"
+        },
+        "8922ee2d287d6d1cad3fd33f6341f512": {
+            "text": "Notificaciones por Email:"
+        },
         "39ef1e97d0b7fa0510cd93cd5f2cf99b": {
-            "text": "Spam"
+            "text": "Basura"
         }
     }
 }

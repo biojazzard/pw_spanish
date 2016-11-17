@@ -18,13 +18,16 @@
             "text": "M\u00e1s"
         },
         "417c313c31381894998d5fa72eac82c8": {
-            "text": "No se puede representar este campo debido a que faltan p\u00e1gina principal en la configuraci\u00f3n del campo."
+            "text": "No se puede representar este campo debido a que falta p\u00e1gina padre en la configuraci\u00f3n del campo."
         },
         "fae5139ea4669e57a1e1d43da734b60d": {
-            "text": "Lista de P\u00e1ginas"
+            "text": "Lista de P\u00e1ginas M\u00faltiple"
         },
         "3677aac44cf40763444008a08a7e33aa": {
-            "text": "Selecci\u00f3n de varias p\u00e1ginas en una lista de \u00e1rbol p\u00e1gina."
+            "text": "Selecci\u00f3n de varias p\u00e1ginas de una lista de \u00e1rbol de p\u00e1ginas de ProcessWire"
+        },
+        "1063e38cb53d94d386f21227fcd84717": {
+            "text": "Eliminar"
         }
     }
 }

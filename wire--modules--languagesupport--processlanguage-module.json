@@ -8,9 +8,6 @@
         "c4337ed7fd3fa9186398110fdd126ba0": {
             "text": "%d blanco"
         },
-        "4b58cc72fab0b5fb596e9f02091ec0fe": {
-            "text": "Traducir Archivo"
-        },
         "9b73fd4d710e72a212bfc7dbe5692405": {
             "text": "Descargar ZIP"
         },
@@ -28,6 +25,42 @@
         },
         "f38977b9226f40d3b86bae7d9611a880": {
             "text": "%d frases"
+        },
+        "e29dcc5c9ac228a6986599e4ec13613c": {
+            "text": "Importar CSV"
+        },
+        "eb277f118345e1e4c0f1b81cec469ee9": {
+            "text": "B\u00fasqueda en Vivo"
+        },
+        "585cff0204f1e344b4ea709b6e2928b4": {
+            "text": "Texto a buscar"
+        },
+        "59b2ae438ca9f446f5cd4d79d3395446": {
+            "text": "Haga clic aqu\u00ed para crear el \u00edndice de frases de b\u00fasqueda"
+        },
+        "038126bcfc832f08d96c331d0316f5da": {
+            "text": "Busca todos los archivos traducibles para texto \/ frase espec\u00edficos."
+        },
+        "3e6c8fe6aa8a8d75014ff9ed52aa30be": {
+            "text": "Haga clic en Buscar coincidencias para editar la traducci\u00f3n o agregar archivo (si no est\u00e1 presente)."
+        },
+        "3f045b24a15220ad5572f3ad51dd80e0": {
+            "text": "Archivo de traducci\u00f3n CSV que se importar\u00e1 despu\u00e9s de guardar"
+        },
+        "7ccfd146fb192231dafacaa68c6fad13": {
+            "text": "Buscar archivos para traducir"
+        },
+        "54df9536f2bc89e18bec27b0d34ab42e": {
+            "text": "Descargar CSV"
+        },
+        "b012fb6e4f8ea5ec13a5797b60145bb3": {
+            "text": "Dominio de texto no reconocido para el archivo: %s"
+        },
+        "8d8b8c1b707b1cc979c41ca7cb2a2020": {
+            "text": "%d total de traducciones, %d total de cambios"
+        },
+        "610d28b5e07bce623b5dcbcefc043344": {
+            "text": "Guardado(s) %d cambio(s) para el archivo: %s"
         }
     }
 }

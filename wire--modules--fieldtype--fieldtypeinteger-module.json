@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeInteger.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeinteger-module",
+    "translations": {
+        "91c09f074736481876ccf2f97e04ed07": {
+            "text": "\u00bfEst\u00e1n en blanco y 0 equivalente?"
+        },
+        "e128ed87f9f0d6401b081dd75b2dad03": {
+            "text": "Esto afecta a c\u00f3mo ProcessWire busca las p\u00e1ginas durante las operaciones de b\u00fasqueda de base de datos."
+        },
+        "07be370e5cef3ea5961cdf07cb34f390": {
+            "text": "Si 0 y el blanco son equivalentes (la opci\u00f3n S\u00ed), entonces una b\u00fasqueda de campo=0 o campo=\"\" producir\u00e1 los mismos resultados."
+        },
+        "33865caeae8ea654a7fef819270e40b3": {
+            "text": "Si son o no equivalentes (la opci\u00f3n No), entonces una b\u00fasqueda de **field=0** s\u00f3lo coincidir\u00e1 con los campos que contienen el valor 0, y **field=\"\"** s\u00f3lo coincidir\u00e1 con los campos sin valor."
+        },
+        "47ae95efefc63fa28854884d8c871228": {
+            "text": "Como otro ejemplo, con la opci\u00f3n S\u00ed **field<1** coincidir\u00e1 con el valor 0 y sin valor, y con la opci\u00f3n No, s\u00f3lo coincidir\u00e1 con 0."
+        },
+        "50c5d87b02ad1694c7b4603240402ef9": {
+            "text": "S\u00ed - Blanco y 0 son equivalentes"
+        },
+        "dce91550511a9cfef6fe1bc4d2e93b1b": {
+            "text": "No - Blanco y 0 tienen diferentes significados"
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Valor por defecto"
+        },
+        "40adc22d3ad8d2d7a5e2b17a44ac2658": {
+            "text": "Este valor se asigna como valor predeterminado para este campo en p\u00e1ginas reci\u00e9n creadas. No afecta a las p\u00e1ginas existentes."
+        }
+    }
+}

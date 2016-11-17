@@ -6,7 +6,10 @@
             "text": "Formatos de texto"
         },
         "965a2e6ce23bd9e9ca5122fb9862be60": {
-            "text": "Si desea aplicar alg\u00fan tipo de formato autom\u00e1tico para el campo cuando se prepara para la salida, seleccione uno o m\u00e1s formateadores de texto anteriores. Si selecciona m\u00e1s de uno, arrastrarlos a la orden en que se deben aplicar."
+            "text": "Si deseas aplicar cualquier formato autom\u00e1tico al campo cuando est\u00e1 preparado para la salida, selecciona uno o m\u00e1s formateadores de texto anteriores. Si seleccionas m\u00e1s de uno, arr\u00e1stralos al orden en que deben aplicarse."
+        },
+        "ed0f8be4615cf14dc76c1bb2629edf41": {
+            "text": "Para los campos de texto sin formato que no contengan HTML o marcado, recomendamos que seleccione la opci\u00f3n Codificador de Entidad HTML anterior."
         }
     }
 }

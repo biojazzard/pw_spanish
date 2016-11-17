@@ -1,0 +1,117 @@
+{
+    "file": "wire\/modules\/Process\/ProcessLogger\/ProcessLogger.module",
+    "textdomain": "wire--modules--process--processlogger--processlogger-module",
+    "translations": {
+        "a422bfafc484bafeef9ccbfeb175c216": {
+            "text": "Crear o agregar al archivo de registro desde la API:"
+        },
+        "872e46a716d24989bf3199d28e4ae86e": {
+            "text": "Eliminado Registro: %s"
+        },
+        "f33458f02cd71a8319c79c2f4d89c947": {
+            "text": "Archivo de registro \"%s\" limpio (ahora contiene %d entradas)"
+        },
+        "02bb48ec8c3eb6796671313f290e943d": {
+            "text": "Guardar nuevas entradas de registro en \"%s\""
+        },
+        "4ad21358c22f2457f4a4c6495c68ddf6": {
+            "text": "El texto de entrada del registro estaba en blanco"
+        },
+        "58840cc813684ae1c5cb61d83a4c974f": {
+            "text": "Ayudantes"
+        },
+        "dc770a451931e3eb28348451a1ef9896": {
+            "text": "B\u00fasqueda de texto"
+        },
+        "4777bbe3c06c7939e97101b4589ba1eb": {
+            "text": "Fecha desde"
+        },
+        "d24e4fa285c1eab355817ed6c38ec1bd": {
+            "text": "Fecha hasta"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Acciones"
+        },
+        "de36914cd9d030bca299ef13e59e81fc": {
+            "text": "Seleccionar una acci\u00f3n a continuaci\u00f3n. Se pedir\u00e1 que haga clic en un bot\u00f3n antes de ejecutar la acci\u00f3n."
+        },
+        "801ab24683a4a8c433c6eb40c48bcd9d": {
+            "text": "Descargar"
+        },
+        "1c53c4bdef63da21f7d99ba3bc5999f9": {
+            "text": "Crecer (A\u00f1adir Entrada)"
+        },
+        "02f9418b682bcf39e6426bc2981e2b8a": {
+            "text": "Partir (Ciruela)"
+        },
+        "d7e4a58b047e3d80c673e8689567c66b": {
+            "text": "Quemar (Borrar)"
+        },
+        "346d021dc6749fe81c1f0faee3a38831": {
+            "text": "Partir en # D\u00edas"
+        },
+        "6ae864586a6fe2c99b1501c4c20e2e38": {
+            "text": "Reducir el tama\u00f1o del archivo de registro para contener s\u00f3lo entradas de los \u00faltimos [n] d\u00edas."
+        },
+        "83f5d3fdcb74c638ae403fae1637a1fc": {
+            "text": "Nueva Entrada de Registro"
+        },
+        "c397f5454fbbd15045aaacf88b43888e": {
+            "text": "Partir este registro ahora"
+        },
+        "9ac3ee6fa6d85d02c8d53149a96a0bcd": {
+            "text": "Eliminar este registro ahora (borrar permanentemente)"
+        },
+        "504e5b0396525461611c2daa17c1a420": {
+            "text": "A\u00f1adir esta entrada de registro"
+        },
+        "85b023a5435c54612ef3316cbc37a660": {
+            "text": "Descargar este archivo de registro ahora"
+        },
+        "5157e3c765af93679ea07052f30f0a6e": {
+            "text": "actual"
+        },
+        "1058f3258b7dca7c4693166c425b968d": {
+            "text": "No hay coincicencias en los regsitros"
+        },
+        "b2d37ae1cedf42ff874289b721860af2": {
+            "text": "Registros"
+        },
+        "527b296f2533d0e979933116081467a8": {
+            "text": "Ver y administrar los registros del sistema."
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Nombre"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Modificado"
+        },
+        "922e48e67eab1e2b2673f5d44a6fbafd": {
+            "text": "Entradas"
+        },
+        "57728bfeef48fd1206314f0cd1c2576a": {
+            "text": "Tama\u00f1o"
+        },
+        "4c35d99800510d64691a870b65d277f4": {
+            "text": "Fecha\/Hora"
+        },
+        "88cfe14e9a1a3300a1f5ef50f73a648b": {
+            "text": "Usuario"
+        },
+        "9f3af3dbda7832b613a27b731cc3ca02": {
+            "text": "Texto"
+        },
+        "bd350ab4ad8284276668d82be6b20b52": {
+            "text": "%d registro"
+        },
+        "712684fe92736fe32b1c2eb87d2360c7": {
+            "text": "%d registros"
+        },
+        "064a2c9034205289d020252829c41052": {
+            "text": "Una nueva entrada de registro en la p\u00e1gina 1"
+        },
+        "b9dc13817999fcd3ea5967c020b5c043": {
+            "text": "Varias entradas de registro nuevas en la p\u00e1gina 1"
+        }
+    }
+}

@@ -3,13 +3,10 @@
     "textdomain": "wire--modules--process--processuser--processuser-module",
     "translations": {
         "5dee1c6493112af5676354d6c4243fbe": {
-            "text": "El usuario heredar\u00e1 los permisos asignados a cada rol. Puede asignar varias funciones a un usuario. Cuando se accede a una p\u00e1gina, el usuario s\u00f3lo deber\u00e1 heredar permisos de los roles que tambi\u00e9n est\u00e1n asignados a la plantilla de la p\u00e1gina."
-        },
-        "d04d81faf16d84bd95fab030a5bd3ad8": {
-            "text": "Se requiere el papel guest (invitado)"
+            "text": "El usuario heredar\u00e1 los permisos asignados a cada funci\u00f3n. Puede asignar varias funciones a un usuario. Al acceder a una p\u00e1gina, el usuario s\u00f3lo heredar\u00e1 los permisos de las funciones que tambi\u00e9n se asignan a la plantilla de la p\u00e1gina."
         },
         "1dae534355f564549697cc7da0eee7e7": {
-            "text": "Usted no puede eliminar el rol de superusuario de ti mismo"
+            "text": "No puedes eliminar el rol de superusuario de ti mismo"
         },
         "a756ba771ff16a33ad921b8f017a7161": {
             "text": "Usted no puede ceder el rol de superusuario"
@@ -19,6 +16,27 @@
         },
         "242e1deb2d082e524a63f255f9f08c11": {
             "text": "Gestionar los usuarios del sistema"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Roles"
+        },
+        "4d4587e01b893874091ed2bcb940c2a8": {
+            "text": "Usted no puede cambiar este rol"
+        },
+        "903c654a1a01b07cf8dd1567b1b99b3a": {
+            "text": "No puedes eliminar el rol: %s"
+        },
+        "5374d65ce11cc92d3c142cc0249fde0a": {
+            "text": "No puedes a\u00f1adir el rol: %s"
+        },
+        "ba0bf134511b54d35d023da28eb75e39": {
+            "text": "Has eliminado los roles que impedir\u00e1n el acceso de edici\u00f3n a este usuario. Los roles han sido restaurados."
+        },
+        "4b99fa96a7caeeafc646d0f0a059ea4d": {
+            "text": "%d usuario"
+        },
+        "8103e74ea76ab74a0eabfc5d09e6588a": {
+            "text": "%d usuarios"
         }
     }
 }

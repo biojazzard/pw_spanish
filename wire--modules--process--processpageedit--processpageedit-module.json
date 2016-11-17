@@ -9,7 +9,7 @@
             "text": "Esta p\u00e1gina est\u00e1 bloqueada para modificaciones"
         },
         "386397f000925f7d90c87a913a678eed": {
-            "text": "Usted no tiene acceso para editar"
+            "text": "No tienes acceso para editar"
         },
         "7b9bb8a9e6b0d2b64837e652485e11c9": {
             "text": "Editar p\u00e1gina: %s"
@@ -31,9 +31,6 @@
         },
         "a1c508c8dcf832bde214942a479c63e5": {
             "text": "Esta p\u00e1gina est\u00e1 en la Papelera"
-        },
-        "2cb4bb1ee54691377c8778a8823eb4dd": {
-            "text": "Esta p\u00e1gina es actualmente in\u00e9dita"
         },
         "404dd23de1c6c7edc7927e5262b93a1b": {
             "text": "Guardar + No publicar"
@@ -66,7 +63,7 @@
             "text": "Ajustes de orden"
         },
         "ea1a60a080fc428d2c18d9e6d33ded08": {
-            "text": "Si desea que todos los ni\u00f1os presentes y futuras de forma autom\u00e1tica ordenar por un campo espec\u00edfico, seleccione el campo de abajo y, opcionalmente, marque la casilla \u00abinversa\u00bb para que el orden descendente. Deje el campo de ordenaci\u00f3n en blanco si usted quiere ser capaz de arrastrar y soltar a su propio orden."
+            "text": "Si deseas que todos los ni\u00f1os actuales y futuros se clasifiquen autom\u00e1ticamente en un campo espec\u00edfico, selecciona el campo de abajo y, opcionalmente, marca la casilla de verificaci\u00f3n \"invertir\" para hacer que la clasificaci\u00f3n sea descendente. Deja el campo de orden en blanco si deseaa poder arrastrar y soltar tu propio orden manual."
         },
         "f4f70727dc34561dfde1a3c529b6205c": {
             "text": "Ajustes"
@@ -122,9 +119,6 @@
         "d2387a51d9f67d60dfc2cbb23bd04af2": {
             "text": "\u00bfQui\u00e9n puede acceder a esta p\u00e1gina?"
         },
-        "bbbabdbe1b262f75d99d62880b953be1": {
-            "text": "Role"
-        },
         "36c2b914f293a142343cba0f3157d748": {
             "text": "Lo que pueden hacer"
         },
@@ -159,16 +153,16 @@
             "text": "Confirme el cambio de plantilla"
         },
         "48af63aeec834982fcf91e325aaea998": {
-            "text": "Advertencia, el cambio de la plantilla se borrar\u00e1n los siguientes campos:"
+            "text": "Advertencia, al cambiar la plantilla se borrar\u00e1n los siguientes campos:"
         },
         "729a51874fe901b092899e9e8b31c97a": {
-            "text": "Est\u00e1s seguro?"
+            "text": "\u00bfEst\u00e1s seguro?"
         },
         "e4c2fcbaac781d00fe1e192a4d94c0e9": {
-            "text": "Por favor, confirma que usted entiende lo anterior haciendo clic en la casilla de abajo."
+            "text": "Por favor, confirma que entiendes lo anterior haciendo clic en la casilla de abajo."
         },
         "6b102e11bd33fb8f4be6a6cecf2c491b": {
-            "text": "Usted no tiene permiso para cambiar la plantilla en esta p\u00e1gina."
+            "text": "No tienes permiso para cambiar la plantilla en esta p\u00e1gina."
         },
         "854de5f33bda667c67117b0aaee5a9cf": {
             "text": "Eso plantilla no est\u00e1 permitida"
@@ -196,6 +190,63 @@
         },
         "4e5878c0e4b4e901ee96c19e7fd05914": {
             "text": "%d cambios"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + Salir"
+        },
+        "1040873c1bf94b1995201c648a15989d": {
+            "text": "%s + Ver"
+        },
+        "407911b74ab384304ea0190675a00894": {
+            "text": "%s + A\u00f1adir Nuevo"
+        },
+        "cc231fc91e42d1e391bbce1fc541959f": {
+            "text": "%s + Siguiente"
+        },
+        "109f29a4bda4c9b4a00ffd5452fe9515": {
+            "text": "\u00bfEst\u00e1s seguro? Una subida est\u00e1 actualmente en curso y se puede perder si contin\u00faa."
+        },
+        "0b7b79dc6ffa228f9e59cecc61c4efb6": {
+            "text": "Publicado el %s"
+        },
+        "4059b0251f66a18cb56f544728796875": {
+            "text": "Informaci\u00f3n"
+        },
+        "bbbabdbe1b262f75d99d62880b953be1": {
+            "text": "Rol"
+        },
+        "4c2915288e6804dd4b1adf9819439b19": {
+            "text": "No hay ninguna p\u00e1gina siguiente para editar."
+        },
+        "e1ccd342c70dde8fd239432c69aa55e0": {
+            "text": "Recuperar valor previo"
+        },
+        "f3e0ef028ad1fda84b2b567684c67846": {
+            "text": "P\u00e1gina no publicada porque se requiere el campo \"%s\""
+        },
+        "90a2c610d9bb43ef59bc60c944c7633f": {
+            "text": "Predeterminado \"view\" location\/action"
+        },
+        "d6b9987fabd38f232ada46d046aa4f88": {
+            "text": "El tipo predeterminado de acci\u00f3n utilizado cuando se hace clic en la pesta\u00f1a \"vista\" en el editor de p\u00e1ginas."
+        },
+        "20a90cbb1d0984f5ecf4fe0cf01fe47e": {
+            "text": "Arrastrar-Soltar Manual"
+        },
+        "25ed18e06e982b711a80310caf119563": {
+            "text": "Ver P\u00e1gina"
+        },
+        "c772431f8a16790370305c86f948c6f5": {
+            "text": "Ventana Modal"
+        },
+        "c97f398820bf360b28776372f47a115a": {
+            "text": "Nueva Ventana\/Pesta\u00f1a"
+        },
+        "7e7b8eaf9921d2a698937d925748e85b": {
+            "text": "Salir + Ver"
+        },
+        "e76ea9d62d4a434a98238f3ec7932075": {
+            "text": "todo"
         }
     }
 }

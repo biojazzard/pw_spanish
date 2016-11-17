@@ -30,28 +30,58 @@
             "text": "L\u00edmite m\u00e1ximo de carga de archivos alcanza"
         },
         "bed8a5795ff53ecfd7b9dab0face84b6": {
-            "text": "Descomprimir archivos ZIP?"
+            "text": "\u00bfDescomprimir archivos ZIP?"
         },
         "fab7f7d0de48baa58342b39e975c9aab": {
-            "text": "Si est\u00e1 marcado, los archivos ZIP se descomprimen y todos los archivos v\u00e1lidos a\u00f1aden como archivos (si es compatible con el entorno de alojamiento). Archivos Max se deben establecer en 0 (sin m\u00e1ximo) para que los archivos subidos Zip para que sea funcional."
+            "text": "Si est\u00e1 seleccionado, los archivos ZIP se descomprimir\u00e1n y se agregar\u00e1n todos los archivos v\u00e1lidos como subidas (si es compatible con el entorno de alojamiento). El n\u00famero de archivos Max, se deben establecer en 0 (no m\u00e1ximo) para que las subidas de ZIP sean funcionales."
         },
         "91015caeadb6afed86544257b5d796f5": {
-            "text": "N\u00famero de filas para la descripci\u00f3n del campo?"
+            "text": "\u00bfN\u00famero de filas para la descripci\u00f3n del campo?"
         },
         "27eebd9281cfaa6f4173d02986c9ad71": {
-            "text": "Introduce el n\u00famero de filas disponibles para el campo de descripci\u00f3n de archivos, o introduzca 0 para no tener un campo de descripci\u00f3n."
+            "text": "Introduzca el n\u00famero de filas disponibles para el campo de descripci\u00f3n del archivo o escriba 0 para no tener un campo de descripci\u00f3n."
         },
         "1aac69c83eb57d215a710401956430f1": {
-            "text": "Desactivar descripciones en varios idiomas?"
+            "text": "\u00bfDesactivar descripciones en varios idiomas?"
         },
         "9c0e34e99b5acfb622d682dabefa5578": {
-            "text": "Por defecto, las descripciones son multi-idioma cuando se ha instalado Soporte de idiomas. Si desea desactivar las descripciones en varios idiomas, marque esta casilla."
+            "text": "Por defecto, las descripciones son multi-idioma cuando se ha instalado Soporte de idiomas. Si deseas desactivar las descripciones en varios idiomas, marca esta casilla."
         },
         "91f3a2c0e4424c87689525da44c4db11": {
             "text": "Archivos"
         },
         "fbf221ff984c277d7fea5d290e817767": {
             "text": "Uno o m\u00e1s archivos (ordenable)"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Eliminar"
+        },
+        "e635032a5f71d809146d3872389f5b0c": {
+            "text": "Elija Archivo"
+        },
+        "96baacdc276036c2b8fb65264750a3b4": {
+            "text": "Elija Archivos"
+        },
+        "e8b3e55c0f4d6cce7d8ee14772ec33e2": {
+            "text": "Validaci\u00f3n fallida del archivo"
+        },
+        "5d28dcd09c5073bb0e454aee16d9b349": {
+            "text": "Se rechaz\u00f3 el archivo %s, porque ya est\u00e1 en el sistema de archivos y pertenece a un campo diferente."
+        },
+        "b15dd49c58da836d9802f6e9e063a998": {
+            "text": "Archiivo \"%1$s\" renombrado a \"%2$s\""
+        },
+        "d7c8c85bf79bbe1b7188497c32c3b0ca": {
+            "text": "Fallido"
+        },
+        "4839f7d2588943e6763c3c91cbd8d7f2": {
+            "text": "\u00bfReemplazar archivos existentes?"
+        },
+        "35a96944722fb825db8bf04ab791c209": {
+            "text": "Si est\u00e1 seleccionado, un archivo cargado con el mismo nombre que un archivo existente reemplazar\u00e1 el archivo existente (la descripci\u00f3n y las etiquetas permanecer\u00e1n). Si no se selecciona, los nombres de archivo subidos se renombrar\u00e1n como \u00fanicos."
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "Ten en cuenta que cuando se activa esta opci\u00f3n, los archivos cargados en AJAX se guardan con la p\u00e1gina de inmediato en la subida, y no cuando se hace clic en \"Guardar\". Como resultado, es posible que desee dejar esta opci\u00f3n sin marcar a menos que tenga una necesidad espec\u00edfica para ello."
         }
     }
 }

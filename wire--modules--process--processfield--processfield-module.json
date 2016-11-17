@@ -54,40 +54,31 @@
             "text": "No hay campos que coincidan con tu filtro"
         },
         "94f0fa1e6b7f766dc6432b4d8fd960ae": {
-            "text": "Comprobaci\u00f3n de Campo inform\u00f3:"
+            "text": "Campo de verificaci\u00f3n reportado:"
         },
         "64348e0f887e58c6002080b6153add90": {
-            "text": "%d filas de la tabla hu\u00e9rfanos encontraron"
+            "text": "%d filas hu\u00e9rfanas de la tabla se encontraron"
         },
         "4fd5d5323fc3d2535f351e46ba740d3c": {
-            "text": "... Etc\u00e9tera ..."
-        },
-        "a90c3a6bf539d90c6016413cddd2178c": {
-            "text": "Por favor, ejecute esta comprobaci\u00f3n en el campo %s"
+            "text": "... y as\u00ed ..."
         },
         "bd5aef6293f875aa908466a69c08a14a": {
-            "text": "No se han encontrado para el campo de las cuestiones %s"
+            "text": "No se han problemas para el campo %s"
         },
         "8334c41e37dbbfb061177998028c6d0d": {
             "text": "Propiedades Desconocidas"
         },
         "50092a77c044bc5d91bb703429c29157": {
-            "text": "Se encontraron las siguientes propiedades con este campo con cero accede durante la configuraci\u00f3n. A veces esto puede indicar que las propiedades ya no est\u00e1n en uso. Marque la casilla junto a cada propiedad que desea eliminar. Caso usted no est\u00e1 seguro, no hay da\u00f1o en s\u00f3lo dejarlos all\u00ed."
+            "text": "Las siguientes propiedades se encontraron con este campo con cero accesos durante la configuraci\u00f3n. A veces esto puede indicar que las propiedades ya no est\u00e1n en uso. Marca la casilla junto a cada propiedad que deseas eliminar. Si no est\u00e1s seguro, no hay nada malo en dejarlos ah\u00ed."
         },
         "b2ab31c6f8fbc066d4840baa6c081821": {
             "text": "Propiedades desconocidas potenciales encontrados en este campo. Consulte la pesta\u00f1a \"Alerta\"."
         },
         "292694f229d9162dd0a6510ff0745d4f": {
-            "text": "Eliminar %d filas de la tabla hu\u00e9rfanas?"
-        },
-        "afb5272a55f7eb214fd004a5becf2bb7": {
-            "text": "Encontramos filas de datos en la tabla de este campo que no coinciden con ninguna p\u00e1gina."
-        },
-        "ad4e206408c1c59bfb8a057ba7857446": {
-            "text": "Contexto"
+            "text": "Eliminar %d filas hu\u00e9rfanas de la tabla?"
         },
         "4ac3deb7dc60a1b4770ad126c84171f7": {
-            "text": "* Indica que el campo est\u00e1 anulando un valor por defecto. Configuraci\u00f3n que especifique en esta pantalla s\u00f3lo anulan los valores predeterminados cuando se utiliza con el \"%s\" de la plantilla."
+            "text": "* Indica que el campo est\u00e1 reemplazando un valor predeterminado. La configuraci\u00f3n que especifique en esta pantalla reemplaza los valores predeterminados s\u00f3lo cuando se utiliza con la plantilla \"% s\"."
         },
         "c64f8a38fc13441f6cc860a4cbae887a": {
             "text": "Eliminar campo"
@@ -98,41 +89,20 @@
         "1fa78a97c113bed4e867ec21d9ca918f": {
             "text": "Este campo no se puede eliminar porque est\u00e1 en uso por una o m\u00e1s plantillas."
         },
-        "e7ec3883e42efde03a4932115fb807eb": {
-            "text": "Ajustes cuando se utiliza con la plantilla %s"
-        },
         "bfacb0dba61ee131e07daaacead869c5": {
             "text": "Ajustes de campo b\u00e1sicos"
         },
-        "5efc010f527cdfeaa2ef63b1c6898fb5": {
-            "text": "Cualquier combinaci\u00f3n de letras ASCII [az], n\u00fameros [0-9], o guiones bajos (sin guiones ni espacios)."
-        },
         "ab2e4f95a7971ee8077df62efa20d437": {
-            "text": "Despu\u00e9s de seleccionar el tipo de campo y el ahorro, que puede ser presentado con opciones adicionales de configuraci\u00f3n espec\u00edficos para el tipo de campo que ha seleccionado."
+            "text": "Despu\u00e9s de seleccionar el tipo de campo y guardar, se le pueden presentar opciones de configuraci\u00f3n adicionales espec\u00edficas para el tipo de campo seleccionado."
         },
         "219befd28b6f70d6d0a52f13c6b93772": {
             "text": "Esta es la etiqueta que aparece sobre el campo de entrada. Si se deja en blanco, el nombre se utilizar\u00e1 en su lugar."
         },
         "d421f74dd8c605a337e57a6224f23478": {
-            "text": "Informaci\u00f3n adicional que describe la materia y \/ o instrucciones sobre c\u00f3mo acceder al contenido."
-        },
-        "0b99d251c68ee30c7f38cefe42d5fbdc": {
-            "text": "Informaci\u00f3n de uso del Campo"
-        },
-        "90a7d24b2f57968c1090adc8eb1cedff": {
-            "text": "Este campo es utilizado por las siguientes plantillas:"
-        },
-        "e846a7b9b780397947329058d6856fe4": {
-            "text": "Editar campo en contexto"
-        },
-        "da15cd97dba363b29a8a06c76d4c4c7d": {
-            "text": "Este campo no est\u00e1 actualmente en uso por las plantillas."
+            "text": "Informaci\u00f3n adicional que describe la materia y\/o instrucciones sobre c\u00f3mo acceder al contenido."
         },
         "983f66857047c1e6fc8878e54c5c9939": {
-            "text": "Duplicar \/ clonar este campo?"
-        },
-        "c073843a55498e809c4dd95be0721831": {
-            "text": "Marque la casilla si desea crear una copia duplicada \/ clon de este campo. El clon se crear\u00e1 al guardar."
+            "text": "\u00bfDuplicar\/clonar este campo?"
         },
         "ee2d3754b6e7f57898d9d8670f78ae71": {
             "text": "Opciones avanzadas"
@@ -140,47 +110,41 @@
         "817434295a673aed431435658b65d9a7": {
             "text": "Icono"
         },
-        "9cc4ac29ded1988ae44a553a7ecd4ffc": {
-            "text": "Si desea asociar un icono con el campo, introduzca un nombre de icono de aqu\u00ed."
-        },
-        "41fb8fe20e74e99ab359cecc48be97d5": {
-            "text": "Ejemplo: beer"
-        },
         "189f63f277cd73395561651753563065": {
             "text": "Etiquetas"
         },
         "3df354a032179f36ea493c3df6643ce1": {
-            "text": "Si desea agrupar visualmente este campo con otros en la lista de campos, introducir una etiqueta de una sola palabra. Introduzca la misma etiqueta en otros campos que desea agrupar con. Para especificar varias etiquetas, sep\u00e1relas con un espacio. El uso de etiquetas puede ser \u00fatil si su sitio tiene un gran n\u00famero de campos."
+            "text": "Si deseas agrupar visualmente este campo con otros en la lista de campos, introduce una etiqueta de una palabra. Introduce la misma etiqueta en otros campos con los que deseas agrupar. Para especificar varias etiquetas, separa cada una con un espacio. El uso de etiquetas puede merecer la pena si su sitio tiene un gran n\u00famero de campos."
         },
         "7f511c25eccff9ce7127eecfb136f443": {
             "text": "Cada etiqueta tiene que ser una palabra (la separaci\u00f3n de palabras funciona bien)."
         },
         "78bd709db99c927f3a59a1983f18c237": {
-            "text": "Para que una etiqueta se derrumb\u00f3 en la lista de campos, anteponga un gui\u00f3n para ella, as\u00ed: -hello"
+            "text": "Para hacer que una etiqueta se colapse en la lista de campos, agregue un gui\u00f3n al mismo, as\u00ed: -hello"
         },
         "011e30aea1ad8c8e81405e295f032cc8": {
             "text": "Comprobar los datos del campo"
         },
         "494bfa7cbe1a6aaf0e24e92c54664859": {
-            "text": "Compruebe el campo de datos no utilizados o de otras optimizaciones posibles. Si se encuentran problemas, usted tendr\u00e1 la oportunidad de corregirlos en la ficha Alerta despu\u00e9s de guardar."
+            "text": "Comprueba en el campo los datos no utilizados u otras posibles optimizaciones. Si se encuentran problemas, tendr\u00e1s la oportunidad de corregirlos desde la pesta\u00f1a Alerta,  despu\u00e9s de guardarlos."
         },
         "89e1299f98120a24c999cdffa860d2cb": {
-            "text": "Campo eliminados"
+            "text": "Eliminar campo"
         },
         "7d09843a01448bd5ac4ad4bcfb2c388e": {
-            "text": "Es obligatorio escribir un nombre"
+            "text": "Nombre de campo es obligatorio"
         },
         "a9c97bb1362d6960df5b6489b9454678": {
-            "text": "Es obligatorio escribir un tipo"
+            "text": "Tipo de campo es obligatorio"
         },
         "584afda122df1e41e3a533afdc1b3f6e": {
             "text": "Agregado Campo"
         },
         "f173ffbd0f010d4e164484785d07b7c1": {
-            "text": "Propiedad no utilizada Eliminada  %s"
+            "text": "Propiedad no utilizada eliminada: %s"
         },
         "1d44463bf74c66ac465f0f51cee9a827": {
-            "text": "Suprimidas  %d filas hu\u00e9rfanos"
+            "text": "Suprimidas  %d filas hu\u00e9rfanas"
         },
         "d4a2d56009360cb3a587f17538631ce9": {
             "text": "Campo Guardado"
@@ -198,19 +162,19 @@
             "text": "Cambiar el tipo de campo de \"%1$s\" a \"%2$s\""
         },
         "7d04592612713885f95f51cca38d5708": {
-            "text": "Tenga en cuenta que al cambiar el tipo de campo altera el esquema de base de datos. Si el nuevo FieldType no es compatible con el anterior, o si contiene un esquema significativamente diferente, es posible para que se produzca la p\u00e9rdida de datos. Como resultado de ello, se le recomienda hacer copia de seguridad la base de datos antes de completar un cambio de tipo de campo."
+            "text": "Ten en cuenta que al cambiar el tipo de campo, se modifica el esquema de la base de datos. Si el nuevo tipo de campo no es compatible con el antiguo, o si contiene un esquema significativamente diferente, es posible que ocurra la p\u00e9rdida de datos. Como resultado, se recomienda hacer una copia de seguridad de la base de datos antes de completar un cambio de tipo de campo."
         },
         "cc84c47ce264c6a27bd49ff004d4c555": {
             "text": "Confirmar el cambio de tipo de campo"
         },
         "c2311f219b7dc0a845a537a7a26fa8b3": {
-            "text": "Si est\u00e1 seguro de que desea cambiar el tipo de campo, active la casilla de abajo y env\u00ede este formulario."
+            "text": "Si estas seguro de que desea cambiar el tipo de campo, activa la casilla de abajo y env\u00eda este formulario."
         },
         "58425be3f17ffb9574fd3e5947653330": {
-            "text": "Mantener la configuraci\u00f3n del campo?"
+            "text": "\u00bfMantener la configuraci\u00f3n del campo?"
         },
         "7d912a6056deaad44add9eda5494d120": {
-            "text": "Marque esta casilla para mantener todas las configuraciones personalizadas para este campo (de la Informaci\u00f3n y las fichas de entrada). Esto es deseable si el nuevo tipo de campo tiene las mismas o similares propiedades de configuraci\u00f3n para el viejo tipo de campo. Sin embargo, tambi\u00e9n puede resultar en datos de configuraci\u00f3n innecesarios o redundantes ocupando espacio en el campo. Check field data.\" onmouseover=\"this.style.backgroundColor='#ebeff9'\" onmouseout=\"this.style.backgroundColor='#fff'\">Siempre se puede analizar esta tarde a partir de: Advanced> Comprobar los datos de campo."
+            "text": "Activa esta casilla para conservar todas las configuraciones personalizadas de este campo (en las fichas Detalles y Entrada). Esto es deseable si el nuevo tipo de campo tiene las mismas o similares propiedades de configuraci\u00f3n para el tipo de campo antiguo. Sin embargo, tambi\u00e9n puede dar como resultado datos de configuraci\u00f3n innecesarios o redundantes que ocupan espacio en el campo. Puedes analizar esto m\u00e1s adelante desde: Avanzado > Comprobar datos de campo."
         },
         "c2fd10d6fa7d3e1e8bd7c83de24c4d95": {
             "text": "Cambio de tipo de campo abortado"
@@ -224,17 +188,11 @@
         "4b2bcb0478b24201a7d60fed561d1b42": {
             "text": "Edite los campos individuales que posean datos de la p\u00e1gina"
         },
-        "588f35f32f53430bfc4199ef15c424db": {
-            "text": "Mostrar opciones de filtro en la lista de campos?"
-        },
-        "887c58e4743e8c789e4ebea161c6fdfe": {
-            "text": "Esto a\u00f1ade dos cajas de selecci\u00f3n a la parte superior de la lista de campos que permiten filtrar la visualizaci\u00f3n de los campos de la plantilla o tipo."
-        },
         "7cdb55d0d84a64ee84c14621892d8e10": {
-            "text": "Volver a la lista campos despu\u00e9s de salvar a un campo?"
+            "text": "\u00bfVolver a la lista campos despu\u00e9s de salvar a un campo?"
         },
         "503eff76a9f0b3c0c78997aa4370e2f0": {
-            "text": "Por defecto, usted permanecer\u00e1 en el editor de campos despu\u00e9s de salvar a un campo. Si desea en su lugar volver a la lista de campos, marque esta casilla."
+            "text": "Por defecto, permanecer\u00e1s en el editor de campos despu\u00e9s de guardar a un campo. Si deseas en su lugar volver a la lista de campos, marca esta casilla."
         },
         "d665a1b10e02b9de8f4115d5b7078976": {
             "text": "Agregar nuevo campo"
@@ -296,11 +254,314 @@
         "9ea1f3769ad9c72e3ebf7de539b53aa1": {
             "text": "Descripci\u00f3n"
         },
-        "450424710b0286d62947973d7263eb21": {
-            "text": "Plantilla"
-        },
         "3be3efa6643b5a3f2af79ace0a5145c4": {
             "text": "Avanzado"
+        },
+        "e2159a4c36a7a7881992637d1da6e379": {
+            "text": "Access"
+        },
+        "4b170345be16c4cee0984c08ab54614d": {
+            "text": "cuando se usa con: %s"
+        },
+        "113304cf8780906880d1e29935deab16": {
+            "text": "cuando se usa con la plantilla: %s"
+        },
+        "f46277b28f420e695210233a9f1401fc": {
+            "text": "por favor, ejecuta: \"Actions > Check field data\" en el campo %s"
+        },
+        "d94836b689b2cd95f920084c5f27e770": {
+            "text": "Encontramos filas de datos en la tabla para este campo que no coinciden con ninguna p\u00e1gina o coinciden con p\u00e1ginas que no tienen este campo."
+        },
+        "cca387b459a5b38bdc63657a1c52c82b": {
+            "text": "reemplazar por plantilla"
+        },
+        "0ca08f8f4a8a19f7f1ae87c119494327": {
+            "text": "Reemplazos"
+        },
+        "b98e1358fd47b54afceecd12ace8e18c": {
+            "text": "Las siguientes configuraciones se anulan para este campo por las plantillas indicadas. Marca la casilla situada a la derecha de cualquier fila para eliminar el ajuste de Reemplazo (restableciendo el valor original)."
+        },
+        "be777931cbea33cf8f3a5f5cd994ea93": {
+            "text": "Configuraci\u00f3n de Reemplazos para el espacio de nombres de campo: %s"
+        },
+        "4eea024c6b0c3cd104fe2b37edf668f9": {
+            "text": "Configuraci\u00f3n de Reemplazos para la plantilla: %s"
+        },
+        "7d10eb77b41ac086ecfca9a7d417b1c6": {
+            "text": "Configuraci\u00f3n de Reemplazos por plantilla"
+        },
+        "62d09c342e50351059153e99a2fdbb47": {
+            "text": "Para editar una configuraci\u00f3n de reemplazos o anular otras configuraciones, edite cualquier plantilla y haga clic en el nombre del campo en la lista de campos."
+        },
+        "2452cab12330c0a3ce62f7974eb82ba6": {
+            "text": "Eliminar Reemplazos de contexto"
+        },
+        "7ce33a363647f83aa612fc538dcb8214": {
+            "text": "Los ajustes siguientes est\u00e1n reemplazando los ajustes de campo originales cuando este campo se utiliza en el contexto de la plantilla \"%s\"."
+        },
+        "b5781496c3e514537473d4edd038152a": {
+            "text": "Para eliminar cualquiera de los valores reemplazados (y restaurar el valor del campo original), marque la casilla situada junto a cada configuraci\u00f3n que desee quitar \/ restaurar."
+        },
+        "4759b9b64d72e5a1a226e72b31ff919e": {
+            "text": "Edici\u00f3n Front-end"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Instalar"
+        },
+        "b35a1460619c7aebb19fddf043d4953d": {
+            "text": "Por favor, Instala el m\u00f3dulo del editor de p\u00e1ginas de inicio para habilitar la edici\u00f3n de los campos frontales. Despu\u00e9s de instalar y recargar, volver aqu\u00ed para ver m\u00e1s opciones."
+        },
+        "927e2bece8a3ee4ce5f53aca157c04ec": {
+            "text": "Usar solo letras ASCII (a-z A-Z), n\u00fameros (0-9) o guiones bajos."
+        },
+        "158b56553ee2e91623b2568e46a4fb82": {
+            "text": "Clonar campo existente"
+        },
+        "64a747bce9561ce24781600d47b1cd66": {
+            "text": "Notas de uso o informaci\u00f3n adicional que aparece debajo de la entrada."
+        },
+        "d3528910cb9ca888a0c859b37fe3cb28": {
+            "text": "Las notas aparecen aqu\u00ed y se ven as\u00ed."
+        },
+        "c32404a847502e9920d7582aa7fcd811": {
+            "text": "Agregar o quitar el campo de las plantillas"
+        },
+        "bd4e327785b1573fd5108da2d97210b5": {
+            "text": "Este campo est\u00e1 en uso en las plantillas seleccionadas a continuaci\u00f3n."
+        },
+        "1abe66d94bd2d1029f681142e99454a3": {
+            "text": "Este campo no est\u00e1 actualmente en uso en ninguna plantilla."
+        },
+        "50a4257e8c785ebeb46a186bb2c3e08e": {
+            "text": "Puede agregar o eliminar r\u00e1pidamente este campo de las plantillas marcando o desmarcando las casillas correspondientes y haciendo clic en Guardar."
+        },
+        "8e4fd886f63504810bb594b41a48d32b": {
+            "text": "Se le pedir\u00e1 que confirme las adiciones y eliminaciones en la siguiente pantalla despu\u00e9s de guardar."
+        },
+        "5920c0593225b73a0d667fe26c95d0f7": {
+            "text": "Las plantillas de sistema %d no se muestran porque el modo avanzado est\u00e1 desactivado."
+        },
+        "4debafe5cde021385dce21b063054b59": {
+            "text": "Para clonar este campo, ingrese el nombre del nuevo campo que desea crear."
+        },
+        "ff0d9fae2d1ae47cb2e3c16ce883ed4e": {
+            "text": "Tenga en cuenta que va a editar la copia clonada despu\u00e9s de enviar este formulario."
+        },
+        "94109d0b682a5ee9086924792ab5d349": {
+            "text": "\u00bfDesea administrar el control de acceso para este campo?"
+        },
+        "8c234d4afc42f71cef48c0093be30aa5": {
+            "text": "Cuando est\u00e1 habilitado, puedes limitar la vista y editar el acceso a este campo por funci\u00f3n de usuario."
+        },
+        "146cec6f36689ef0531abb613c24f68d": {
+            "text": "\u00bfQu\u00e9 roles pueden ver y\/o editar este campo?"
+        },
+        "f66ca574111495a45f458a04c77f3c03": {
+            "text": "Los usuarios tambi\u00e9n deben tener acceso a vista de p\u00e1gina o edici\u00f3n en la p\u00e1gina donde existe el campo, antes de que estos permisos sean aplicables."
+        },
+        "d39bf1bfbc9aef37bb8d6b935d73e53d": {
+            "text": "Cuando no se selecciona ninguna casilla, s\u00f3lo el superusuario puede ver\/editar el contenido del campo."
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(todos)"
+        },
+        "f41f3f2472b654b9853580182a36144a": {
+            "text": "Alternar Accesos"
+        },
+        "2a154a6134b85f7f936aac0194df1bc0": {
+            "text": "Mostrar el campo en el editor de p\u00e1ginas si es visible pero no editable (el usuario puede ver pero no cambiar)"
+        },
+        "8a643d587e2bf89aa615d22c5e9efa6a": {
+            "text": "Hacer que el valor del campo sea accesible desde la API aunque no se pueda ver (ver abajo) *"
+        },
+        "517e6c314a1ee61caa35000768dca057": {
+            "text": "Cuando un campo no es visible (en el front-end con formato de salida activado), el valor $page ->%s ser\u00e1 una versi\u00f3n en blanco del tipo esperado, lo que impide que se muestre el valor."
+        },
+        "5dab87f5242c802765e397e82db0840b": {
+            "text": "Marcar la casilla de arriba para omitir este comportamiento, haciendo que el valor siempre sea accesible. Esto te dejar\u00e1 hacer cualquier comprobaci\u00f3n de acceso."
+        },
+        "d96a1b8071d5f5f8eb8bc96839d85407": {
+            "text": "Puedes comprobar el acceso a la vista desde la API para este campo como este:"
+        },
+        "ee9fe18e631383755ce658daed18b15e": {
+            "text": "Si deseas asociar un icono con el campo, selecciona un icono a continuaci\u00f3n. Haz clic en el enlace \"Mostrar todos los iconos\" para una selecci\u00f3n visual."
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(copia)"
+        },
+        "acdd6513356b1414e6d7ec0181240672": {
+            "text": "Ahora estas editando el campo que clon\u00f3."
+        },
+        "48cf9aec9ee1cd5173596f31f65b83e5": {
+            "text": "El nombre del campo est\u00e1 vac\u00edo."
+        },
+        "4072bd91cd44efb5ae4ef51a319fbd79": {
+            "text": "Los nombres de campo s\u00f3lo pueden contener letras ASCII, d\u00edgitos o gui\u00f3n bajo."
+        },
+        "2d596b898eecf76afa1f7cca2490f219": {
+            "text": "El nombre de campo \"%s\" ya se est\u00e1 usando"
+        },
+        "d0de87a477316bfd58f0bf2b1ae2d40d": {
+            "text": "El nombre de campo \"%s\" es una palabra reservada"
+        },
+        "65016ddfb236155b595fb479c695866b": {
+            "text": "Los nombres de campo no pueden comenzar con \"_\"o d\u00edgitos."
+        },
+        "7d21b87f847b61b92648b2050c3c0529": {
+            "text": "El nombre de campo puede no ser el mismo que un nombre de idioma"
+        },
+        "71f8bd77c0780518e62960d62ebd72bd": {
+            "text": "Reemplazo de contexto eliminada"
+        },
+        "b9b9ac08c6bde335d1b5758d4dfcd1da": {
+            "text": "Eliminar campo \"%1$s\" de la plantilla \"%2$s\""
+        },
+        "e84730e92daf0ff6f2ff21874c281f4e": {
+            "text": "Confirmar liminar campo \"%1$s\" de la plantilla \"%2$s\""
+        },
+        "d3abfd9fce44bd366ad49c2614136c14": {
+            "text": "ADVERTENCIA: Esto har\u00e1 que los datos asociados con el campo se borren permanentemente."
+        },
+        "cdd2e54d443ebc672c6a53d756e682cd": {
+            "text": "Despu\u00e9s de enviar, s\u00e9 paciente ya que puede tomar alg\u00fan tiempo que esta operaci\u00f3n se complete."
+        },
+        "501a7415f8881524421e7a19287a2c62": {
+            "text": "No parece haber ninguna fila de datos asociados con esta combinaci\u00f3n campo \/ plantilla"
+        },
+        "cbf08d0edf67562708d7ce679defc030": {
+            "text": "Por favor marca la casilla para confirmar."
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "Plantilla: %s"
+        },
+        "8aa6cad0a41ed8f9776dd6a09805c5ae": {
+            "text": "A\u00f1adido el campo \"%1$s\" a la plantilla \"%2$s\""
+        },
+        "968c4c39df4617d7356ee14137658f3f": {
+            "text": "\u00bfD\u00f3nde deseas a\u00f1adir \"%s?\""
+        },
+        "6620d0d6ed9996e374e77091f72102be": {
+            "text": "Antes %s"
+        },
+        "631a909b3eb785b8b3ae6d4d1a0ed886": {
+            "text": "Despu\u00e9s %s"
+        },
+        "57a9412e7a9b1f328ffef4cd468dabeb": {
+            "text": "A\u00f1adir como primer campo"
+        },
+        "c40f632e4b3c69bbd1af89f5c5f5c617": {
+            "text": "No a\u00f1adir"
+        },
+        "7c88547fdcfb8db979ff8e01a8af3cab": {
+            "text": "A\u00f1adir o eliminar de la(s) plantilla(s)"
+        },
+        "c7d0e111bad6f0fd32c701944fb16475": {
+            "text": "Revisa y ajuste, o confirme sus cambios"
+        },
+        "368f6a2142a5d1f203ccd1a9bd8d974f": {
+            "text": "A\u00f1adido el campo \"%1$s\" a la plantilla \"%2$s\" antes \"%3$s\""
+        },
+        "43f591d56700e6bc6184a8457711d4ed": {
+            "text": "A\u00f1adido el campo \"%1$s\" a la plantilla \"%2$s\" despu\u00e9s \"%3$s\""
+        },
+        "2dc7474fc7cd98da4c757c25d5acd451": {
+            "text": "Eliminado el campo \"%1$s\" de la plantilla \"%2$s\""
+        },
+        "092a2d93903f42f67e257ba6fb82d6a2": {
+            "text": "Error eliminando \"%1$s\" de la plantilla \"%2$s\""
+        },
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "OF"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "OFF"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Todos"
+        },
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[blanco]"
+        },
+        "8db6f3dfa2f2e5da6a736ec49e54f6f9": {
+            "text": "Presentaci\u00f3n\/visibilidad del campo"
+        },
+        "722302e393e0ef80cae21af3a433fd64": {
+            "text": "Roles permitidos a este campo"
+        },
+        "7c5a8ae55e59746ba619775959127870": {
+            "text": "Roles permitidos para editar este campo"
+        },
+        "b1176bb4251df736f9046c88f2752937": {
+            "text": "Habilitar el control de acceso"
+        },
+        "d8b6bdb4b7004ffa8118daf92c70085d": {
+            "text": "Eliminar el control de acceso"
+        },
+        "4ed588740999fc9926706a97d3e6b3ff": {
+            "text": "Hacer accesible la API de valor de campo incluso cuando no se pueda ver."
+        },
+        "03161f60700feb1e18fcb34de842c31a": {
+            "text": "Hacer que el valor del campo NO est\u00e9 accesible cuando no est\u00e9 visible"
+        },
+        "23831f621c230fae228ca5bccd05b83e": {
+            "text": "Mostrar en el editor de p\u00e1ginas aunque no sea editable"
+        },
+        "7a3d219a780c47deeba29f396adfc6d0": {
+            "text": "Ocultar en el editor de p\u00e1ginas cuando no se puede editar"
+        },
+        "bcb2ce4355834a060bef50afb9127603": {
+            "text": "De-serie"
+        },
+        "47ee982b17f699a3dffff43c76df78ec": {
+            "text": "Plantilla"
+        },
+        "a360c947f7ea8bd51220987c073edf15": {
+            "text": "Configuraci\u00f3n"
+        },
+        "f4aa6607ad257caa74e12b30eab4b8c6": {
+            "text": "Reemplazo"
+        },
+        "0255524701bd52455b1ae33bf39818ff": {
+            "text": "Eliminar ajuste"
+        },
+        "a6f1b7f6b210b19d1d4ff7722c8fd790": {
+            "text": "Notas"
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "Acciones"
+        },
+        "0e26a613a19dbe1752912c253f5b2e37": {
+            "text": "Nombre"
+        },
+        "0e6b389782e160492d4fe3a397e392df": {
+            "text": "Etiqueta"
+        },
+        "995ed8becc596409849c6a652fbf5cd4": {
+            "text": "P\u00e1ginas pobladas"
+        },
+        "ceb446e97d336c84d1f870ce7840e4ba": {
+            "text": "Filas de datos"
+        },
+        "799ef6a367b3b36deb5be25ef8e7c91a": {
+            "text": "Acceso"
+        },
+        "1cdcfe223f7fb1cc15748a347bf161b2": {
+            "text": "S\u00ed"
+        },
+        "afd2f2d22bac5fd1faf1abf753685366": {
+            "text": "Rol"
+        },
+        "904c279e535c872896eab899b55e9c46": {
+            "text": "Vista"
+        },
+        "32bcbddae2df658b6d193932ab97720e": {
+            "text": "Editar"
+        },
+        "c869dd452643fae1887833d527dc86d0": {
+            "text": "Esto tambi\u00e9n eliminar\u00e1 %d fila de datos."
+        },
+        "59da98ece56eec26f5f9edd6f051da0b": {
+            "text": "Esto tambi\u00e9n eliminar\u00e1 %d filas de datos."
         }
     }
 }

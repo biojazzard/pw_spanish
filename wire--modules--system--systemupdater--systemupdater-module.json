@@ -9,13 +9,19 @@
             "text": "Gestiona versiones y actualizaciones del sistema."
         },
         "2bb01c9e5f493e464bae4f127ac24891": {
-            "text": "Sistema de Registro de actualizaci\u00f3n"
+            "text": "Sistema de Registro de Actualizaci\u00f3n"
         },
         "83d345108e3c4ebe46ec3d2de0b7e463": {
-            "text": "Versi\u00f3n del sistema"
+            "text": "Versi\u00f3n del Sistema"
         },
         "e3087085dad248ad622f15449dc45832": {
-            "text": "Esto le permite volver a solicitar una actualizaci\u00f3n de la versi\u00f3n del sistema, reduciendo el n\u00famero de versi\u00f3n."
+            "text": "Esto te permite volver a solicitar una actualizaci\u00f3n de la versi\u00f3n del sistema, reduciendo el n\u00famero de versi\u00f3n."
+        },
+        "d7e351389cfa8187fc844808c5d524e7": {
+            "text": "Detectado un cambio de versi\u00f3n en el core %1$s => %2$s"
+        },
+        "75a1550235c0efb5d9dedd5f02f1fe86": {
+            "text": "Cach\u00e9 del compilador de archivos eliminados"
         }
     }
 }

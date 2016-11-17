@@ -33,7 +33,7 @@
             "text": "Mostrar las plantillas del sistema?"
         },
         "19a3fc9f896f1ef86f69f782be122c37": {
-            "text": "De forma predeterminada, no se muestran del sistema \/ templates internos. Haga clic en \"S\u00ed\" para que se incluyan en la lista de plantillas de adelante."
+            "text": "De forma predeterminada, las plantillas de sistema \/ interno no se muestran. Haz clic en \"S\u00ed\" para que se incluyan en la lista de plantillas de abajo."
         },
         "86ec8350e4740a4cc47328ee7c984d40": {
             "text": "A\u00f1adir nuevas plantillas"
@@ -45,7 +45,7 @@
             "text": "Plantillas encontradas en: %s"
         },
         "66c97c50054d31c710d96c0073ec4c78": {
-            "text": "Se encontraron las siguientes nuevas plantillas. Marque la casilla junto a cada plantilla que desea agregar."
+            "text": "Se encontraron las siguientes nuevas plantillas. Marca la casilla junto a cada plantilla que desea agregar."
         },
         "f392144a3652c7daf4ee4f0377497709": {
             "text": "No hay nuevos archivos de plantilla en: %s"
@@ -57,16 +57,16 @@
             "text": "Si desea crear una nueva plantilla a pesar de que actualmente no existe un archivo asociado a \u00e9l, introduzca el nombre de la plantilla aqu\u00ed."
         },
         "0e2511c51c799246bc640afd3b4cc07b": {
-            "text": "Puede introducir varios nombres de las plantillas mediante la separaci\u00f3n de cada uno con un espacio."
+            "text": "Puedes introducir varios nombres de las plantillas mediante la separaci\u00f3n de cada una con un espacio."
         },
         "088244ca195e0e9e57bd38027406b66b": {
-            "text": "No incluya una extensi\u00f3n de archivo"
+            "text": "No incluyas una extensi\u00f3n de archivo"
         },
         "24a144ffc0e6aae299d3a23c2152e7fa": {
             "text": "Editando Plantilla: %s"
         },
         "545d923164ab07a1b18e48e526f51259": {
-            "text": "Paginas usando esta plantilla no se pueden ver porque el archivo de plantilla (%s) no existe [no-file]."
+            "text": "Las p\u00e1ginas que usan esta plantilla no se pueden ver porque el archivo de plantilla (%s) no existe [no-archivo]."
         },
         "a6cdf6c364498c02bdaa499492780445": {
             "text": "Una etiqueta opcional para describir esta plantilla."
@@ -84,13 +84,13 @@
             "text": "El almacenamiento en cach\u00e9 de salida"
         },
         "244561833b6ce4599891cf9e33fb33d6": {
-            "text": "Opcional configuraci\u00f3n de la plantilla avanzadas"
+            "text": "Configuraci\u00f3n opcional de plantillas avanzadas"
         },
         "5dd56426fff182e0610cc0bf9d389437": {
             "text": "Configuraci\u00f3n de la plantilla espec\u00edfica del sistema"
         },
         "bef497d3a07d13fedba143fc543e606d": {
-            "text": "Campos de importaci\u00f3n de otra plantilla"
+            "text": "Importaci\u00f3n de campos de otra plantilla"
         },
         "0d4ca2b82aa1381b25348c8509009839": {
             "text": "Eliminar plantilla"
@@ -108,16 +108,13 @@
             "text": "Tenga en cuenta que la eliminaci\u00f3n de la plantilla s\u00f3lo la quita de la base de datos, no se elimina el archivo de plantilla en el disco."
         },
         "0968f67bf85224770756cc134016da2b": {
-            "text": "Por defecto, cada plantilla gestiona su propio grupo de campos. Si usted desea tener esta plantilla utiliza los campos de otra plantilla, seleccione aqu\u00ed."
+            "text": "Por defecto, cada plantilla gestiona su propio grupo de campos. Si deseas que \u00e9sta plantilla utilice los campos de otra plantilla, seleccionala aqu\u00ed."
         },
         "6f8d1b93e4aad53511c85e29ed36b3d0": {
-            "text": "(Por defecto)"
+            "text": "(por defecto)"
         },
         "b6b0afb901a4db116f6b8403cf434280": {
-            "text": "Para su referencia, se trata de una lista de campos utilizados por esta plantilla. Esta plantilla recibe campos de la de la plantilla  '%s' ."
-        },
-        "7fc1fde9711c421115c890cd0d181100": {
-            "text": "Defina los campos que son utilizados por esta plantilla. Tambi\u00e9n puede arrastrar y colocar los campos en el orden deseado."
+            "text": "Para su referencia, esta es una lista de campos utilizados por esta plantilla. Esta plantilla obtiene los campos de la plantilla '%s'."
         },
         "6daa35fd97a645b8e37cae080eab3de9": {
             "text": "Agregar campo"
@@ -126,19 +123,19 @@
             "text": "Campos duplicados utilizados por otra plantilla"
         },
         "0a18045f3c2d800b18fc146d3f16b97e": {
-            "text": "Si desea duplicar campos utilizados por otra plantilla, seleccione aqu\u00ed. Los campos que ya est\u00e1n presentes en esta plantilla se quedar\u00e1n solos."
+            "text": "Si deseas duplicar campos utilizados por otra plantilla, seleccionala aqu\u00ed. Los campos que ya est\u00e1n presentes en esta plantilla se quedar\u00e1n solos."
         },
         "0f62a8abd379b96004d8118b0d9a2399": {
-            "text": "Para almacenar en cach\u00e9 la salida de esta plantilla, introduzca el tiempo (en segundos) que la salida debe estar en cach\u00e9. El almacenamiento en cach\u00e9 puede ayudar de manera significativa con la p\u00e1gina de tiempo de renderizado de las p\u00e1ginas-pesado de recursos. Pero el almacenamiento en cach\u00e9 no se debe utilizar en las plantillas que necesitan para procesar los datos en constante cambio, al igual que de las formas o sesiones. Tambi\u00e9n tenga en cuenta que los segmentos de URL son cacheable, pero GET y POST de vars no lo son."
+            "text": "Para almacenar en cach\u00e9 la salida de esta plantilla, ingrese el tiempo (en segundos) que la salida debe almacenarse en cach\u00e9. El almacenamiento en cach\u00e9 puede ayudar significativamente con el tiempo de render de p\u00e1ginas en p\u00e1ginas con mucho recursos. Sin embargo, el almacenamiento en cach\u00e9 no se debe utilizar en plantillas que necesitan procesar datos en constante cambio, como desde formularios o sesiones. Tambi\u00e9n tenga en cuenta que los segmentos de URL son cacheables, pero GET y POST vars no lo son."
         },
         "e71a260bc8db16e30f2dedeba9440a25": {
-            "text": "Por ejemplo: 60 = 1 minuto, 600 = 10 minutos, 3600 = 1 hora, 86 400 = 1 d\u00eda, 604 800 = 1 semana, 2.419.200 = 1 mes."
+            "text": "Por ejemplo: 60 = 1 minuto, 600 = 10 minutos, 3600 = 1 hora, 86400 = 1 d\u00eda, 604800 = 1 semana, 2419200 = 1 mes."
         },
         "fa15c33b6ad59f9f8183f1b3c68ab082": {
-            "text": "Guardar Pagina  \/ Vencimiento Cache"
+            "text": "Guardar Pagina \/ Vencimiento Cache"
         },
         "7ff5f438d6cc10c5f333e97329c72daa": {
-            "text": "Cuando se guarda una p\u00e1gina usando esta plantilla, lo que deber\u00eda pasar a la memoria cach\u00e9?"
+            "text": "Cuando se guarda una p\u00e1gina que usa esta plantilla, \u00bfqu\u00e9 debe pasar con la cach\u00e9?"
         },
         "fe4a994d36e75cfb408bdf0b5dd7af09": {
             "text": "Borrar la cach\u00e9 de la p\u00e1gina guardada s\u00f3lo (por defecto)"
@@ -159,13 +156,13 @@
             "text": "* Para maximizar el rendimiento, los archivos de cach\u00e9 expiran todos como un grupo en lugar de borrarse individualmente."
         },
         "7ebdcad871020558be972578bdf46a10": {
-            "text": "Especifique las otras p\u00e1ginas que debe tener su cach\u00e9 despejados"
+            "text": "Especifica las otras p\u00e1ginas que debe tener su cach\u00e9 eliminada"
         },
         "501a09415d30cab1819195e5566a0c0d": {
-            "text": "Cuando se guardan las p\u00e1ginas que utilizan esta plantilla, se borrar\u00e1 sus archivos de cach\u00e9. Seleccione las otras p\u00e1ginas que tambi\u00e9n deben tener sus archivos de cach\u00e9 despejadas a continuaci\u00f3n."
+            "text": "Cuando se guardan las p\u00e1ginas que usan esta plantilla, se borrar\u00e1n sus archivos de cach\u00e9. Selecciona las otras p\u00e1ginas que tambi\u00e9n deber\u00edan tener sus archivos de cach\u00e9 borrados a continuaci\u00f3n."
         },
         "d6b522c2ed20093505dfa63be2ba0454": {
-            "text": "Cach\u00e9 al representar p\u00e1ginas para estos usuarios"
+            "text": "Cach\u00e9 al renderizar p\u00e1ginas para estos usuarios"
         },
         "787f82b093280bcb87901ea228d7b083": {
             "text": "S\u00f3lo los invitados"
@@ -174,157 +171,145 @@
             "text": "Los invitados y usuarios registrados"
         },
         "8d5e98c594942c49efea1af30c90efe5": {
-            "text": "Tenga en cuenta que la cach\u00e9 siempre est\u00e1 deshabilitado para las p\u00e1ginas donde el usuario tiene acceso de edici\u00f3n, independientemente de lo que seleccione aqu\u00ed."
+            "text": "Ten en cuenta que la cach\u00e9 siempre est\u00e1 deshabilitada para las p\u00e1ginas en las que el usuario tiene acceso de edici\u00f3n, independientemente de lo que seleccione aqu\u00ed."
         },
         "d1db89af3df82862d45c9755e9aa0075": {
-            "text": "Cache deshabilita las variables GET"
+            "text": "Cache deshabilitar variables GET"
         },
         "ad63801f30d93a9f54257aa637d5ed89": {
-            "text": "Variables POST cach\u00e9 deshabilitar"
+            "text": "Cach\u00e9 deshabilitar variables POST"
         },
         "dcc07e185c0c88ca7c4439fbaa56e4cb": {
-            "text": "Cuando se almacena en cach\u00e9 la salida de la plantilla, las variables de este tipo son ignorados por defecto. Opcionalmente, puede especificar uno o m\u00e1s nombres de variables que desactivar la cach\u00e9 para esa solicitud, haciendo que la p\u00e1gina se represente sans cach\u00e9."
+            "text": "Cuando la salida de la plantilla se almacena en cach\u00e9, las variables de este tipo se ignoran de forma predeterminada. Opcionalmente puede especificar uno o m\u00e1s nombres de variables que deshabilitar\u00e1n el cach\u00e9 para esa solicitud, haciendo que la p\u00e1gina se procese sin cach\u00e9."
         },
         "f32d42af055544c46a989bceee851733": {
-            "text": "Opcionalmente introducir uno o m\u00e1s nombres de variables. Si ingresa m\u00e1s de una, sep\u00e1relas mediante un espacio."
+            "text": "Opcionalmente introducir uno o m\u00e1s nombres de variables. Si ingresas m\u00e1s de una, sep\u00e1ralas mediante un espacio."
         },
         "189f63f277cd73395561651753563065": {
             "text": "Etiquetas"
         },
         "5cb36b26303f4abb0dea36f9bb96887f": {
-            "text": "Si desea agrupar visualmente esta plantilla con los dem\u00e1s en la lista de plantillas, escriba una etiqueta de una sola palabra. Introduzca la misma etiqueta en otras plantillas que desea agrupar con. Para especificar varias etiquetas, sep\u00e1relas con un espacio. El uso de etiquetas puede ser \u00fatil si su sitio tiene un gran n\u00famero de plantillas."
+            "text": "Si deseas agrupar visualmente esta plantilla con otras personas en la lista de plantillas, ingresa una etiqueta de una palabra. Introduce la misma etiqueta en otras plantillas que desea agrupar. Para especificar varias etiquetas, separe cada una con un espacio. El uso de etiquetas puede valer la pena si su sitio tiene un gran n\u00famero de plantillas."
         },
         "7f511c25eccff9ce7127eecfb136f443": {
-            "text": "Cada etiqueta tiene que ser una palabra (separaci\u00f3n de palabras est\u00e1 bien)."
+            "text": "Cada etiqueta debe ser una palabra (la hyphenation est\u00e1 bien)."
         },
         "9238cda6a9c91cd5cc846791a49ba3ab": {
-            "text": "Para que una etiqueta se derrumb\u00f3 en la lista de plantillas, anteponga un gui\u00f3n para ella, as\u00ed: -hello"
+            "text": "Para hacer que una etiqueta se colapse en la lista de plantillas, agrega un gui\u00f3n al mismo, como esto: -hello"
         },
         "f9c716f29bd379e49e4485ea8afd1556": {
             "text": "Cambiar el nombre de plantilla"
         },
         "f1a2199b60e95006b3d66f9eb5a9e621": {
-            "text": "El nombre utilizado para referirse a esta plantilla. Este es tambi\u00e9n el nombre de archivo predeterminado del archivo de plantilla (con extensi\u00f3n php) en \/ sitio \/ templates \/."
+            "text": "El nombre utilizado para referirse a esta plantilla. Este es tambi\u00e9n el nombre de archivo predeterminado del archivo de plantilla (con extensi\u00f3n php) en \/sitio\/templates\/."
         },
         "04f22e1af73c705475a4cc38a5c89ae3": {
-            "text": "El nombre del archivo de plantilla se puede escribir y pasar\u00e1 a llamarse as\u00ed."
+            "text": "El nombre de archivo de la plantilla es escribible y se renombrar\u00e1 tambi\u00e9n."
         },
         "8d5a5a7af810d2ef80cf02082615c9dd": {
-            "text": "El archivo de plantilla no se puede escribir lo que tendr\u00e1 que cambiar el nombre manualmente (las instrucciones ser\u00e1n proporcionados despu\u00e9s de guardar)."
+            "text": "El archivo de plantilla no puede escribirse por lo que tendr\u00e1s que cambiar el nombre manualmente (las instrucciones se proporcionar\u00e1n despu\u00e9s de guardar)."
         },
         "e1f4b06346cdbed5063a5e42a9593f59": {
-            "text": "Ingrese cualquier combinaci\u00f3n de letras (az), n\u00fameros (0-9), guiones o guiones bajos (sin espacios). No incluya la extensi\u00f3n del archivo php."
+            "text": "Ingresa cualquier combinaci\u00f3n de letras (az), n\u00fameros (0-9), guiones o guiones bajos (sin espacios). No incluyas la extensi\u00f3n del archivo php."
         },
         "30281e3b2fa626d5f52c833c541c84ac": {
-            "text": "Duplicar \/ clonar esta plantilla?"
-        },
-        "b69fde670b130ace1c7890c8be5b289b": {
-            "text": "Marque la casilla si desea crear una copia duplicada \/ clon de esta plantilla. El clon se crear\u00e1 al guardar. Si el directorio de plantillas se puede escribir y la plantilla tiene un archivo, tambi\u00e9n puede clonar."
+            "text": "Duplicar\/clonar esta plantilla?"
         },
         "7328590933d4202f89220d6b435b0e8f": {
-            "text": "Lista de campos para mostrar en la lista de la p\u00e1gina de administraci\u00f3n"
+            "text": "Lista de campos para mostrar en la lista de p\u00e1ginas de administraci\u00f3n"
         },
         "61b468c296e8ff1ed4c18bd86392e1cc": {
-            "text": "Introduzca uno o m\u00e1s nombres de campo asignados a esta plantilla para mostrar en la lista de la p\u00e1gina de administraci\u00f3n al enumerar las p\u00e1ginas que utilizan esta plantilla. Si se deja en blanco, los campos especificados en la configuraci\u00f3n del m\u00f3dulo ProcessPageList su lugar se utilizar\u00e1. Los nombres de campo deben estar separados por un espacio y \/ o coma. Los campos en blanco se ignorar\u00e1n."
+            "text": "Introduce uno o m\u00e1s nombres de campo asignados a esta plantilla para que aparezcan en la lista de p\u00e1ginas de administraci\u00f3n al enumerar las p\u00e1ginas que utilizan esta plantilla. Si se deja en blanco, se utilizar\u00e1n los campos especificados en la configuraci\u00f3n del m\u00f3dulo ProcessPageList. Los nombres de campo deben estar separados por un espacio y \/ o coma. Los campos en blanco se ignorar\u00e1n."
         },
         "b1a8a50c7276f36aeca631c5f4d18c9d": {
-            "text": "Usted puede entrar en uno o m\u00e1s de los siguientes campos:"
-        },
-        "75b29cfc6e6beeb50a4e6b005ee2cab1": {
-            "text": "Tambi\u00e9n puede introducir un nombre de icono, por ejemplo: (obras, ya sea de formato) icon-file o fa-archivo."
+            "text": "Puedes introducir uno o m\u00e1s de estos campos:"
         },
         "8f0944546d02e3fd7de73e9418494b3b": {
             "text": "Cambia la plantilla"
         },
         "249d044ac9d6d23ba96d1515cc4717e4": {
-            "text": "En general, deber\u00eda dejar estos alterna sin control a menos que tenga una necesidad espec\u00edfica cubierta aqu\u00ed."
+            "text": "En general, debes dejar estos campos sin marcar a menos que tenga una necesidad espec\u00edfica cubierta aqu\u00ed."
         },
         "b919a5aafc6740109c0c58fe51916178": {
-            "text": "Permitir que las p\u00e1ginas cambien su plantilla?"
+            "text": "\u00bfNo permitir que las p\u00e1ginas cambien su plantilla?"
         },
         "6bb5af6d5240fb8b1d720a7e5bec4497": {
-            "text": "Cuando se activa, las p\u00e1ginas que utilizan esta plantilla no podr\u00e1n cambiar a otra plantilla."
-        },
-        "5c9171f7b16eac3245d2e5f3e79aadbc": {
-            "text": "API: $template->noChangeTemplate = 1; \/\/ or 0 to disable"
+            "text": "Cuando se selecciona, las p\u00e1ginas que utilizan esta plantilla no podr\u00e1n cambiar a otra plantilla."
         },
         "29f47bc61ea7a6f45ee3d36da3a3feff": {
-            "text": "No permite que las p\u00e1ginas se despubliquen"
+            "text": "No permitir p\u00e1ginas no publicadas"
         },
         "94c9fe9ddbd9380ceb726bef40232ea3": {
-            "text": "Cuando se activa, las p\u00e1ginas que utilizan esta plantilla s\u00f3lo pueden existir en un estado publicado y pueden no ser in\u00e9ditas."
-        },
-        "691edb2dd99517cf0e15dbf596e10cc5": {
-            "text": "API: $template->noUnpublish = 1; \/\/ or 0 to disable"
+            "text": "Cuando se selecciona, las p\u00e1ginas que utilizan esta plantilla s\u00f3lo pueden existir en un estado publicado y no pueden no publicarse."
         },
         "6064635b0dec3189859052c02adc0fc5": {
-            "text": "Permitir que el 'usuario creador' cambie en las p\u00e1ginas?"
+            "text": "\u00bfPermitir que el 'usuario creador' cambie en las p\u00e1ginas?"
         },
         "16a657e6bf4576ef101f1bcca129694c": {
-            "text": "Cuando se activa, las p\u00e1ginas que utilizan esta plantilla tendr\u00e1n la opci\u00f3n de cambiar el 'creado por el usuario' (s\u00f3lo para los superusuarios). createdUser or $page->created_users_id fields to be saved via the API.\" onmouseover=\"this.style.backgroundColor='#ebeff9'\" onmouseout=\"this.style.backgroundColor='#fff'\">Tambi\u00e9n permitir\u00e1 a los $ page-> createdUser o $ page-> campos created_users_id sean salvos por medio de la API."
+            "text": "Cuando est\u00e1 marcada, las p\u00e1ginas que usan esta plantilla tendr\u00e1n una opci\u00f3n para cambiar el 'creado por el usuario' (s\u00f3lo para superusuarios). Tambi\u00e9n permitir\u00e1 que los campos $ page-> createdUser o $ page-> created_users_id se guarden a trav\u00e9s de la API."
         },
         "8a08c3b7f2922be4ad8e59744781b796": {
-            "text": "Formato de nombre de p\u00e1gina"
+            "text": "Formato de Nombre de p\u00e1gina"
         },
         "8a396099e3eecefcbbbbac1715a464de": {
-            "text": "Opcionalmente especificar un formato para los nombres de p\u00e1gina utilizados cuando se a\u00f1ade una nueva p\u00e1gina. Esto permite que el paso \"A\u00f1adir P\u00e1gina\" se omiten al a\u00f1adir una nueva p\u00e1gina. Para trabajar, la plantilla utilizada por p\u00e1gina padre (s) debe definir esta plantilla (% s) como el \u00fanico permitido para ni\u00f1os (ver la pesta\u00f1a \"familia\" en la plantilla utilizada por el padre)."
+            "text": "Opcionalmente, especificar un formato para los nombres de p\u00e1gina utilizados cuando se a\u00f1ade una nueva p\u00e1gina. Esto permite que el paso \"Agregar p\u00e1gina\" se salte al agregar una nueva p\u00e1gina. Para trabajar, la plantilla usada por la p\u00e1gina principal debe definir esta plantilla (% s) como la \u00fanica permitida para los hijos (vea la pesta\u00f1a \"familia\" en la plantilla usada por el padre)."
         },
         "6058394e74833c97153b0edaec2fb369": {
-            "text": "Puede introducir el texto que desee aqu\u00ed. Cuando se crea una nueva p\u00e1gina y el nombre no es \u00fanico, un n\u00famero incremental ser\u00e1 a\u00f1adido al final de la misma hasta que sea \u00fanico."
+            "text": "Puedes ingresar cualquier texto que desees aqu\u00ed. Cuando se crea una nueva p\u00e1gina y el nombre no es \u00fanico, se a\u00f1adir\u00e1 un n\u00famero incrementado hasta el final hasta que sea \u00fanico."
         },
         "026e4114c3bd578141d593edfdcba4b6": {
-            "text": "Si desea que sus nombres de las p\u00e1ginas que derivan su valor del campo T\u00edtulo: introduzca \"title\" (sin las comillas)."
+            "text": "**Si deseas que tus nombres de p\u00e1gina deriven su valor del campo de t\u00edtulo:** escriba \"t\u00edtulo\" arriba (sin las comillas)."
         },
         "cde43753349041653da0d29cc52a15fa": {
-            "text": "Si desea que sus nombres de p\u00e1ginas para reflejar la fecha de creaci\u00f3n \/ hora: entran en un formato de fecha anterior. Su formato de la fecha debe incluir al menos un car\u00e1cter no alfanum\u00e9rico (como una barra \"\/\" o dos puntos \":\" por ejemplo) con el fin de ser reconocido como un formato de fecha. Ejemplo: \"Y \/ m \/ d H: i: s\" dar\u00eda lugar a nombres de p\u00e1gina como: \"2014-10-30-12-39-01\". Como puede ver, los caracteres no alfanum\u00e9ricos todav\u00eda presentes en una fecha formateada se convierten en guiones."
+            "text": "** Si deseas que tus nombres de p\u00e1gina reflejen la fecha \/ hora creada: ** escribe un [formato de fecha] (http:\/\/www.php.net\/manual\/en\/function.date.php) anterior. Tu formato de fecha debe incluir al menos un car\u00e1cter no alfanum\u00e9rico (como una barra \"\/\" o dos puntos \":\" por ejemplo) para que se reconozca como formato de fecha. Ejemplo: \"Y \/ m \/ d H: i: s\" dar\u00eda lugar a nombres de p\u00e1gina como: \"2014-10-30-12-39-01\". Como puedes ver, los caracteres no alfanum\u00e9ricos que siguen presentes en una fecha con formato se convierten en guiones."
         },
         "dc8ce981931b1e9b1f784c57730a67c1": {
-            "text": "Tenga en cuenta que todos estos ajustes del sistema est\u00e1n destinados para el desarrollo del sistema ProcessWire (no el desarrollo de sitios). \u00daselos bajo su propio riesgo."
+            "text": "Ten en cuenta que todas estas configuraciones del sistema est\u00e1n destinadas al desarrollo del sistema ProcessWire (no al desarrollo del sitio). Usalos bajo tu propio riesgo."
         },
         "3920cc9a9feba6acfae659a68688f13c": {
-            "text": "Bandera del Sistema?"
+            "text": "\u00bfBandera del sistema?"
         },
         "e92f2f24e876c414f6cca0e1ed3bfa73": {
-            "text": "Si se activa, esta plantilla se definir\u00e1 como para el sistema y no ser\u00e1 puedan eliminar. Una vez que la se\u00f1al de sistema est\u00e1 activada, s\u00f3lo puede ser removido a trav\u00e9s de la API (flagSystemOverride)."
+            "text": "Si est\u00e1 marcada, esta plantilla se definir\u00e1 como para el sistema y no ser\u00e1 eliminable. Una vez que el indicador del sistema est\u00e1 habilitado, s\u00f3lo se puede eliminar mediante la API (flagSystemOverride)."
         },
         "0b81495a48a77b7743e0a20fa02e6af9": {
             "text": "Nombre Clase p\u00e1gina"
         },
         "cfab2e7a62a89871220c3ebac5367331": {
-            "text": "El nombre de la clase PHP que se utiliza para crear p\u00e1ginas que utilizan esta plantilla. Por defecto las p\u00e1ginas se crean a partir de la clase Page. Usted debe dejar en blanco a menos que tenga otra clase P\u00e1gina derivados que desea utilizar."
+            "text": "El nombre de la clase PHP que se utilizar\u00e1 para crear p\u00e1ginas que utilicen esta plantilla. De forma predeterminada, las p\u00e1ginas se crear\u00e1n a partir de la clase Page. Debe dejar esto en blanco a menos que tenga otra clase derivada de p\u00e1gina que desee utilizar."
         },
         "85ac227eb16808008afaf07f66cf0f7e": {
-            "text": "Haga caso omiso de los campos Global?"
+            "text": "\u00bfQuieres ignorar los campos globales?"
         },
         "fd83133f05e8bacf7eb368a2d95de8fe": {
-            "text": "Por defecto, cuando un campo est\u00e1 marcado \"global\" que se requiere en todas las plantillas (y agrega autom\u00e1ticamente a las plantillas que no lo tienen). Si esta plantilla tiene un prop\u00f3sito especial en el que no se aplicar\u00edan los campos \"globales\", se puede comprobar esta casilla para hacer campos de esta plantilla de la indiferencia 'globales'."
+            "text": "De forma predeterminada, cuando un campo est\u00e1 marcado como \"global\", ser\u00e1 requerido en todas las plantillas (y autom\u00e1ticamente agregado a cualquier plantilla que no lo tenga). Si esta plantilla tiene un prop\u00f3sito especial donde los campos \"globales\" no se aplican, puede marcar esta casilla para que esta plantilla no tenga en cuenta los campos \"globales\"."
         },
         "0176d878928026caefe7c81262335e1d": {
-            "text": "Se muestra el campo \"nombre\" en la pesta\u00f1a de contenido?"
+            "text": "\u00bfMostrar el campo 'nombre' en la pesta\u00f1a de contenido?"
         },
         "61788997b579a9bcfe17e394d394ad01": {
-            "text": "Por defecto, el campo \"nombre\" incorporada aparece en el editor de p\u00e1ginas pesta\u00f1a \"Configuraci\u00f3n\". Si prefiere que aparezca en la pesta\u00f1a \"contenido\" marque esta casilla."
+            "text": "De forma predeterminada, el campo \"nombre\" incorporado aparece en la pesta\u00f1a \"configuraci\u00f3n\" del editor de p\u00e1ginas. Si prefiere que aparezca en la pesta\u00f1a \"contenido\", marque esta casilla."
         },
         "42a6e7a5ed0d0ae111fa88a2ccf1aca2": {
-            "text": "No permita que las p\u00e1ginas se muevan?"
+            "text": "\u00bfNo permitir que las p\u00e1ginas se muevan?"
         },
         "518270f594c5488ff1f8de2ac0429f0e": {
-            "text": "Si desea evitar que las p\u00e1ginas utilizando esta plantilla se mueva (cambiando padre) comprobar entonces este cuadro."
+            "text": "Si desea evitar que las p\u00e1ginas que usan esta plantilla se muevan (cambiar de padre), marque esta casilla."
         },
         "19a460b1edf9cc0616cd0ce03e9a0ddf": {
-            "text": "Desactive la opci\u00f3n Papelera?"
+            "text": "\u00bfDesactivar la opci\u00f3n Papelera?"
         },
         "38354c9531a0d7056f7f98de8810a2f1": {
             "text": "Cuando se activa, las p\u00e1ginas que utilizan esta plantilla no van a tener la opci\u00f3n de ser enviado a la papelera."
         },
         "a7c1ec59b9f4fea9e41e1ca799437193": {
-            "text": "Desactivar la pesta\u00f1a de configuraci\u00f3n?"
+            "text": "\u00bfDesactivar la pesta\u00f1a de configuraci\u00f3n?"
         },
         "abad59d4cf5691fd0506cb650dff0f5b": {
-            "text": "Cuando se activa, las p\u00e1ginas que utilizan esta plantilla no van a tener una pesta\u00f1a de \"Configuraci\u00f3n\" aparece en el editor."
+            "text": "Cuando est\u00e1 marcada, las p\u00e1ginas que usan esta plantilla no tendr\u00e1n una pesta\u00f1a \"configuraci\u00f3n\" en el editor."
         },
         "a8d7050d17168bae58f775f20d56eeba": {
-            "text": "Pueden tener hijos las p\u00e1ginas con esta plantilla?"
+            "text": "\u00bfPueden tener hijos las p\u00e1ginas con esta plantilla?"
         },
         "0f79346b34fe5a07bf9ad38ef37e1723": {
             "text": "\u00bfPuede esta plantilla se utilizar\u00e1 para las p\u00e1ginas nuevas?"
@@ -336,85 +321,61 @@
             "text": "Plantilla (s) permitidas para los hijos"
         },
         "fcdd2e278208618dfa795ed85ba1eb06": {
-            "text": "Seleccione la plantilla (s) que se permitir\u00e1 a los hijos de p\u00e1ginas que usan esta plantilla. Utilice esta opci\u00f3n s\u00f3lo si usted desea espec\u00edficamente para restringir la colocaci\u00f3n de p\u00e1ginas que usan esta plantilla."
+            "text": "Selecciona las plantillas que se permitir\u00e1n para los hijos de las p\u00e1ginas que usan esta plantilla. \u00daselo s\u00f3lo si desea restringir espec\u00edficamente la colocaci\u00f3n de p\u00e1ginas utilizando esta plantilla."
         },
         "9927f70231db8b53612513d00b934a7c": {
-            "text": "Si no selecciona ninguno, entonces cualquier mascotas, dentro de los l\u00edmites de acceso del usuario. Un ejemplo podr\u00eda ser el uso de una plantilla \"noticias-list 'que s\u00f3lo se le permite tener los hijos que utilizan las\" noticias-item' o plantillas de 'press-release'."
+            "text": "Si no se selecciona ninguna, se permiten cualesquiera, dentro de los l\u00edmites de acceso del usuario. Un ejemplo de uso podr\u00eda ser una plantilla de 'lista de noticias' que s\u00f3lo se permite tener hijos usando plantillas de 'noticias' o 'prensa'."
         },
         "1b50b9bdfa1846ef031dc3cc190267d6": {
-            "text": "Plantilla (s) permitidas para los padres"
+            "text": "Plantilla(s) permitidas para los padres"
         },
         "8d3a827d5474c79dc3434e5e29f7a80f": {
-            "text": "Seleccione la plantilla (s) que se permitir\u00e1 que los padres de p\u00e1ginas que usan esta plantilla. Utilice esta opci\u00f3n s\u00f3lo si usted desea espec\u00edficamente para restringir la colocaci\u00f3n de p\u00e1ginas que usan esta plantilla."
+            "text": "Selecciona las plantillas que se permitir\u00e1n como padres para las p\u00e1ginas que utilicen esta plantilla. \u00dasalo s\u00f3lo si deseas restringir espec\u00edficamente la colocaci\u00f3n de p\u00e1ginas utilizando esta plantilla."
         },
         "dc70febc65985c326b6d7a85502ddc0a": {
-            "text": "Si ninguno se seleccionan a continuaci\u00f3n, se permite cualquier plantilla padre, dentro de los l\u00edmites de acceso del usuario. Un ejemplo podr\u00eda ser el uso de una plantilla de \"empleado\" que s\u00f3lo se le permite tener una p\u00e1gina principal con una plantilla '-gu\u00eda de empresas'."
+            "text": "Si no se selecciona ninguna, se permite una plantilla padre, dentro de los l\u00edmites de acceso del usuario. Un ejemplo de uso podr\u00eda ser una plantilla de \"empleado\" que s\u00f3lo se permite tener una p\u00e1gina principal utilizando una plantilla de directorio de empresa."
         },
         "92fe79a8aa59b037f5f6e2b43f89fea8": {
-            "text": "Nombre del formato para los hijos"
+            "text": "Formato del Nombre para los hijos"
         },
         "5cf485ae4559df60232a5ff0f87783cb": {
-            "text": "Opcionalmente especificar un formato para los nombres de p\u00e1gina utilizados cuando se a\u00f1ade una nueva p\u00e1gina secundaria. Esto permite que el paso \"A\u00f1adir P\u00e1gina\" se omiten al a\u00f1adir una nueva p\u00e1gina. Con el fin de trabajar, un solo (1) plantilla debe ser seleccionado para la \"plantilla (s) permitidos para los ni\u00f1os\" campo de arriba."
+            "text": "Opcionalmente, especifica un formato para los nombres de p\u00e1gina utilizados cuando se agrega una nueva p\u00e1gina secundaria. Esto permite que el paso \"Agregar p\u00e1gina\" se salte al agregar una nueva p\u00e1gina. Para trabajar, se debe seleccionar una sola (1) plantilla para el campo \"Plantillas permitidas para ni\u00f1os\" arriba."
         },
         "27dd547b53bb1b3c67c345f984747010": {
-            "text": "Dejar en blanco para desactivar. Introduzca \"title\" (sin comillas) para generar autom\u00e1ticamente el nombre del t\u00edtulo de la p\u00e1gina. M\u00e1s opciones que incluyen formatos de fecha est\u00e1n disponibles tambi\u00e9n. M\u00e1s"
+            "text": "Dejar en blanco para desactivar. Introducir \"t\u00edtulo\" (sin comillas) para generar autom\u00e1ticamente el nombre del t\u00edtulo de la p\u00e1gina. M\u00e1s opciones, incluyendo formatos de fecha est\u00e1n disponibles tambi\u00e9n. [M\u00e1s informaci\u00f3n](http:\/\/processwire.com\/api\/modules\/process-template\/)"
         },
         "de4914b2943f3cfce0232ae281a8b155": {
-            "text": "Mostrar en el men\u00fa contextual de la p\u00e1gina \"crear nuevo...\"?"
+            "text": "\u00bfMostrar en el men\u00fa de acceso directo de agregar p\u00e1gina?"
         },
         "eaf9115aadc503ff009e4c769963a877": {
-            "text": "Cuando se activa, esta plantilla es apto para aparecer en el bot\u00f3n \"agregar nueva p\u00e1gina\" de acceso directo \/ men\u00fa que aparece en la pantalla principal Pages. Esto supone que se cumplan todas las dem\u00e1s condiciones (v\u00e9ase a continuaci\u00f3n)."
+            "text": "Cuando est\u00e1 marcada, esta plantilla puede aparecer en el bot\u00f3n \/ men\u00fa de acceso directo \"agregar nueva p\u00e1gina\" que aparece en la pantalla principal de P\u00e1ginas. Esto supone que se cumplen todas las dem\u00e1s condiciones (v\u00e9ase m\u00e1s adelante)."
         },
         "91426b7105692d7c29b6307385ea99d1": {
-            "text": "Condiciones necesarias para que esto funcione"
+            "text": "**Condiciones necesarias para que esto funcione**"
         },
         "635a2459897d3f0072993713558c84b0": {
-            "text": "1. Debe seleccionar una plantilla padre (ver: \"permitido plantillas para los padres\" m\u00e1s arriba). Si se selecciona m\u00e1s de 1, s\u00f3lo el primero se utilizar\u00e1."
+            "text": "1. Debe seleccionar una plantilla padre (ver: \"plantillas permitidas para los padres\" m\u00e1s arriba). Si se selecciona m\u00e1s de 1, s\u00f3lo se utilizar\u00e1 el primero."
         },
         "b14d306525e8d6e9927d577a59064048": {
-            "text": "2. La plantilla principal seleccionado debe haber definido esta plantilla como uno se aceptan ni\u00f1os."
-        },
-        "b31e82dcc61dd6ba650389f38c6e154e": {
-            "text": "3. S\u00f3lo puede haber una instancia de una p\u00e1gina con la plantilla de los padres en el sistema."
-        },
-        "487b2fe79edc18261ed2e37e657c0b58": {
-            "text": "4. El tema de administraci\u00f3n debe admitir esta funci\u00f3n."
+            "text": "2. La plantilla principal seleccionada debe haber definido esta plantilla como una permitida para los hijos."
         },
         "67c0041f81951ac9b6b46dd2311fb9aa": {
             "text": "Par\u00e1metros de orden para los hijos"
         },
         "2a233a750cca4cc7bde0dcc7f8a2c4ec": {
-            "text": "Si usted quiere que los ni\u00f1os autom\u00e1ticamente ordenar por un campo espec\u00edfico, seleccione aqu\u00ed. De lo contrario, seleccione \"Ninguno\" para permitir que este se establecer\u00e1 por p\u00e1gina en su lugar. Esto anula la configuraci\u00f3n de la p\u00e1gina, as\u00ed que si usted selecciona \"None\" nada, la opci\u00f3n de clasificaci\u00f3n no aparecer\u00e1 en p\u00e1ginas que usan esta plantilla."
+            "text": "Si deseas que los hijos se ordenen autom\u00e1ticamente por un campo espec\u00edfico, seleccionalo aqu\u00ed. De lo contrario selecciona \"Ninguno\" para permitir que se establezca por p\u00e1gina en su lugar. Esto anula la configuraci\u00f3n de la p\u00e1gina, por lo que si selecciona algo distinto de \"Ninguno\", la opci\u00f3n de ordenaci\u00f3n no aparecer\u00e1 en las p\u00e1ginas que utilicen esta plantilla."
         },
         "fd80e24b28f66f7a579ced68340fd3fa": {
-            "text": "Permitir N\u00fameros de p\u00e1gina?"
-        },
-        "8bda693211f46eb289c8bdadedaf54ae": {
-            "text": "Si se marca, p\u00e1ginas que usan esta plantilla aceptar\u00e1n segmentos URL de n\u00famero de p\u00e1gina en la forma \"page123 ', donde' 123 'puede ser cualquier n\u00famero positivo. pageNum to be 3. This is used for pagination and should only be enabled for templates that support pagination.\" onmouseover=\"this.style.backgroundColor='#ebeff9'\" onmouseout=\"this.style.backgroundColor='#fff'\">Por ejemplo, un URL de solicitud de '\/ widgets \/\/ page3' ajusta autom\u00e1ticamente la $ input-> pageNum ser 3. Se utiliza para la paginaci\u00f3n y s\u00f3lo debe habilitarse para las plantillas que soportan paginaci\u00f3n. Tenga en cuenta que los n\u00fameros de p\u00e1gina comienzan en 1 (no 0). Si se combina con segmentos de URL (v\u00e9ase la secci\u00f3n siguiente), entonces el n\u00famero de la p\u00e1gina debe ser la \u00faltima parte de la URL."
+            "text": "\u00bfPermitir N\u00fameros de p\u00e1gina?"
         },
         "3a426f05b968cc7c6022ac1388e7d8e7": {
-            "text": "Permitir Segmentos URL?"
-        },
-        "edf7d3cbbda60af5148285cec1cd7569": {
-            "text": "Esta plantilla puede servir opcionalmente segmentos de ruta URL debajo de la de la p\u00e1gina (s) de usarlo. Por ejemplo, es posible que desee una p\u00e1gina con la ruta \/ ruta \/ al \/ page \/ para manejar tambi\u00e9n las solicitudes de \/ ruta \/ al \/ page \/ segmento1 \/ o \/ ruta \/ al \/ page \/ segmento1 \/ segment2 \/. De forma predeterminada, ProcessWire lanzar\u00e1 un \"404 P\u00e1gina no encontrada\" error cuando se accede a un enlace. Pero si quieres ProcessWire para hacer que la p\u00e1gina en lugar, marque la casilla de abajo. A continuaci\u00f3n, puede comprobar manully los segmentos URL de su archivo de plantilla para responder a ellas."
-        },
-        "8c8b0529510e126bc81359c5a2ae3482": {
-            "text": "Hasta 3 segmentos URL son compatibles despu\u00e9s de la URL de la p\u00e1gina. Estos pueden ser cualquier combinaci\u00f3n de letras min\u00fasculas ASCII (az), n\u00fameros (0-9), guiones y guiones bajos. urlSegment(n) function or $input->urlSegment[n] property (replacing [n] with 1, 2 or 3).\" onmouseover=\"this.style.backgroundColor='#ebeff9'\" onmouseout=\"this.style.backgroundColor='#fff'\">Puede acceder a los segmentos de URL de su c\u00f3digo API plantilla haciendo referencia a la funci\u00f3n $ input-> urlSegment (n) o $ input-> urlSegment [n] la propiedad (en sustituci\u00f3n de [n] con 1, 2 o 3)."
-        },
-        "3f7071fb2ff5f5a0218c696722986007": {
-            "text": "urlSegment1\" onmouseover=\"this.style.backgroundColor='#ebeff9'\" onmouseout=\"this.style.backgroundColor='#fff'\">Por ejemplo, dada la \/ ruta URL \/ a \/ p\u00e1gina \/ a \/ b \/ c \/, donde \/ path \/ to \/ p\u00e1gina \/ es la ruta de la p\u00e1gina, y \/ a \/ b \/ c \/ son los segmentos: $ input-> urlSegment1 urlSegment2 is \"b\", and $input->urlSegment3 is \"c\".\" onmouseover=\"this.style.backgroundColor='#ebeff9'\" onmouseout=\"this.style.backgroundColor='#fff'\">es \"a\", $ input-> urlSegment2 es \"b\", y $ input-> urlSegment3 es \"c\". Si la plantilla recibe segmentos URL desconocidos, una buena pr\u00e1ctica es abortar la solicitud lanzando un error 404. El c\u00f3digo API para hacer esto es: throw new Wire404Exception ();"
+            "text": "\u00bfPermitir Segmentos URL?"
         },
         "d5bf40c0f8c27c98db4d65ebc8cdc0c7": {
-            "text": "En caso de direcciones URL de p\u00e1ginas finalizar con una barra?"
+            "text": "\u00bfDeber\u00edan terminar las URL de las p\u00e1ginas con una barra inclinada?"
         },
         "60cb362641cd33525562c9d62d0f8d18": {
-            "text": "Si 'S\u00ed', p\u00e1ginas que usan esta plantilla siempre tendr\u00e1 URL que terminan con una barra inclinada '\/'. Y si la p\u00e1gina se carga desde una URL sin la barra, ser\u00e1 redirigido a la misma. Si selecciona \"No\", la versi\u00f3n no reducido se aplicar\u00e1 en su lugar. Tenga en cuenta que este ajuste no aplica este comportamiento en los segmentos de URL o n\u00fameros de p\u00e1gina, s\u00f3lo direcciones URL de p\u00e1ginas reales. Si usted no tiene una preferencia, se recomienda que deje esta serie de 'S\u00ed'."
-        },
-        "115162847e362551c1dcaff31e64fa80": {
-            "text": "Esquema \/ Protocolo"
-        },
-        "249e45d525f325778f98cdd90eaf0b32": {
-            "text": "HTTP or HTTPS"
+            "text": "Si 'S\u00ed', las p\u00e1ginas que usan esta plantilla siempre tendr\u00e1n URL que terminen con una barra inclinada '\/'. Y si la p\u00e1gina se carga desde una URL sin la barra, ser\u00e1 redirigida a ella. Si seleccionas 'No', se aplicar\u00e1 la versi\u00f3n no reducida. Ten en cuenta que esta configuraci\u00f3n no impone este comportamiento en segmentos de URL o n\u00fameros de p\u00e1gina, s\u00f3lo URL de p\u00e1gina real. Si no tiene una preferencia, se recomienda dejar este conjunto en 'S\u00ed'."
         },
         "d50c90d8cbe8ba3ac7178aeb59f93b68": {
             "text": "HTTPS s\u00f3lo (SSL encriptada)"
@@ -423,25 +384,25 @@
             "text": "S\u00f3lo HTTP"
         },
         "ecb1f1de9e0f813e37e40e2aa016c008": {
-            "text": "Si su sitio tiene un certificado SSL y es accesible por HTTPS, es posible hacer que las p\u00e1ginas utilizando esta plantilla accesible s\u00f3lo a trav\u00e9s de HTTPS o HTTP. Por ejemplo, si selecciona 'HTTPS s\u00f3lo \"a continuaci\u00f3n, y una solicitud de una p\u00e1gina usando esta plantilla entra a trav\u00e9s de HTTP, ser\u00e1 redirigido autom\u00e1ticamente a la versi\u00f3n HTTPS. De forma predeterminada, ProcessWire permite la conexi\u00f3n de HTTP o HTTPS."
+            "text": "Si tu sitio tiene un certificado SSL y es accesible por HTTPS, puede hacer que las p\u00e1ginas que utilicen esta plantilla sean accesibles s\u00f3lo a trav\u00e9s de HTTPS o HTTP. Por ejemplo, si seleccionas \"HTTPS s\u00f3lo\" a continuaci\u00f3n, y una solicitud de una p\u00e1gina que utiliza esta plantilla viene a trav\u00e9s de HTTP, se redirigir\u00e1 autom\u00e1ticamente a la versi\u00f3n HTTPS. De forma predeterminada, ProcessWire permite la conexi\u00f3n desde HTTP o HTTPS."
         },
         "e9c90e0ba4fdd701df9d4ff73c82dc3e": {
-            "text": "Nombre del archivo de plantillas alternativo"
+            "text": "Nombre de archivo de plantillas alternativo"
         },
         "f8faba0e1d9c277a84bb16a48f9d57f6": {
             "text": "Nombre de archivo de la plantilla, si es diferente a: %s"
         },
         "217ca16c1e160b229a71c244512c3d4d": {
-            "text": "Los archivos de plantilla se supone que en el directorio: %s"
+            "text": "Se supone que los archivos de plantillas est\u00e1n en el directorio:% s"
         },
         "043008c261f9d0e109c03ab63e047bcd": {
-            "text": "Extensi\u00f3n de archivo de plantilla se supone que es: %s"
+            "text": "Se supone que la extensi\u00f3n del archivo de plantilla es:% s"
         },
         "52ca64db1f0ca50831b3af91db6cd643": {
-            "text": "Anteponer archivo"
+            "text": "Anteponer Archivo"
         },
         "58a0dd4014386dd156c47a6d69cdd5f8": {
-            "text": "Archivo para anteponer al archivo de plantilla en la p\u00e1gina de render. Debe ser relativa a \/ sitio \/ templates \/."
+            "text": "Archivo para a\u00f1adir al archivo de plantilla durante la p\u00e1gina de procesamiento. Debe ser relativo a \/site\/templates\/."
         },
         "0f7b5e8d336c577672820ac8d848fb4f": {
             "text": "Adjuntar archivo"
@@ -450,55 +411,52 @@
             "text": "Archivo que desea a\u00f1adir al archivo de plantilla en la p\u00e1gina de render. Debe ser relativa a \/ sitio \/ templates \/."
         },
         "ab6b38f8849f9837a2fbb24721ab5e99": {
-            "text": "Desactivar prepend autom\u00e1tica de archivo: %s"
+            "text": "Inhabilitar el prefijo autom\u00e1tico del archivo:% s"
         },
         "95dac43782405c335b194c4f4ff28436": {
-            "text": "Desactivar append autom\u00e1tica de archivo: %s"
+            "text": "Deshabilitar la agregaci\u00f3n autom\u00e1tica del archivo:% s"
         },
         "707380d7bcc2ece9eead5a5879fb1c22": {
-            "text": "\u00bfQuieres gestionar vista y acceso de edici\u00f3n para las p\u00e1ginas que utilizan esta plantilla?"
+            "text": "\u00bfDeseas administrar la vista y el acceso de edici\u00f3n de las p\u00e1ginas que utilizan esta plantilla?"
         },
         "22ac5f69365966a7ce509e349b23539a": {
-            "text": "Si selecciona 'S\u00ed' se puede definir qu\u00e9 roles tienen acceso a p\u00e1ginas que usan esta plantilla. Si selecciona 'No' a continuaci\u00f3n, las p\u00e1ginas que utilizan esta plantilla heredar\u00e1n el acceso de sus p\u00e1ginas principales."
+            "text": "Si selecciona 'S\u00ed', puede definir qu\u00e9 funciones tienen acceso a las p\u00e1ginas que utilizan esta plantilla. Si selecciona 'No', las p\u00e1ginas que utilicen esta plantilla heredar\u00e1n el acceso desde sus p\u00e1ginas principales."
         },
         "26b6d64574e88f30f407e16212dc4d57": {
             "text": "\u00bfQu\u00e9 hacer cuando el usuario intenta ver una p\u00e1gina y no tiene acceso?"
         },
         "e13c4cbb7f089450e12b10561001f9e1": {
-            "text": "Si un usuario intenta acceder a una p\u00e1gina con esta plantilla, y no tiene acceso a la p\u00e1gina, \u00bfqu\u00e9 deber\u00eda hacer?"
+            "text": "Si un usuario intenta acceder a una p\u00e1gina utilizando esta plantilla y no tiene acceso a la p\u00e1gina, \u00bfqu\u00e9 debe hacer?"
         },
         "998806f5cd0395d2ea2c406b57463397": {
             "text": "Mostrar una p\u00e1gina 404"
         },
         "1adb25e12d2b0d06683c3dc04e833631": {
-            "text": "Mostrar la P\u00e1gina de registro %s"
+            "text": "Mostrar la p\u00e1gina de inicio de sesi\u00f3n: %s"
         },
         "225237dc381e612f4bbf08dd75efdb71": {
             "text": "Redireccionar a otra URL"
         },
-        "6b01f3d73dbcea918c2e08424f41c87c": {
-            "text": "Introduce la URL que desea redirigir a cuando un usuario no tiene acceso"
-        },
         "b12715241d6f9d36629e189651930f08": {
-            "text": "Este campo s\u00f3lo se aplica si ha seleccionado \"redireccionar a otra URL\" en el campo anterior."
+            "text": "Este campo s\u00f3lo es aplicable si seleccion\u00f3 \"Redireccionar a otra URL\" en el campo anterior."
         },
         "2f2055affca16d8404e278fc1d6c3a07": {
-            "text": "Opcional: En la direcci\u00f3n URL, puede incluir la etiqueta '{id}' (tal vez como una variable GET), y ser\u00e1 reemplazado por el n\u00famero de identificaci\u00f3n de la p\u00e1gina solicitada, si usted lo desea."
+            "text": "Opcional: En su URL, puede incluir la etiqueta '{id}' (tal vez como una variable GET), y ser\u00e1 reemplazada por el n\u00famero de ID de la p\u00e1gina solicitada, si lo desea."
         },
         "77b116ba76d6cad7420de0729f5437cb": {
-            "text": "En caso de p\u00e1ginas en las b\u00fasquedas cuando el usuario no tiene acceso?"
+            "text": "\u00bfLas p\u00e1ginas deben buscables cuando el usuario no tiene acceso?"
         },
         "6ceb6814781363fa5e58fc38fe5910a1": {
-            "text": "Cuando un usuario no tiene acceso a ver una p\u00e1gina con esta plantilla, lo que deber\u00eda suceder en las b\u00fasquedas y las listas de las p\u00e1ginas?"
+            "text": "Cuando un usuario no tiene acceso para ver una p\u00e1gina usando esta plantilla, \u00bfqu\u00e9 deber\u00eda suceder en las b\u00fasquedas y las listas de p\u00e1ginas?"
         },
         "9afb9f536d5471f188308f8e160a555c": {
-            "text": "S\u00ed - P\u00e1ginas pueden aparecer en b\u00fasquedas \/ listas incluso si el usuario no tiene acceso a verlos"
+            "text": "S\u00ed - P\u00e1ginas pueden aparecer en b\u00fasquedas\/listas incluso si el usuario no tiene acceso a verlos"
         },
         "ac32650de5a87d0e83f088edcefbc9a8": {
-            "text": "No - P\u00e1ginas no puede no aparecer en las listas de b\u00fasquedas \/ a menos que el usuario tiene acceso a verlos"
+            "text": "No - P\u00e1ginas no puede no aparecer en las listas\/b\u00fasquedas a menos que el usuario tenga acceso a verlos"
         },
         "e91c9dce55b792f0254aeb69ba314f17": {
-            "text": "\u00bfQu\u00e9 papel pueden acceder a las p\u00e1ginas que utilizan esta plantilla (y los que heredar de ella)?"
+            "text": "\u00bfQu\u00e9 roles pueden acceder a las p\u00e1ginas que utilizan esta plantilla (y los que heredan de ella)?"
         },
         "13944cf77acdf1b9e49f6383c101ae89": {
             "text": "(todo el mundo)"
@@ -525,28 +483,28 @@
             "text": "Guardado fieldgroup: %s"
         },
         "fddc330c21a2e3fa08c9af7307dd2046": {
-            "text": "Los campos que se eliminar\u00e1n"
+            "text": "Campos que se eliminar\u00e1n"
         },
         "c69da3a709ad376098eb517be436a12b": {
-            "text": "Ha solicitado cambiar el Fieldgroup de \"%1$s\" a \"%2$s\"."
+            "text": "Ha solicitado cambiar el grupo de campos de \"%1$s\" a \"%2$s\"."
         },
         "0cd878f5f6c3ecd2d309d74c608cf0e3": {
-            "text": "Los siguientes campos se eliminar\u00e1n de forma permanente en las p\u00e1ginas que utilizan esta plantilla:"
+            "text": "Los siguientes campos se eliminar\u00e1n de forma permanente en las p\u00e1ginas que utilicen esta plantilla:"
         },
         "794ed990b58e042f53c8e1b0f9c48b77": {
-            "text": "Por favor, confirma que usted entiende lo anterior y de que desea cambiar la fieldgroup marcando la casilla y presentar este formulario."
+            "text": "Confirme que entiende lo anterior y que desea cambiar el grupo de campo marcando la casilla y enviando este formulario."
         },
         "1a1e5b08d1538484177a49ce2168b297": {
-            "text": "Por favor confirme que desea cambiar el Fieldgroup de \"%1$s\" a \"%2$s\""
+            "text": "Confirme que desea cambiar el grupo de campos de \"%1$s\" a \"%2$s\""
         },
         "95faabcca5ce9361cfbbfdac564540a6": {
-            "text": "Cambie Fieldgroup de plantilla: %s"
+            "text": "Cambie el grupo de campos de plantilla: %s"
         },
         "48a72eabb7f3f13f0d942bb2cdfe9811": {
-            "text": "Fieldgroup cambio abortado"
+            "text": "Cambio de grupo de campos abortado"
         },
         "297401f75a53c46e41a44c9d91738f1e": {
-            "text": "Usted ha pedido que retire uno o m\u00e1s campos de la plantilla. Esto dar\u00e1 lugar a los datos asociados a los campos de abajo se va a eliminar de forma permanente. Si los campos que se eliminan contienen una gran cantidad de datos, puede tomar tiempo para esta operaci\u00f3n se complete despu\u00e9s de confirmar y enviar este formulario. Por favor, confirma que entiende esto y quiere eliminar el campo (s), marcando las casillas de abajo."
+            "text": "Has solicitado eliminar uno o varios campos de la plantilla. Esto har\u00e1 que los datos asociados con los campos siguientes sean eliminados permanentemente. Si los campos que se eliminan contienen una gran cantidad de datos, puede tardar tiempo para que esta operaci\u00f3n se complete despu\u00e9s de confirmar y enviar este formulario. Confirmar que entiendes esto y desea eliminar los campos marcando las casillas siguientes."
         },
         "b9b9ac08c6bde335d1b5758d4dfcd1da": {
             "text": "Eliminado el campo \"%1$s\"  de la plantilla \"%2$s\""
@@ -558,10 +516,10 @@
             "text": "El nombre \"%s\" ya est\u00e1 en uso"
         },
         "7b2365f3c03bbf66c17531b39af975f9": {
-            "text": "Plantilla Renombrado \"%1$s\" a \"%2$s\""
+            "text": "Plantilla renombrada \"%1$s\" a \"%2$s\""
         },
         "348267a4dada558acc9b2cd1b68ad41e": {
-            "text": "Archivo de plantilla Renombrado \"%1$s\" a \"%2$s\""
+            "text": "Archivo de plantilla renombrado \"%1$s\" a \"%2$s\""
         },
         "d40a1614c5e9e10db2d5d9f94a0482bb": {
             "text": "Cambiar el nombre de plantilla \"%1$s\" a \"%2$s\""
@@ -668,23 +626,365 @@
         "0f12f2b440ad104a1ee7cb027aba8b18": {
             "text": "A\u00f1adir plantillas"
         },
-        "adf92855ccc9fe04707fd12688a17c59": {
-            "text": "Esta plantilla se utiliza por 1 p\u00e1gina"
-        },
         "d26c2f7eb253b0202c2769f3dd232d96": {
-            "text": "Esta plantilla es utilizado por %d p\u00e1ginas"
+            "text": "Esta plantilla es utilizada por %d p\u00e1ginas"
         },
         "14bcc27345b2325a5e492384a734c1aa": {
-            "text": "Plantilla se utiliza por 1 p\u00e1gina"
+            "text": "Plantilla utilizada por 1 p\u00e1gina"
         },
         "957ba77c721f931f1ad38ed47b98fd0d": {
-            "text": "Plantilla es utilizado por %d p\u00e1ginas"
+            "text": "Plantilla utilizado por %d p\u00e1ginas"
         },
         "65f037a0e08b94d9e42932b68c5eaf29": {
-            "text": "Fieldgroup de este modelo es utilizado por otros 1 plantilla"
+            "text": "El grupo de campos de esta plantilla es utilizado por otra plantilla"
         },
         "18dec3122ea08276dd94476904bcef7b": {
-            "text": "Fieldgroup de este modelo es utilizado por %d otras plantillas"
+            "text": "El grupo de campo de esta plantilla es usado por %d otras plantillas"
+        },
+        "5124b02da7ffa5ef666dc8bde11cd10d": {
+            "text": "Cualquiera \/ no importa"
+        },
+        "6703f01fb2662a497ae2d29163ed68c2": {
+            "text": "El Nombre ya se usa"
+        },
+        "c64518704ce0c0d5501a45763f464276": {
+            "text": "Uso"
+        },
+        "ae89f7319ca951efb3ce055e92b8ade2": {
+            "text": "Define los campos que utiliza esta plantilla. Tambi\u00e9n puedes arrastrar y soltar campos en el orden deseado o [crear un nuevo campo] (..\/campo\/a\u00f1adir)."
+        },
+        "044c72d21891e006e09a78d32a1e3226": {
+            "text": "Cerrar y A\u00f1adir"
+        },
+        "1ad747442af37649526e00927b7d0a1f": {
+            "text": "Para configurar los campos que un usuario puede editar en su perfil, consulta la configuraci\u00f3n del m\u00f3dulo de perfil."
+        },
+        "c5abeb6189c82d5b9d81bbcac604408b": {
+            "text": "Status de la Cach\u00e9"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Dehabilitado"
+        },
+        "399c72ebbb8b618eeb11aab334a88369": {
+            "text": "Habilitado  (template cache)"
+        },
+        "6d490a96685b13339b51530ee05a7c9a": {
+            "text": "Habilitado  (ProCache cache)"
+        },
+        "404deca0459b84d7308fb7c434301657": {
+            "text": "Las p\u00e1ginas que usan esta plantilla est\u00e1n actualmente en cach\u00e9 en ProCache, pero configuradas directamente en ProCache. Para configurar la configuraci\u00f3n de ProCache para esta plantilla aqu\u00ed, elige la opci\u00f3n ProCache anterior."
+        },
+        "b0349bb2d18f943c6aa52c5c038850a0": {
+            "text": "Si utiliza ProCache no hay necesidad de utilizar la configuraci\u00f3n de cach\u00e9 aqu\u00ed. hay Ver tambi\u00e9n no hay nada que hacer, no hay duda, \u00bfQu\u00e9 hay de nuevo?, No hay nada que hacer., No hay agua caliente., \u00a1No hay que preocuparse!, no hay posibilidad, \u00a1No hay de qu\u00e9!, que hay que cumplir Traducciones de hay adverbio there hay, all\u00ed, ah\u00ed, all\u00e1, para all\u00e1 frase there are hay there is hay abreviatura there's hay there're hay"
+        },
+        "70445e42e2f9089020b0ba1c23063287": {
+            "text": "Borrar cach\u00e9 para la p\u00e1gina guardada y otras p\u00e1ginas que coincidan con el selector ..."
+        },
+        "f62b09e2a4c1eb3583afe9c213b981c8": {
+            "text": "Selector para encontrar las otras p\u00e1ginas que deben tener su cach\u00e9 borrado."
+        },
+        "dcbec326309994892030ce4aa6f72f75": {
+            "text": "Guarde esta plantilla y luego vuelva aqu\u00ed para configurar su selector."
+        },
+        "711aef464118d5be216c2879591fbb5a": {
+            "text": "Selector de caducidad de cach\u00e9"
+        },
+        "fc5817e1bd14f3acbf2266635b0e30ed": {
+            "text": "Para deshabilitar la cach\u00e9 cuando cualquier variable est\u00e1 presente, ingresa s\u00f3lo un asterisco: * (recomendado)"
+        },
+        "f578ef5a7330291e151dc6052fe85bfe": {
+            "text": "Opcionalmente puede anular la etiqueta predeterminada de la pesta\u00f1a \"Contenido\"."
+        },
+        "5fda5af59d211bd673998a69f051c3f2": {
+            "text": "Opcionalmente, puede reemplazar la etiqueta predeterminada de los \"hijos\""
+        },
+        "4a49f761ce504d9c073de20eba6ca069": {
+            "text": "Opcionalmente puede anular la etiqueta de propiedad \"Nombre\" predeterminada."
+        },
+        "4b5a4101eef9107a93653ecef0418ed1": {
+            "text": "Introduce el nombre de la nueva plantilla que desea crear. El clon se crear\u00e1 cuando guarde. Si el directorio de plantillas es escribible y la plantilla tiene un archivo, tambi\u00e9n se clonar\u00e1."
+        },
+        "4a290c3c1090e21dd600de5f741fa083": {
+            "text": "Acci\u00f3n de campo obligatoria"
+        },
+        "413c8d36faee24af361553c804386428": {
+            "text": "\u00bfQu\u00e9 medidas se deben tomar cuando se guarda una p\u00e1gina ya publicada con un campo que falta?"
+        },
+        "6aa324ce3baf41a239eaa440caba0a51": {
+            "text": "Alerta al usuario del error (predeterminado)"
+        },
+        "df169cc44c2c05b1bc4f79938c03405b": {
+            "text": "Restaurar el valor anterior (cuando est\u00e9 disponible)"
+        },
+        "90ffa24b83a6a28137f9063f7e6cdc4b": {
+            "text": "Despublicar la p\u00e1gina (cuando est\u00e9 permitido)"
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Icono"
+        },
+        "4f50a13dad7a9fb97496e4b62718d3a8": {
+            "text": "Selecciona un icono que se asociar\u00e1 con esta plantilla y las p\u00e1ginas que utilicen esta plantilla (en el administrador)."
+        },
+        "9a4127b29b0b6c40638af21074829f0e": {
+            "text": "Tambi\u00e9n puedes utilizar tu propio formato (y cualquier signo de puntuaci\u00f3n adicional) especificando los nombres de los campos entre par\u00e9ntesis, es decir {nombre}, {categories.title}, etc."
+        },
+        "9c16eb3042fbf6c2b73a21dea122d19e": {
+            "text": "Para especificar una propiedad de un campo, rodea el campo entre par\u00e9ntesis e introduce {field_name.property}, por ejemplo: {categories.title}."
+        },
+        "5c9171f7b16eac3245d2e5f3e79aadbc": {
+            "text": "API: $template->noChangeTemplate = 1; \/\/ o 0 para apagar"
+        },
+        "691edb2dd99517cf0e15dbf596e10cc5": {
+            "text": "API: $template->noUnpublish = 1; \/\/ o 0 para apagar"
+        },
+        "1684cd1767cda6618ed92febec9e78c6": {
+            "text": "API: $template->allowChangeUser = 1; \/\/ o 0 para apagr, por defecto es 0."
+        },
+        "7ee14ea7ba968378f99fb3efa7ac22da": {
+            "text": "API: $template->noMove = 1; \/\/ o 0 para apagar"
+        },
+        "4250b64aabe2bd1f7764377c2f5380c4": {
+            "text": "\u00bfDeseas inhabilitar la compatibilidad con varios idiomas para esta plantilla?"
+        },
+        "109da571222f1c753257a9ea7d9c0f23": {
+            "text": "Cuando est\u00e1 marcada, las p\u00e1ginas que usan esta plantilla solo usar\u00e1n el idioma predeterminado."
+        },
+        "2ae2316266d64c1c1caa543c16fe62bc": {
+            "text": "API: $template->noLang = 1; \/\/ por defecto es 0."
+        },
+        "86c66b6c28f25016de70be40475eb881": {
+            "text": "API: $template->flagSystem = 1; \/\/ o 0 para apagar"
+        },
+        "381e3cba7a92b2d007d0d534a58b17ff": {
+            "text": "API: $template->noGlobal = 1; \/\/ o 0 para apagar"
+        },
+        "e864c0d94cbc5dc0faf1ce78d9021e63": {
+            "text": "API: $template->nameContentTab = 1; \/\/ o 0 para apagar"
+        },
+        "69385004eb4f22d17482beb09e549453": {
+            "text": "API: $template->noTrash = 1; \/\/  o 0 para apagar"
+        },
+        "6a90024dcca935af3329542c3f346229": {
+            "text": "API: $template->noSettings = 1; \/\/ o 0 para apagar"
+        },
+        "06c2cea18679d64399783748fa367bdd": {
+            "text": "Una"
+        },
+        "b4a25e0860ab98f8476c6339abbb773b": {
+            "text": "No m\u00e1s permitidas"
+        },
+        "ad1d924dc261c8945b07d271c9cd5888": {
+            "text": "Las plantillas indicadas con %s tambi\u00e9n deben configurarse para permitir que esta plantilla sea una matriz. Haz clic en cualquier plantilla seleccionada como un acceso directo para configurar los padres permitidos."
+        },
+        "81d8cfa67d7f3fa526cff71bd27238c5": {
+            "text": "Las plantillas indicadas con% s ya est\u00e1n configuradas para permitir que esta plantilla sea una matriz."
+        },
+        "fb3f093ab0572a059120f2c7c680da3c": {
+            "text": "Las plantillas indicadas con% s tambi\u00e9n deben configurarse para permitir esta plantilla para los ni\u00f1os. Haz clic en cualquier plantilla seleccionada como un acceso directo para configurar los ni\u00f1os permitidos."
+        },
+        "173fc4509c54323d4c0da3ffea41742c": {
+            "text": "Las plantillas indicadas con un %s ya est\u00e1n configuradas para permitir esta plantilla como un hijo."
+        },
+        "9351544406147e2f9a081ce279e7f687": {
+            "text": "Para ajustar el orden en que aparecen las plantillas en el men\u00fa de accesos directos, consulte la configuraci\u00f3n del m\u00f3dulo PageAdd."
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "M\u00e1s"
+        },
+        "991dba5ecf8a850b42ffc2e6d0697c2b": {
+            "text": "Si est\u00e1 marcada, las p\u00e1ginas que usan esta plantilla soportar\u00e1n la paginaci\u00f3n."
+        },
+        "4ee65b65a7329e4d76cce40b69075c2d": {
+            "text": "Acceda al n\u00famero de p\u00e1gina actual de los archivos de plantilla con $input->pageNum."
+        },
+        "fb72654fb51cb493c6d0123505d9e596": {
+            "text": "\u00bfDeben las URL de n\u00famero de p\u00e1gina tener una barra inclinada?"
+        },
+        "4295c2949c604273ad18a82924a06684": {
+            "text": "Si est\u00e1 marcada, las p\u00e1ginas que usan esta plantilla admitir\u00e1n segmentos de URL personalizados despu\u00e9s de la URL de la p\u00e1gina."
+        },
+        "3f967ce93af0de3a0457071f3d743f14": {
+            "text": "Acceda a los segmentos de URL actuales de los archivos de plantilla con $input->urlSegmentStr."
+        },
+        "bbd5238aeedba403b7977656d2f132fc": {
+            "text": "\u00bfDeber\u00edan los segmentos de URL terminar con una barra inclinada?"
+        },
+        "85eb71c20f7740fc3bdbf7dfdee2636b": {
+            "text": "\u00bfQu\u00e9 segmentos de URL desea permitir?"
+        },
+        "db2a37c1bdec2b30f0c7c9d789b3bfcc": {
+            "text": "Introduce un segmento permitido, ruta de segmento o expresi\u00f3n regular por l\u00ednea, o dejar en blanco para permitir cualquier."
+        },
+        "2d234a37f1f09a868ff9e51cbec93c0a": {
+            "text": "Esquema\/Protocolo"
+        },
+        "3797b58404902683867d788211ac5ce2": {
+            "text": "\u00bfUsar archivo compilado?"
+        },
+        "e139846cbe34d9fe671e7b5975d367ba": {
+            "text": "Permite a ProcessWire actualizar el archivo de plantilla para el espacio de nombres ProcessWire y aplicar cualquier m\u00f3dulo instalado de FileCompiler."
+        },
+        "d539c03bba4a77f2fb76ab46fa9b93f1": {
+            "text": "Recomiendado al menos para los archivos de plantilla que no usan un espacio de nombres ProcessWire (como los que se originan desde sitios PW 2.x)."
+        },
+        "adab801f8cca3e7d6f780fe4853eb55f": {
+            "text": "Si no est\u00e1 seguro, seleccione \"Auto\"."
+        },
+        "cacd642e8d383be621123210fa6d9d74": {
+            "text": "(deshabilita el compilador)"
+        },
+        "a441d0ada5c25b0aaf68585c3cd98609": {
+            "text": "Auto (compilar cuando el archivo no tiene espacio de nombres)"
+        },
+        "422d6e51e28831664b5c0b701b6c6182": {
+            "text": "(solo archivo de plantilla)"
+        },
+        "ad6d587b4370281434a47d58aaf1e5a5": {
+            "text": "(solo archivo de plantillay archivos incluidos)"
+        },
+        "1d926a6b89b4bc848e3f4ffa3e1bd67d": {
+            "text": "El espacio de nombres de archivo de plantilla detectado es \"% s\"."
+        },
+        "0b506a8d05b70f0f99d7843e1e7ce9c2": {
+            "text": "Compilar recomendado."
+        },
+        "9b404a9b5976b30bf436e218068b3d4d": {
+            "text": "Compilar no es necesario a menos que sea necesario para los m\u00f3dulos o incluye."
+        },
+        "65cee0d2556f206faa5e315e2f165551": {
+            "text": "Encabezado para enviar con salida de archivo de plantilla. Si no se selecciona, ProcessWire no enviar\u00e1 un encabezado de tipo de contenido y en la mayor\u00eda de los casos se supondr\u00e1 texto\/html. Se recomienda seleccionar un tipo de contenido cuando la salida no sea html."
+        },
+        "6540057c786960e596930c3041771293": {
+            "text": "Para agregar m\u00e1s tipos de contenido, vea contentTypes en \/wire\/config.php (y agr\u00e9galos en \/site\/config.php)."
+        },
+        "07bbc1cae53fb8d26759b5564e6a5824": {
+            "text": "Esta opci\u00f3n deshabilita la configuraci\u00f3n $config->prependTemplateFile en \/site\/config.php s\u00f3lo para esta plantilla."
+        },
+        "438f365e84607c69184559ff2e9d974b": {
+            "text": "Esta opci\u00f3n deshabilita la configuraci\u00f3n $config->appendTemplateFile en \/site\/config.php s\u00f3lo para esta plantilla."
+        },
+        "57f844c4a5ccb54207fa22705e7729a3": {
+            "text": "Introduzca la URL o la ID de p\u00e1gina a la que desea redirigir cuando un usuario no tenga acceso"
+        },
+        "724da4546b6908025f8a9fa99885297f": {
+            "text": "API Nota: Esta configuraci\u00f3n afecta a los resultados devueltos por $psges->find(), $page->children() y otras funciones que devuelven PageArrays."
+        },
+        "ba9f2559a3fd0e360488de130ff7ab73": {
+            "text": "\u00bfPermitir que el acceso relacionado con la edici\u00f3n hereda a los ni\u00f1os?"
+        },
+        "ef4a1860dd8847a43619b6ca5f26e638": {
+            "text": "De forma predeterminada, todas las configuraciones de acceso en esta plantilla heredan a trav\u00e9s del \u00e1rbol de p\u00e1ginas hasta que una p\u00e1gina que utiliza otra plantilla controlada por acceso lo reemplace."
+        },
+        "6aee0c8c870a84f930c97c2eb1427c8d": {
+            "text": "Eliegir la opci\u00f3n \"No\" aqu\u00ed si deseas evitar que el acceso relacionado con la edici\u00f3n sea heredado m\u00e1s all\u00e1 de las p\u00e1ginas usando esta plantilla. El acceso de vista seguir\u00e1 heredando de cualquier manera."
+        },
+        "2678dd0fb63b2adfb38fe14f66d6c6b5": {
+            "text": "Permitir que el acceso relacionado con la edici\u00f3n herede a los hios que no tienen acceso controlado"
+        },
+        "1dee747820c27fbdc81384045a54c8c3": {
+            "text": "Limitar el acceso relacionado con la edici\u00f3n a las p\u00e1ginas que utilicen esta plantilla \u00fanicamente"
+        },
+        "8b961334d86b2e4afdb29a825b7537f5": {
+            "text": "Nota: las opciones de edici\u00f3n\/creaci\u00f3n\/adici\u00f3n est\u00e1n deshabilitadas para funciones que actualmente no tienen permiso de edici\u00f3n de p\u00e1ginas."
+        },
+        "34aeb942ccc5860ae5af2885bf346a5d": {
+            "text": "Otros permisos de edici\u00f3n y reemplazos"
+        },
+        "5cd4a0ea4859ae8a1371ded392cfff3b": {
+            "text": "Opcionalmente, agregar o revocar los permisos asignados a cada funci\u00f3n cuando se le solicita una p\u00e1gina que utilice esta plantilla (o que hereda el acceso de ella)."
+        },
+        "f0ec91a2ccc29fee4de702e940b186a8": {
+            "text": "Las opciones disponibles aqu\u00ed est\u00e1n determinadas por sus opciones de \"Editar p\u00e1ginas\" anteriores. Como resultado, debes guardar esta plantilla y volver aqu\u00ed despu\u00e9s de realizar cambios en los roles con el acceso \"Editar p\u00e1ginas\" arriba."
+        },
+        "b50d7f1673d8d8694f84094c093718df": {
+            "text": "Las opciones se muestran en el formato \"rol: permiso\". Para obtener una descripci\u00f3n de lo que hace cada permiso, vea la [referencia de permisos](%s)."
+        },
+        "a1066ecb03f6d2dfa02c658ba45dc08a": {
+            "text": "A\u00f1adir permisos por rol"
+        },
+        "3d7582ad0b178e43f075e25248efdc12": {
+            "text": "Revocar permisos por role"
+        },
+        "e2cbec4ffca6b29170e0a79d38d2b6dd": {
+            "text": "Cambiar el nombre de la plantilla omitida: completar esta acci\u00f3n despu\u00e9s de la acci\u00f3n actual."
+        },
+        "dd086c8dc23fef8fb9543424864aa9cb": {
+            "text": "Nombre de plantilla especificado  para clonar no v\u00e1lido"
+        },
+        "ab64903a1bc47ab8cf1767e8d6581c2d": {
+            "text": "No se puede clonar porque ya existe una plantilla con ese nombre"
+        },
+        "0ce8e11f27f5cff906b08ff533da5567": {
+            "text": "Clon creado de la plantilla \"%1$s\" denominado \"%2$s\"."
+        },
+        "363b220544077dba6890921e123486dc": {
+            "text": "Error con la colocaci\u00f3n del conjunto de campos\/pesta\u00f1a \"%s\" - corrigelo y guarda de nuevo"
+        },
+        "62596dd3b1918d492b97f5945dc8aea8": {
+            "text": "Ha cambiado el grupo de campos de plantilla a: %s"
+        },
+        "b58b1fada0411080ca80b5199d2e56ce": {
+            "text": "Eliminar campos de la plantilla: %s"
+        },
+        "b82a3ccab15c9f7ea79ccae4fb4b7c3a": {
+            "text": "Eliminar campos de la plantilla"
+        },
+        "ea24ff7efc7e185e1c6f8d52266fefdc": {
+            "text": "No se puede cambiar el nombre de \"%1$s\" a \"%2$s\" en el directorio \"%3$s\". Debe cambiar el nombre del archivo manualmente en su sistema de archivos."
+        },
+        "cbb29209ccd6a869e389572e793b1f1b": {
+            "text": "El archivo de plantilla \"%1$s\" no se encontr\u00f3 en el directorio \"%2$s\". Debe cambiar el nombre del archivo \"%3$s\" a \"%1$s\" manualmente en su sistema de archivos."
+        },
+        "f7c1d3ba270aa43fe36e00ee3a1e9718": {
+            "text": "Confirmar que deseas cambiar el nombre de esta plantilla marcando la casilla de abajo."
+        },
+        "82ae9be0c318ed67592703448c77d4d6": {
+            "text": "El archivo de plantilla \"%s\" parece escribible, por lo que intentaremos cambiarle el nombre cuando haga clic en Enviar."
+        },
+        "df3f89873c6527f24453345a6b7f263f": {
+            "text": "El archivo de plantilla \"%1$s\" no se puede escribir. Por favor, cambie el nombre de ese archivo a \"%2$s\" antes de hacer clic en enviar."
+        },
+        "29a2d50c9d90354a16943888d8e700da": {
+            "text": "Se elimin\u00f3 el campo \"%1$s\" de la plantilla\/grupo de campos \"%2$s\""
+        },
+        "da49c8bb3f9748634bedc77fac9221f9": {
+            "text": "Agreg\u00f3 el campo \"%1$s\" a la plantilla\/grupo de campos \"%2$s\""
+        },
+        "b81ec9ff37dd594fd51bb7b72bc82e34": {
+            "text": "no-archivo"
+        },
+        "ce74097d91e1181f033e39e38736dd5a": {
+            "text": "cache"
+        },
+        "0630333bf0b09b371182fe756dec526a": {
+            "text": "segmentos URL"
+        },
+        "ff2e33d2066471fd192bf41c39322cd1": {
+            "text": "Cach\u00e9"
+        },
+        "03a481d8869ea4aa815e15943c4577dd": {
+            "text": "Grupo de campos"
+        },
+        "3050063a3917b13308a0470879b3259f": {
+            "text": "Etiqueta para la pesta\u00f1a Contenido"
+        },
+        "7b5a26bd066cf9716b38372f73408f10": {
+            "text": "Etiqueta para la pesta\u00f1a hijos"
+        },
+        "13138fdee141d39a065f3fe82c0e0676": {
+            "text": "Etiqueta para la propiedad Nombre de P\u00e1gina"
+        },
+        "afd2f2d22bac5fd1faf1abf753685366": {
+            "text": "Rol"
+        },
+        "860024d803b29185e2cb90399cc73599": {
+            "text": "Esta plantilla es utilizada por %d p\u00e1ginas"
+        },
+        "9fa7e7b76dafb5ffcb0b9bfbba9a65fd": {
+            "text": "%d p\u00e1gina"
+        },
+        "207ab96f9895f87f78f6c6162f323a4f": {
+            "text": "%d p\u00e1ginas"
         }
     }
 }
