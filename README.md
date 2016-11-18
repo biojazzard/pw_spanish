@@ -2,9 +2,11 @@
 
 With Love, made by [1un.es](https://1un.es) | Internet Donosaurs 
 
-![](1unes-internet-dinosaurs.png)
+![](https://raw.githubusercontent.com/biojazzard/pw_spanish/master/1unes-internet-dinosaurs.png)
 
 ## About this translation.
+
+### 100% Translated.
 
 This translation uses the second person in direct mode: "TU" instead of "USTED", as it is used in Spain.
 In Latin America the second form is more used, but in Spain is considered too correct and is used to address the authorities.
