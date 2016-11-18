@@ -2,8 +2,6 @@
 
 With Love, made by [1un.es](https://1un.es) | Internet Donosaurs 
 
-![](https://raw.githubusercontent.com/biojazzard/pw_spanish/master/1unes-internet-dinosaurs.png)
-
 ## About this translation.
 
 ### 100% Translated.
