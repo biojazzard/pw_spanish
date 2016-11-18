@@ -2,8 +2,11 @@
     "file": "wire\/core\/Inputfield.php",
     "textdomain": "wire--core--inputfield-php",
     "translations": {
+        "efdf8051d64766330e13627274b01787": {
+            "text": "Las condiciones se expresan con un selector \"field=value\" que contiene campos y valores para coincidir. Las condiciones m\u00faltiples deben estar separadas por una coma."
+        },
         "2d7ff3fa8a1a844b270d96878d358762": {
-            "text": "Saber m\u00e1s sobre [como usar esto](http:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/)."
+            "text": "Lea m\u00e1s acerca de c\u00f3mo usar esto."
         },
         "1729a56cfc89021478498fe0c89a843a": {
             "text": "Visibilidad"
@@ -12,58 +15,64 @@
             "text": "Presentaci\u00f3n"
         },
         "49632d1c8309d42371ab31fe84d56c91": {
-            "text": "Como se mostrar\u00e1 este campo en el editor?"
+            "text": "\u00bfC\u00f3mo se debe mostrar este campo en el editor?"
         },
-        "604b97c67341baddd9547c714add721c": {
-            "text": "Siempre abierto (por defecto)"
+        "c3bf447eabe632720a3aa1a7ce401274": {
+            "text": "Abierto"
         },
-        "c412235f3700a685388546e557292a7e": {
-            "text": "Siempre abierto y nunca se puede cerrar."
+        "0d2d71d5551271c673df720e61b08cf8": {
+            "text": "Abierto + No se puede cerrar"
         },
-        "d7a1a486818eebace651ff191e42984f": {
-            "text": "Cerrado solo cuando est\u00e1 en blanco"
+        "5995da1dbd9a2df5487ab0324f2d4a01": {
+            "text": "Abierto si se rellena + Cerrado cuando est\u00e1 vac\u00edo"
         },
-        "996d9abb10eeff734a994fcd5b449db6": {
-            "text": "Cerrado solo cuando tiene contenido"
+        "e75c5e5c17a86f893fac8d2b7b7a3762": {
+            "text": "Abierto si se rellena + Cerrado cuando est\u00e1 vac\u00edo + Cargar cuando se abra (AJAX)"
         },
-        "c0b4e286b96d6d694cb7ecb152fe3e9d": {
-            "text": "Siempre cerrado, requiere un click para abrir"
+        "3a28674fd51f34234723d80de10c6382": {
+            "text": "Abierto si se rellena + Cerrado cuando est\u00e1 vac\u00edo + Bloqueado (no editable)"
         },
-        "8263d549648f539508587a67f38d008b": {
-            "text": "Oculto, no se muestra en el editor"
+        "2f6f6a0f0c4157d8a5174b75063ba0e2": {
+            "text": "Abierto cuando est\u00e1 vac\u00edo + Cerrado si se rellena"
         },
-        "3c5df14c7c43b1d43c41b15476154474": {
-            "text": "Siempre cerrado y no es editable (bloqueado)"
+        "3567554c6ab1f1648a4b4ecbbbb4733d": {
+            "text": "Cerrado"
         },
-        "5b6a6f08f86510a9580df3bb8b31bb2a": {
-            "text": "Abierto cuando tiene contenido y no es editable (bloqueado)"
+        "9101591614e0d079e052d9cbf4e1c203": {
+            "text": "Cerrado + Cargar cuando se abra (AJAX)"
         },
-        "3cfa4a6238e2b559d3f52474e7545485": {
-            "text": "Mostrar este campo solo si..."
+        "cb6df4e080dea0319f74d565e587c2b5": {
+            "text": "Las opciones indicadas con% s pueden no funcionar con todos los tipos de entrada o ubicaciones, prueba para asegurar la compatibilidad."
+        },
+        "2145d1256ac3cfac3444b42d04572b4e": {
+            "text": "Ocultos (no se muestra en el editor)"
+        },
+        "44158720c6f7deaff17b2430d3d31254": {
+            "text": "Mostrar este campo s\u00f3lo si"
         },
         "3b57940d51a0ed7f2d5c49363114bd0e": {
-            "text": "Introduce las condiciones abajo para que el campo se muestre..."
+            "text": "Introducir las condiciones bajo las cuales se mostrar\u00e1 el campo."
         },
         "a785c32894aad6d7c1dc826a4bc0a4a3": {
-            "text": "Ancho de la columna  (%d%%)"
+            "text": "Ancho de Columna (%d%%)"
         },
         "0eb0b305235144ffe99e247b24200b09": {
-            "text": "El porcentaje puede ser de 10% a 100%. Se crear\u00e1n columnas flotantes y se rellenan si sobra espacio entre ellas."
+            "text": "El porcentaje de ancho del contenedor de este campo (10% -100%). Si se coloca junto a otros campos con anchos reducidos, crear\u00e1 columnas flotantes."
         },
         "8387772e28e9c2b81fa8cb674e569663": {
-            "text": "Nota: No todos los campos permiten anchuras reducidas. Debes comprobar el resultado."
+            "text": "Tenga en cuenta que no todos los campos funcionar\u00e1n con anchos reducidos, por lo que debe probar el resultado despu\u00e9s de cambiarlo."
         },
         "6e18e908568ef24580d93bfd3e0f40d7": {
-            "text": "\u00bfObligatorio?"
+            "text": "\u00bfRequerido?"
         },
         "c48c7243fc307fd425df738c9f0f4324": {
-            "text": "Si se checka este campo ser\u00e1 obligatorio"
+            "text": "Si est\u00e1 marcada, se requerir\u00e1 un valor para este campo."
         },
-        "8183d67b5c53c5fb254741c64ae6f98d": {
-            "text": "Obligatorio solo si..."
+        "c1d71aa80e02ee67489431d11e5f58a8": {
+            "text": "Requerido s\u00f3lo si"
         },
         "bb0df4a2d5e0d99eaba53f152ff7f0f7": {
-            "text": "Introduce las condiciones para que este campo sea obligatorio."
+            "text": "Introducir las condiciones bajo las cuales se requerir\u00e1 un valor para este campo."
         }
     }
 }

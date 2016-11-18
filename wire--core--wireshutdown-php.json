@@ -1,0 +1,75 @@
+{
+    "file": "wire\/core\/WireShutdown.php",
+    "textdomain": "wire--core--wireshutdown-php",
+    "translations": {
+        "902b0d55fddef6f8d651fe1035b7d4bd": {
+            "text": "Error"
+        },
+        "0eaadb4fcb48a0a0ed7bc9868be9fbaa": {
+            "text": "Advertencia"
+        },
+        "fbc1408168142b8b97a61ea5ec60604c": {
+            "text": "Error de an\u00e1lisis"
+        },
+        "24efa7ee4511563b16144f39706d594f": {
+            "text": "Nota"
+        },
+        "3e6a4da1a99015053b9f348a972ed817": {
+            "text": "Error de n\u00facleo"
+        },
+        "4077864c6efba13ed744a934c75c7a70": {
+            "text": "Advertencia de n\u00facleo"
+        },
+        "a124cf63bf9447b8860734235130c4d0": {
+            "text": "Error de compilaci\u00f3n"
+        },
+        "89df0e5d8d2d164fecb95168ec427b22": {
+            "text": "Advertencia de compilaci\u00f3n"
+        },
+        "dc59167792b6cc1035058bd91b38387a": {
+            "text": "Advertencia de usuario"
+        },
+        "4de99cbd6894308655b99aad3a328406": {
+            "text": "Nota de usuario"
+        },
+        "20fa2ae21e1e86068218568c8ed8619e": {
+            "text": "Advertencia Extricta"
+        },
+        "ff9b211b885af35007a56bc02c64cad8": {
+            "text": "Error Fatal Recuperable"
+        },
+        "ca8b21d06668c2193b3df3d8152240ec": {
+            "text": "Se ha registrado un error."
+        },
+        "3653d35665e4ff97b9050e57a1399221": {
+            "text": "Se ha notificado al administrador."
+        },
+        "e21ccea621de7c85101603acf22c9c79": {
+            "text": "el sitio est\u00e1 en modo de depuraci\u00f3n."
+        },
+        "9e1be4a2ee25755f837aeab9f49549e0": {
+            "text": "Est\u00e1 utilizando la l\u00ednea de comandos API"
+        },
+        "94e7fb752e3990f6f676ffd6b9a42c46": {
+            "text": "Ha iniciado sesi\u00f3n como superusuario."
+        },
+        "7d0312c35f60f9727688c5d442054eaa": {
+            "text": "Install.php todav\u00eda existe."
+        },
+        "1755ef83b3130baa9854b28e4990b8d5": {
+            "text": "El superusuario nunca ha iniciado sesi\u00f3n."
+        },
+        "c3fde2eafc84400451d402a88c4e2efa": {
+            "text": "Este mensaje de error se mostr\u00f3 porque:"
+        },
+        "a9daf300020946318d20c57492171e60": {
+            "text": "No se pudo completar esta solicitud debido a un error."
+        },
+        "6cb11cdff5ec8f7ab2a0cc4cb5635097": {
+            "text": "Notificaci\u00f3n de Error de ProcessWire"
+        },
+        "f4af86e3db12bdead0c6b4f370e361de": {
+            "text": "(l\u00ednea %d de %s)"
+        }
+    }
+}

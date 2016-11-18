@@ -1,0 +1,39 @@
+{
+    "file": "wire\/core\/ImageSizerEngine.php",
+    "textdomain": "wire--core--imagesizerengine-php",
+    "translations": {
+        "4aede3b538343c5323a0f900ca4fa255": {
+            "text": "Prioridad del motor"
+        },
+        "3d50ad624e49f81b1f9f836a3b70b57c": {
+            "text": "Esto determina en qu\u00e9 orden se trata este motor en relaci\u00f3n con otros m\u00f3dulos de ImageSizerEngine."
+        },
+        "7556d21eaf163cc3e4019e7c065df022": {
+            "text": "Cuanto menor sea el n\u00famero, m\u00e1s preferencia le dar\u00e1."
+        },
+        "c57c3b5a8e7466e2c2940704b60d2a42": {
+            "text": "Si tienes otros m\u00f3dulos ImageSizerEngine instalados, aseg\u00farate de que no hay dos que tengan la misma prioridad."
+        },
+        "1e97e73f1e45d465e23a2ea172bc3355": {
+            "text": "Nitidez"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ninguno"
+        },
+        "682160fc6ad12f783f70608a9b46b9b9": {
+            "text": "Suave"
+        },
+        "87f8a6ab85c9ced3702b4ea641ad4bb5": {
+            "text": "medio"
+        },
+        "c43e0fd449c758dab8f891d8e19eb1a9": {
+            "text": "Fuerte"
+        },
+        "571094bb27864b600d8e6b561a137a55": {
+            "text": "Calidad"
+        },
+        "c602090a02c41e9f67961fd513166846": {
+            "text": "Ajuste de calidad predeterminado de 1 a 100 donde 1 es la calidad m\u00e1s baja y 100 es la m\u00e1s alta."
+        }
+    }
+}

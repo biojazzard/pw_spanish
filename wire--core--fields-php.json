@@ -2,8 +2,17 @@
     "file": "wire\/core\/Fields.php",
     "textdomain": "wire--core--fields-php",
     "translations": {
-        "af612cfedc5c2ba10ff82e4ccf69e936": {
-            "text": "Borrado el campo \"%s\" y los datos de %d p\u00e1ginas."
+        "e1658097cf747de4696d2515e2e8b9a0": {
+            "text": "p\u00e1gina-a-p\u00e1gina"
+        },
+        "68d1cb3da7a618bf1997d9d5149ae24a": {
+            "text": "petici\u00f3n-simple"
+        },
+        "0c6ba1befbcac7213ccc923d1ecf573a": {
+            "text": "Campo eliminado \"%1$s\" en %2$d fila(s) de %3$d p\u00e1gina(s)."
+        },
+        "b9e9528a32781ceaefec638ec3bfa62e": {
+            "text": "Error al eliminar el campo \"%1$s\" datos, %2$d fila(s), %3$d p\u00e1gina(s)."
         }
     }
 }

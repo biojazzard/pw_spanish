@@ -3,25 +3,25 @@
     "textdomain": "wire--core--fieldselectorinfo-php",
     "translations": {
         "0ccb67e7eaae09d9e4078d161eeca100": {
-            "text": "Igual"
+            "text": "Igual a"
         },
         "fb83c9b66919b4a757a43a807b6af2cf": {
-            "text": "No es igual"
+            "text": "No igual a"
         },
         "7288454fa442d48bc741c5cbadc2621b": {
             "text": "Mayor que"
         },
         "45ed1ce04bcf6003d4702422e1221c85": {
-            "text": "Menor que"
+            "text": "menor que"
         },
         "948f7ffb9d1e26622df83711e20e2fb2": {
-            "text": "Mayor o igual que"
+            "text": "Mayor o igual"
         },
         "189ce8ec24447eef9869d18043c9e303": {
-            "text": "Menor o igual que"
+            "text": "Menor o igual"
         },
         "7842f2dabc6c53dca4319818c88ebeb9": {
-            "text": "Contiene el texto"
+            "text": "Contiene el tetxo"
         },
         "8354008c16032b35e36589957a3bd65f": {
             "text": "Contiene la frase"
@@ -33,13 +33,13 @@
             "text": "Empieza por"
         },
         "3ad33d3cec01f7125e3cd0575cada7ef": {
-            "text": "Acaba con"
+            "text": "Acaba en"
         },
         "78c143802119a85c9774c0459240085d": {
-            "text": "Est\u00e1 vacio"
+            "text": "Est\u00e1 vac\u00edo"
         },
         "cbe0970a192d6df9999f4469f0854984": {
-            "text": "No est\u00e1 vacio"
+            "text": "No est\u00e1 vac\u00edo"
         }
     }
 }

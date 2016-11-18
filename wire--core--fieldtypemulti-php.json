@@ -3,7 +3,34 @@
     "textdomain": "wire--core--fieldtypemulti-php",
     "translations": {
         "e2942a04780e223b215eb8b663cf5353": {
-            "text": "Contar"
+            "text": "total"
+        },
+        "0f87dcdd9cbafb48e5d9e444ba7c14a7": {
+            "text": "\u00d3rden y Paginaci\u00f3n"
+        },
+        "7f99274f686fafb79a69fb49fd22b087": {
+            "text": "Estas opciones se aplican tanto al front-end (sitio) como al back-end (editor)."
+        },
+        "bfc4400f3a3f1f3ad8647c7391cc3f1c": {
+            "text": "(inverso)"
+        },
+        "1785200c818e6b465cab76d18f05aa40": {
+            "text": "\u00d3rden autom\u00e1tico"
+        },
+        "c1e2087d761e1449f626c96d45bb1c3e": {
+            "text": "Seleccionar uno o m\u00e1s campos para ordenarlos a continuaci\u00f3n. Para ordenar manualmente, dejar este ajuste en blanco."
+        },
+        "53fc83e55c6d5a04fd63ffe5c4e90d1c": {
+            "text": "L\u00edmite de paginaci\u00f3n \/ elementos por p\u00e1gina"
+        },
+        "cc4713abaa08f23ce8f1a1143a04ee77": {
+            "text": "Esto limita el n\u00famero de elementos cargados \/ editados por paginaci\u00f3n. El valor \"0\" indica que no hay l\u00edmite (predeterminado)."
+        },
+        "0b01fc6afe7ee324751846ccf0dfc735": {
+            "text": "La Paginaci\u00f3n se recomienda si va a trabajar con cientos o miles de art\u00edculos (o m\u00e1s)."
+        },
+        "ab7c5fc204d8e160a7b731a0799bf450": {
+            "text": "Este ajuste no surtir\u00e1 efecto a menos que se seleccione \"\u00d3rden autom\u00e1tico\"."
         }
     }
 }

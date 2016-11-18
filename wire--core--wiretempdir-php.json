@@ -3,10 +3,10 @@
     "textdomain": "wire--core--wiretempdir-php",
     "translations": {
         "fcecae7cd3a639caff1a6a7c895c954d": {
-            "text": "No se puede crear el directorio temp"
+            "text": "No se puede crear el directorio temporal"
         },
         "5d73c732a700aaa27e07ffd0f638ecc8": {
-            "text": "No se puede eliminar el directorio temp"
+            "text": "No se puede eliminiar el directorio temporal"
         }
     }
 }

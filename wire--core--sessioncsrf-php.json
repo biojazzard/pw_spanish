@@ -3,7 +3,7 @@
     "textdomain": "wire--core--sessioncsrf-php",
     "translations": {
         "f5456cee91779e33a9f38ddca5081710": {
-            "text": "Esta solicitud fue abortada porque parece ser falsa."
+            "text": "Esta solicitud fue abortada porque parece falsificada."
         }
     }
 }

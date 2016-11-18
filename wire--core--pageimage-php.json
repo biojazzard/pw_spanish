@@ -3,7 +3,7 @@
     "textdomain": "wire--core--pageimage-php",
     "translations": {
         "9553357878f83f4cfb2ef8f0917ae894": {
-            "text": "No se puede instalar imagen inv\u00e1lida"
+            "text": "No se puede instalar una imagen no v\u00e1lida"
         }
     }
 }

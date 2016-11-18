@@ -6,7 +6,16 @@
             "text": "Cach\u00e9 guardada"
         },
         "a188964d2912198a985f7bcd9564c530": {
-            "text": "Cach\u00e9 vaciada"
+            "text": "Cach\u00e9 borrada"
+        },
+        "8a4a48cd3a709f985d5ea015c2db76c0": {
+            "text": "Mantenimiento general ha caducado %d cache(s)"
+        },
+        "f64daf743a238aa0cd75ee82bff43332": {
+            "text": "Mantenimiento ha caducado %d cach\u00e9(s) para la p\u00e1gina guardada"
+        },
+        "fb00a11e56682a1fc9456f910b1ebcff": {
+            "text": "Mantenimiento ha caducado %d cach\u00e9(s) para la plantilla guardada"
         }
     }
 }

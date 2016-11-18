@@ -3,7 +3,10 @@
     "textdomain": "wire--core--inputfieldwrapper-php",
     "translations": {
         "d6a6d393040fe53b20243c9abeee036b": {
-            "text": "Se ha olvidado un campo obligatorio"
+            "text": "Falta el valor requerido"
+        },
+        "474306ce3c500f0bce3fb8891a2401cb": {
+            "text": "Alternar abrir\/cerrar"
         }
     }
 }

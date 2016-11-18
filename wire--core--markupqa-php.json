@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/MarkupQA.php",
+    "textdomain": "wire--core--markupqa-php",
+    "translations": {
+        "2c8c8cc955bc953e099536d83ba3f9be": {
+            "text": "est\u00e1 en la papelera"
+        },
+        "bb07bf84b3c2188ebdc8883e128685f8": {
+            "text": "No se pudo resolver el enlace de la p\u00e1gina %1$s en el campo \"%2$s\":%3$s"
+        },
+        "82767b749996ed727738e156e277919f": {
+            "text": "Recreada la variaci\u00f3n de imagen"
+        },
+        "e7f0084e8dc972e4cd7d238f17f5cbce": {
+            "text": "No se puede volver a crear la variaci\u00f3n de imagen"
+        }
+    }
+}

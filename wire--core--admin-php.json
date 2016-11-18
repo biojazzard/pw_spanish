@@ -1,0 +1,21 @@
+{
+    "file": "wire\/core\/admin.php",
+    "textdomain": "wire--core--admin-php",
+    "translations": {
+        "657e7a4fc0a8b4f44a06c216edf02d64": {
+            "text": "Host HTTP no reconocido:"
+        },
+        "b6823820033b6cf18c3aa27d252861e0": {
+            "text": "Actualiza lu configuraci\u00f3n $config->httpHosts en \/site\/config.php"
+        },
+        "d959bbe25cc020e2db5276cb42927c7c": {
+            "text": "leer m\u00e1s"
+        },
+        "af1595f0c5186db6cc35577429366e6d": {
+            "text": "Esta p\u00e1gina no tiene ning\u00fan proceso asignado."
+        },
+        "905d286d5f512b563448eedeb744206d": {
+            "text": "El proceso no devolvi\u00f3 contenido."
+        }
+    }
+}

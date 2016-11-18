@@ -2,11 +2,14 @@
     "file": "wire\/core\/Process.php",
     "textdomain": "wire--core--process-php",
     "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "A\u00f1adir Nueva"
+        },
         "bc9f744abfdf0bc1b077c89e04c5cae3": {
-            "text": "Se ha creado: %s"
+            "text": "P\u00e1gina Creada: %s"
         },
         "c4fd0f5e619f884597a0c81ab468001f": {
-            "text": "Se ha movido a la papelera: %s"
+            "text": "P\u00e1gina Eliminada: %s"
         }
     }
 }
