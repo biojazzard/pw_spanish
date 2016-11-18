@@ -96,7 +96,7 @@
             "text": "La p\u00e1gina sin publicar %1$sno se permite en el campo \"%2$s\""
         },
         "1cc510dea04a978b3bb88514582eea6c": {
-            "text": "Para permitir p\u00e1ginas no publicadas, edite el campo \"% s\" y vea el ajuste en la pesta\u00f1a \"Avanzado\"."
+            "text": "Para permitir p\u00e1ginas no publicadas, edite el campo \"%s\" y vea el ajuste en la pesta\u00f1a \"Avanzado\"."
         },
         "3d9e8a4318894ce247ba920c7961d5da": {
             "text": "Si bien esto reemplaza las selecciones de padre y plantilla anteriores, esas selecciones todav\u00eda se utilizan para la validaci\u00f3n (de-seleccione si no desea este comportamiento)."

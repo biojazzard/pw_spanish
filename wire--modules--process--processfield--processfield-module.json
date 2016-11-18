@@ -78,7 +78,7 @@
             "text": "Eliminar %d filas hu\u00e9rfanas de la tabla?"
         },
         "4ac3deb7dc60a1b4770ad126c84171f7": {
-            "text": "* Indica que el campo est\u00e1 reemplazando un valor predeterminado. La configuraci\u00f3n que especifique en esta pantalla reemplaza los valores predeterminados s\u00f3lo cuando se utiliza con la plantilla \"% s\"."
+            "text": "* Indica que el campo est\u00e1 reemplazando un valor predeterminado. La configuraci\u00f3n que especifique en esta pantalla reemplaza los valores predeterminados s\u00f3lo cuando se utiliza con la plantilla \"%s\"."
         },
         "c64f8a38fc13441f6cc860a4cbae887a": {
             "text": "Eliminar campo"
@@ -375,7 +375,7 @@
             "text": "Hacer que el valor del campo sea accesible desde la API aunque no se pueda ver (ver abajo) *"
         },
         "517e6c314a1ee61caa35000768dca057": {
-            "text": "Cuando un campo no es visible (en el front-end con formato de salida activado), el valor $page ->%s ser\u00e1 una versi\u00f3n en blanco del tipo esperado, lo que impide que se muestre el valor."
+            "text": "Cuando un campo no es visible (en el front-end con formato de salida activado), el valor $page->%s ser\u00e1 una versi\u00f3n en blanco del tipo esperado, lo que impide que se muestre el valor."
         },
         "5dab87f5242c802765e397e82db0840b": {
             "text": "Marcar la casilla de arriba para omitir este comportamiento, haciendo que el valor siempre sea accesible. Esto te dejar\u00e1 hacer cualquier comprobaci\u00f3n de acceso."

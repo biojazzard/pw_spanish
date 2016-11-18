@@ -252,7 +252,7 @@
             "text": "Formato de Nombre de p\u00e1gina"
         },
         "8a396099e3eecefcbbbbac1715a464de": {
-            "text": "Opcionalmente, especificar un formato para los nombres de p\u00e1gina utilizados cuando se a\u00f1ade una nueva p\u00e1gina. Esto permite que el paso \"Agregar p\u00e1gina\" se salte al agregar una nueva p\u00e1gina. Para trabajar, la plantilla usada por la p\u00e1gina principal debe definir esta plantilla (% s) como la \u00fanica permitida para los hijos (vea la pesta\u00f1a \"familia\" en la plantilla usada por el padre)."
+            "text": "Opcionalmente, especificar un formato para los nombres de p\u00e1gina utilizados cuando se a\u00f1ade una nueva p\u00e1gina. Esto permite que el paso \"Agregar p\u00e1gina\" se salte al agregar una nueva p\u00e1gina. Para trabajar, la plantilla usada por la p\u00e1gina principal debe definir esta plantilla (%s) como la \u00fanica permitida para los hijos (vea la pesta\u00f1a \"familia\" en la plantilla usada por el padre)."
         },
         "6058394e74833c97153b0edaec2fb369": {
             "text": "Puedes ingresar cualquier texto que desees aqu\u00ed. Cuando se crea una nueva p\u00e1gina y el nombre no es \u00fanico, se a\u00f1adir\u00e1 un n\u00famero incrementado hasta el final hasta que sea \u00fanico."
@@ -393,10 +393,10 @@
             "text": "Nombre de archivo de la plantilla, si es diferente a: %s"
         },
         "217ca16c1e160b229a71c244512c3d4d": {
-            "text": "Se supone que los archivos de plantillas est\u00e1n en el directorio:% s"
+            "text": "Se supone que los archivos de plantillas est\u00e1n en el directorio: %s"
         },
         "043008c261f9d0e109c03ab63e047bcd": {
-            "text": "Se supone que la extensi\u00f3n del archivo de plantilla es:% s"
+            "text": "Se supone que la extensi\u00f3n del archivo de plantilla es: %s"
         },
         "52ca64db1f0ca50831b3af91db6cd643": {
             "text": "Anteponer Archivo"
@@ -411,10 +411,10 @@
             "text": "Archivo que desea a\u00f1adir al archivo de plantilla en la p\u00e1gina de render. Debe ser relativa a \/ sitio \/ templates \/."
         },
         "ab6b38f8849f9837a2fbb24721ab5e99": {
-            "text": "Inhabilitar el prefijo autom\u00e1tico del archivo:% s"
+            "text": "Inhabilitar el prefijo autom\u00e1tico del archivo: %s"
         },
         "95dac43782405c335b194c4f4ff28436": {
-            "text": "Deshabilitar la agregaci\u00f3n autom\u00e1tica del archivo:% s"
+            "text": "Deshabilitar la agregaci\u00f3n autom\u00e1tica del archivo: %s"
         },
         "707380d7bcc2ece9eead5a5879fb1c22": {
             "text": "\u00bfDeseas administrar la vista y el acceso de edici\u00f3n de las p\u00e1ginas que utilizan esta plantilla?"
@@ -777,10 +777,10 @@
             "text": "Las plantillas indicadas con %s tambi\u00e9n deben configurarse para permitir que esta plantilla sea una matriz. Haz clic en cualquier plantilla seleccionada como un acceso directo para configurar los padres permitidos."
         },
         "81d8cfa67d7f3fa526cff71bd27238c5": {
-            "text": "Las plantillas indicadas con% s ya est\u00e1n configuradas para permitir que esta plantilla sea una matriz."
+            "text": "Las plantillas indicadas con %s ya est\u00e1n configuradas para permitir que esta plantilla sea una matriz."
         },
         "fb3f093ab0572a059120f2c7c680da3c": {
-            "text": "Las plantillas indicadas con% s tambi\u00e9n deben configurarse para permitir esta plantilla para los ni\u00f1os. Haz clic en cualquier plantilla seleccionada como un acceso directo para configurar los ni\u00f1os permitidos."
+            "text": "Las plantillas indicadas con %s tambi\u00e9n deben configurarse para permitir esta plantilla para los ni\u00f1os. Haz clic en cualquier plantilla seleccionada como un acceso directo para configurar los ni\u00f1os permitidos."
         },
         "173fc4509c54323d4c0da3ffea41742c": {
             "text": "Las plantillas indicadas con un %s ya est\u00e1n configuradas para permitir esta plantilla como un hijo."
@@ -843,7 +843,7 @@
             "text": "(solo archivo de plantillay archivos incluidos)"
         },
         "1d926a6b89b4bc848e3f4ffa3e1bd67d": {
-            "text": "El espacio de nombres de archivo de plantilla detectado es \"% s\"."
+            "text": "El espacio de nombres de archivo de plantilla detectado es \"%s\"."
         },
         "0b506a8d05b70f0f99d7843e1e7ce9c2": {
             "text": "Compilar recomendado."

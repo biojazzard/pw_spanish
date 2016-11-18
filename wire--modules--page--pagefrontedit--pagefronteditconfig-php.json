@@ -99,7 +99,7 @@
             "text": "Opci\u00f3n B: llamada al m\u00e9todo API"
         },
         "b4da834069eb28c98cdf74c0dd7179d3": {
-            "text": "Utilice $ page->edit (\"% s\"); En lugar de $Page->%s; Cuando desea dar salida al valor."
+            "text": "Utilice $ page->edit (\"%s\"); En lugar de $Page->%s; Cuando desea dar salida al valor."
         },
         "a88ea479a9d66a019262dbfd5b4879b7": {
             "text": "Se admite cualquiera de las siguientes opciones de sintaxis (elegir una). El \"1001\" puede ser cualquier ID de p\u00e1gina o ruta de acceso, y el \"...\" puede ser cualquier marcado o c\u00f3digo, normalmente donde se genera el valor de campo."

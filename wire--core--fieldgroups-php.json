@@ -3,7 +3,7 @@
     "textdomain": "wire--core--fieldgroups-php",
     "translations": {
         "abce719a5ff28157e0e92337d8dcf8bd": {
-            "text": "No se puede encontrar el campo:% s"
+            "text": "No se puede encontrar el campo: %s"
         },
         "f1d3c736f589a82f1519c711fd4123c0": {
             "text": "No se puede encontrar el campo para establecer el contexto del campo: %s"

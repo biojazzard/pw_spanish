@@ -3,7 +3,7 @@
     "textdomain": "wire--modules--inputfield--inputfieldurl-module",
     "translations": {
         "34b4cb36f08c1d976a2e58d37d81ce49": {
-            "text": "Iniciar URLs locales con \"\/\" y dejar fuera de la \"% s\" parte."
+            "text": "Iniciar URLs locales con \"\/\" y dejar fuera de la \"%s\" parte."
         },
         "31d3da8cb2ee3f26243a6157ce0e5634": {
             "text": "Error encontrado - por favor comprueba que es una URL v\u00e1lida"
